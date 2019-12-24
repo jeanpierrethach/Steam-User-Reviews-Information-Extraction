@@ -1,0 +1,384 @@
+{'subject': 'environment', 'relation': 'feels', 'object': 'too vibrant'}
+{'subject': 'environment', 'relation': 'feels', 'object': 'vibrant'}
+{'subject': 'environment', 'relation': 'feels', 'object': 'hollow'}
+{'subject': 'Fighting', 'relation': 'is', 'object': 'really worst'}
+{'subject': 'Combat system', 'relation': 'is', 'object': 'still sort of playable in way'}
+{'subject': 'Fighting', 'relation': 'is', 'object': 'worst'}
+{'subject': 'surrounding area', 'relation': 'may seem', 'object': 'nice'}
+{'subject': 'Controls', 'relation': 'feel', 'object': 'heavy'}
+{'subject': 'Controls', 'relation': 'feel', 'object': 'too heavy'}
+{'subject': 'game', 'relation': 'actually Free', 'object': 'Play'}
+{'subject': 'SOOO MUCH BETTER', 'relation': 'Is', 'object': 'game actually Free'}
+{'subject': 'You', 'relation': 'can hunt', 'object': 'ONE animal'}
+{'subject': 'You', 'relation': 'can only hunt', 'object': 'ONE animal'}
+{'subject': 'Stellaris', 'relation': 'is', 'object': 'better'}
+{'subject': 'I', 'relation': 'rarely get', 'object': 'stable connection'}
+{'subject': 'I', 'relation': 'rarely get connection As', 'object': 'Australian'}
+{'subject': 'I', 'relation': 'rarely get', 'object': 'connection to Europe'}
+{'subject': 'I', 'relation': 'rarely get', 'object': 'connection'}
+{'subject': 'I', 'relation': 'rarely get', 'object': 'stable connection to Europe'}
+{'subject': 'loading time', 'relation': 'is', 'object': 'long'}
+{'subject': 'playerbase', 'relation': 'is', 'object': 'just weird'}
+{'subject': 'big problem', 'relation': 'was', 'object': 'connection issues'}
+{'subject': 'problem', 'relation': 'was', 'object': 'connection issues'}
+{'subject': 'big problem', 'relation': 'was', 'object': 'aforementioned connection issues'}
+{'subject': 'problem', 'relation': 'was', 'object': 'aforementioned connection issues'}
+{'subject': 'Moving', 'relation': 'was', 'object': 'rubber banding'}
+{'subject': 'Moving', 'relation': 'was', 'object': 'constant rubber banding'}
+{'subject': 'game', 'relation': 'is', 'object': 'slow'}
+{'subject': 'game', 'relation': 'is full of', 'object': 'bugs'}
+{'subject': 'game', 'relation': 'is still full of', 'object': 'bugs'}
+{'subject': 'You', 'relation': 'are just killing', 'object': 'game'}
+{'subject': 'game', 'relation': 'unique in', 'object': 'its own way'}
+{'subject': 'game', 'relation': 'truly unique in', 'object': 'its own way'}
+{'subject': 'game', 'relation': 'truly unique in', 'object': 'its way'}
+{'subject': 'game', 'relation': 'unique in', 'object': 'its way'}
+{'subject': 'game', 'relation': 'is', 'object': 'free'}
+{'subject': 'item', 'relation': 'quickly become', 'object': 'outdated'}
+{'subject': 'item', 'relation': 'become in', 'object': 'terms of stats'}
+{'subject': 'item', 'relation': 'quickly become in', 'object': 'terms'}
+{'subject': 'item', 'relation': 'become', 'object': 'outdated'}
+{'subject': 'you', 'relation': 'feel with', 'object': 'system of rewards'}
+{'subject': 'you', 'relation': 'feel with', 'object': 'system of constant rewards'}
+{'subject': 'game', 'relation': 'is', 'object': 'repetitive'}
+{'subject': 'I', 'relation': 'realized', 'object': 'little story'}
+{'subject': 'I', 'relation': 'realized', 'object': 'how little story'}
+{'subject': 'I', 'relation': 'was led to', 'object': 'disappointment'}
+{'subject': 'game', 'relation': 'using', 'object': 'cliffhangers'}
+{'subject': 'I', 'relation': 'realized', 'object': 'story'}
+{'subject': 'I', 'relation': 'realized', 'object': 'just little story'}
+{'subject': 'I', 'relation': 'realized', 'object': 'just how little story'}
+{'subject': 'game', 'relation': 'using cliffhangers', 'object': 'keep'}
+{'subject': 'I', 'relation': 'was later led to', 'object': 'disappointment'}
+{'subject': 'I', 'relation': 'was later led', 'object': 'I realized'}
+{'subject': 'I', 'relation': 'was left', 'object': 'quite unsatisfied'}
+{'subject': 'I', 'relation': 'was left', 'object': 'unsatisfied'}
+{'subject': 'ending', 'relation': 'left', 'object': 'me quite disappointed'}
+{'subject': 'ending', 'relation': 'left', 'object': 'me disappointed'}
+{'subject': 'players', 'relation': 'have', 'object': 'trouble with game'}
+{'subject': 'game', 'relation': 'crashed', 'object': 'my progress'}
+{'subject': 'Great concept', 'relation': 'Seems', 'object': 'perfect mix of chess'}
+{'subject': 'concept', 'relation': 'Seems', 'object': 'perfect mix of chess'}
+{'subject': 'game', 'relation': 'Great concept of be', 'object': 'perfect mix'}
+{'subject': 'AI', 'relation': 'is', 'object': 'completely broken'}
+{'subject': 'AI', 'relation': 'is', 'object': 'broken'}
+{'subject': 'you', 'relation': 'only want for', 'object': 'multiplayer'}
+{'subject': 'you', 'relation': 'want for', 'object': 'multiplayer'}
+{'subject': 'Nether', 'relation': 'is', 'object': 'game'}
+{'subject': 'Nether', 'relation': 'is', 'object': 'terrrible game'}
+{'subject': 'Nether', 'relation': 'is', 'object': 'terrrible'}
+{'subject': 'graphics', 'relation': 'are', 'object': 'lower'}
+{'subject': 'it', 'relation': 'play with', 'object': 'lag'}
+{'subject': 'game', 'relation': 'is', 'object': 'glitchy i'}
+{'subject': 'glitchy i', 'relation': 'found', 'object': 'myself'}
+{'subject': 'glitchy i', 'relation': 'found myself in air at', 'object': 'one point'}
+{'subject': 'glitchy i', 'relation': 'found', 'object': 'myself in air'}
+{'subject': 'game', 'relation': 'is', 'object': 'i'}
+{'subject': 'glitchy i', 'relation': 'found myself at', 'object': 'one point'}
+{'subject': 'game', 'relation': 'went on', 'object': 'decline about year'}
+{'subject': 'game', 'relation': 'Unfortunately went on', 'object': 'decline about year'}
+{'subject': 'game', 'relation': 'went on', 'object': 'decline'}
+{'subject': 'game', 'relation': 'went after', 'object': 'release'}
+{'subject': 'game', 'relation': 'Unfortunately went after', 'object': 'release'}
+{'subject': 'game', 'relation': 'Unfortunately went on', 'object': 'decline'}
+{'subject': 'announcement', 'relation': 'was', 'object': 'disappointing'}
+{'subject': 'online multiplayer', 'relation': 'is up unplayable', 'object': 'you live in regions of world'}
+{'subject': 'multiplayer', 'relation': 'is', 'object': 'straight up unplayable'}
+{'subject': 'online multiplayer', 'relation': 'is straight up unplayable with', 'object': 'terrible host migration'}
+{'subject': 'multiplayer', 'relation': 'is unplayable with', 'object': 'host migration'}
+{'subject': 'multiplayer', 'relation': 'is up unplayable', 'object': 'you live in certain regions of world'}
+{'subject': 'online multiplayer', 'relation': 'is up unplayable with', 'object': 'host migration'}
+{'subject': 'multiplayer', 'relation': 'is up unplayable', 'object': 'you live in regions'}
+{'subject': 'multiplayer', 'relation': 'is straight unplayable', 'object': 'you live in regions of world'}
+{'subject': 'online multiplayer', 'relation': 'is unplayable', 'object': 'you live in certain regions'}
+{'subject': 'online multiplayer', 'relation': 'is', 'object': 'up unplayable'}
+{'subject': 'online multiplayer', 'relation': 'is unplayable', 'object': 'you live in regions'}
+{'subject': 'multiplayer', 'relation': 'is', 'object': 'unplayable'}
+{'subject': 'multiplayer', 'relation': 'is unplayable with', 'object': 'terrible host migration'}
+{'subject': 'multiplayer', 'relation': 'is straight up unplayable', 'object': 'you live in certain regions of world'}
+{'subject': 'online multiplayer', 'relation': 'is unplayable with', 'object': 'terrible host migration'}
+{'subject': 'online multiplayer', 'relation': 'is', 'object': 'unplayable'}
+{'subject': 'multiplayer', 'relation': 'is straight up unplayable with', 'object': 'terrible host migration'}
+{'subject': 'multiplayer', 'relation': 'is', 'object': 'up unplayable'}
+{'subject': 'online multiplayer', 'relation': 'is up unplayable with', 'object': 'terrible host migration'}
+{'subject': 'online multiplayer', 'relation': 'is straight up unplayable', 'object': 'you live in certain regions'}
+{'subject': 'multiplayer', 'relation': 'is unplayable', 'object': 'you live in certain regions of world'}
+{'subject': 'online multiplayer', 'relation': 'is straight unplayable', 'object': 'you live in certain regions of world'}
+{'subject': 'multiplayer', 'relation': 'is straight up unplayable', 'object': 'you live in regions'}
+{'subject': 'online multiplayer', 'relation': 'is unplayable', 'object': 'you live in certain regions of world'}
+{'subject': 'online multiplayer', 'relation': 'is', 'object': 'straight unplayable'}
+{'subject': 'online multiplayer', 'relation': 'is straight unplayable with', 'object': 'terrible host migration'}
+{'subject': 'multiplayer', 'relation': 'is straight up unplayable with', 'object': 'host migration'}
+{'subject': 'multiplayer', 'relation': 'is straight unplayable with', 'object': 'terrible host migration'}
+{'subject': 'multiplayer', 'relation': 'is straight up unplayable', 'object': 'you live in certain regions'}
+{'subject': 'online multiplayer', 'relation': 'is unplayable', 'object': 'you live in regions of world'}
+{'subject': 'multiplayer', 'relation': 'is straight up unplayable', 'object': 'you live in regions of world'}
+{'subject': 'online multiplayer', 'relation': 'is straight up unplayable', 'object': 'you live in certain regions of world'}
+{'subject': 'multiplayer', 'relation': 'is unplayable', 'object': 'you live in regions of world'}
+{'subject': 'multiplayer', 'relation': 'is up unplayable', 'object': 'you live in certain regions'}
+{'subject': 'online multiplayer', 'relation': 'is straight unplayable', 'object': 'you live in certain regions'}
+{'subject': 'online multiplayer', 'relation': 'is up unplayable', 'object': 'you live in certain regions of world'}
+{'subject': 'online multiplayer', 'relation': 'is straight unplayable', 'object': 'you live in regions of world'}
+{'subject': 'online multiplayer', 'relation': 'is', 'object': 'straight up unplayable'}
+{'subject': 'online multiplayer', 'relation': 'is unplayable with', 'object': 'host migration'}
+{'subject': 'online multiplayer', 'relation': 'is straight up unplayable', 'object': 'you live in regions of world'}
+{'subject': 'multiplayer', 'relation': 'is straight unplayable', 'object': 'you live in certain regions'}
+{'subject': 'multiplayer', 'relation': 'is unplayable', 'object': 'you live in certain regions'}
+{'subject': 'multiplayer', 'relation': 'is up unplayable with', 'object': 'terrible host migration'}
+{'subject': 'online multiplayer', 'relation': 'is straight unplayable', 'object': 'you live in regions'}
+{'subject': 'online multiplayer', 'relation': 'is straight up unplayable with', 'object': 'host migration'}
+{'subject': 'multiplayer', 'relation': 'is up unplayable with', 'object': 'host migration'}
+{'subject': 'online multiplayer', 'relation': 'is up unplayable', 'object': 'you live in regions'}
+{'subject': 'multiplayer', 'relation': 'is', 'object': 'straight unplayable'}
+{'subject': 'online multiplayer', 'relation': 'is straight up unplayable', 'object': 'you live in regions'}
+{'subject': 'online multiplayer', 'relation': 'is up unplayable', 'object': 'you live in certain regions'}
+{'subject': 'multiplayer', 'relation': 'is straight up unplayable', 'object': 'you live'}
+{'subject': 'multiplayer', 'relation': 'is straight unplayable', 'object': 'you live in certain regions of world'}
+{'subject': 'multiplayer', 'relation': 'is up unplayable', 'object': 'you live in regions of world'}
+{'subject': 'online multiplayer', 'relation': 'is straight unplayable with', 'object': 'host migration'}
+{'subject': 'you', 'relation': 'live in', 'object': 'certain regions of world'}
+{'subject': 'multiplayer', 'relation': 'is straight unplayable', 'object': 'you live in regions'}
+{'subject': 'multiplayer', 'relation': 'is straight unplayable with', 'object': 'host migration'}
+{'subject': 'they', 'relation': "'re", 'object': 'great.Great anime graphics'}
+{'subject': 'you', 'relation': 'can make', 'object': 'Inhouse tournament'}
+{'subject': 'there', 'relation': 'however seems', 'object': 'massive bug'}
+{'subject': 'there', 'relation': 'however seems', 'object': 'bug'}
+{'subject': 'game', 'relation': 'was', 'object': 'good'}
+{'subject': 'game', 'relation': 'was', 'object': 'really good'}
+{'subject': 'there', 'relation': 'seems', 'object': 'massive bug'}
+{'subject': 'there', 'relation': 'seems', 'object': 'bug'}
+{'subject': 'it', 'relation': 'looks', 'object': 'now it looks'}
+{'subject': 'graphics', 'relation': 'arent', 'object': 'good'}
+{'subject': 'graphics', 'relation': 'arent', 'object': 'too good'}
+{'subject': 'gameplay', 'relation': 'is', 'object': 'awful'}
+{'subject': 'servers', 'relation': 'are', 'object': 'just laggy'}
+{'subject': 'servers', 'relation': 'are', 'object': 'laggy'}
+{'subject': 'gameplay', 'relation': 'is', 'object': 'really awful'}
+{'subject': 'it', 'relation': 'is', 'object': 'multiplayer'}
+{'subject': 'it', 'relation': 'get', 'object': 'boring'}
+{'subject': 'i dont', 'relation': 'recomend', 'object': 'it'}
+{'subject': 'it', 'relation': "'s got", 'object': 'really nice graphics'}
+{'subject': 'it', 'relation': "'s got", 'object': 'graphics'}
+{'subject': 'it', 'relation': "'s got", 'object': 'nice graphics'}
+{'subject': 'loot', 'relation': 'is', 'object': 'crap'}
+{'subject': 'characters', 'relation': 'are just plain', 'object': 'taken from B grade movie'}
+{'subject': 'characters', 'relation': 'are plain', 'object': 'taken from B grade movie'}
+{'subject': 'same locations', 'relation': 'doing', 'object': 'pointless side missions'}
+{'subject': 'same locations', 'relation': 'doing', 'object': 'side missions'}
+{'subject': 'locations', 'relation': 'doing', 'object': 'side missions'}
+{'subject': 'locations', 'relation': 'doing', 'object': 'pointless side missions'}
+{'subject': 'you', 'relation': 'need', 'object': 'real money'}
+{'subject': 'game', 'relation': 'is', 'object': 'poorly optimised'}
+{'subject': 'game -10', 'relation': 'is', 'object': 'poorly optimised'}
+{'subject': 'game', 'relation': 'is in', 'object': 'still early access'}
+{'subject': 'game', 'relation': 'is in', 'object': 'early access'}
+{'subject': 'severe trouble', 'relation': 'run on', 'object': 'even its lowest settings'}
+{'subject': 'i', 'relation': 'have', 'object': 'trouble run on even its lowest settings'}
+{'subject': 'i', 'relation': 'have', 'object': 'severe trouble run on its settings'}
+{'subject': 'trouble', 'relation': 'run on', 'object': 'its lowest settings'}
+{'subject': 'i', 'relation': 'have', 'object': 'trouble run on even its settings'}
+{'subject': 'i', 'relation': 'trouble', 'object': 'run on even its lowest settings'}
+{'subject': 'i', 'relation': 'have', 'object': 'severe trouble run on even its lowest settings'}
+{'subject': 'i', 'relation': 'have', 'object': 'trouble run on its lowest settings'}
+{'subject': 'severe trouble', 'relation': 'run on', 'object': 'even its settings'}
+{'subject': 'severe trouble', 'relation': 'run on', 'object': 'its lowest settings'}
+{'subject': 'severe trouble', 'relation': 'run on', 'object': 'its settings'}
+{'subject': 'i', 'relation': 'have', 'object': 'severe trouble run on its lowest settings'}
+{'subject': 'i', 'relation': 'severe trouble', 'object': 'run on its lowest settings'}
+{'subject': 'i', 'relation': 'have', 'object': 'trouble run on its settings'}
+{'subject': 'i', 'relation': 'severe trouble', 'object': 'run on even its lowest settings'}
+{'subject': 'devs', 'relation': 'arehalting addition of', 'object': 'features'}
+{'subject': 'devs', 'relation': 'addition of', 'object': 'features'}
+{'subject': 'Dev team', 'relation': 'address', 'object': 'many issues'}
+{'subject': 'Dev team', 'relation': 'address', 'object': 'issues'}
+{'subject': 'interface', 'relation': 'is designed for', 'object': 'console'}
+{'subject': 'voice acting', 'relation': 'is', 'object': 'terrible'}
+{'subject': 'AI', 'relation': 'is', 'object': 'moronically stupid'}
+{'subject': 'AI', 'relation': 'is', 'object': 'stupid'}
+{'subject': 'voice acting', 'relation': 'is', 'object': 'just terrible'}
+{'subject': 'Character models', 'relation': 'are lousy as', 'object': 'well.I REPEAT'}
+{'subject': 'Character models', 'relation': 'are pretty lousy as', 'object': 'well.I REPEAT'}
+{'subject': 'Character models', 'relation': 'are', 'object': 'lousy'}
+{'subject': 'Character models', 'relation': 'are', 'object': 'pretty lousy'}
+{'subject': 'bomber spam', 'relation': 'is great thing for', 'object': 'game'}
+{'subject': 'bomber spam', 'relation': 'is', 'object': 'great thing'}
+{'subject': 'bomber spam', 'relation': 'is new great thing for', 'object': 'game'}
+{'subject': 'game', 'relation': 'is', 'object': 'obviously failure'}
+{'subject': 'game', 'relation': 'is failure of', 'object': 'Call of Duty clone'}
+{'subject': 'game', 'relation': 'is obviously failure of', 'object': 'Call of Duty clone'}
+{'subject': 'You', 'relation': 'also lack', 'object': 'ability to prestige'}
+{'subject': 'IT', 'relation': 'ONLY HAS', 'object': '2 BULLETS'}
+{'subject': 'YOU', 'relation': 'ALSO LACK ABILITY TO', 'object': 'DO 360 NO SCOPES'}
+{'subject': 'YOU', 'relation': 'LACK ABILITY TO', 'object': 'DO 360 NO SCOPES'}
+{'subject': 'story', 'relation': 'is', 'object': 'absolutely horrible'}
+{'subject': 'story', 'relation': 'is', 'object': 'On side note horrible'}
+{'subject': 'story', 'relation': 'is absolutely horrible On', 'object': 'side note'}
+{'subject': 'story', 'relation': 'is', 'object': 'horrible'}
+{'subject': 'story', 'relation': 'is horrible On', 'object': 'side note'}
+{'subject': 'soundtrack', 'relation': 'is', 'object': 'absolutely horrible'}
+{'subject': 'story', 'relation': 'is', 'object': 'On side note absolutely horrible'}
+{'subject': 'soundtrack', 'relation': 'is horrible On', 'object': 'side note'}
+{'subject': 'soundtrack', 'relation': 'is', 'object': 'horrible'}
+{'subject': 'soundtrack', 'relation': 'is absolutely horrible On', 'object': 'side note'}
+{'subject': 'game', 'relation': 'currently is ruined by', 'object': 'hackers'}
+{'subject': 'game', 'relation': 'is ruined by', 'object': 'hackers'}
+{'subject': 'asia server', 'relation': 'has', 'object': 'hacker'}
+{'subject': 'western server', 'relation': 'too lag', 'object': 'play'}
+{'subject': 'western server', 'relation': 'lag', 'object': 'play'}
+{'subject': 'guy', 'relation': 'is with', 'object': 'speed hack'}
+{'subject': 'they', 'relation': 'are', 'object': 'just ban china major cause for hacking'}
+{'subject': 'they', 'relation': 'are', 'object': 'ban china cause for hacking'}
+{'subject': 'Codemasters', 'relation': 'have taken', 'object': 'grant-bribe'}
+{'subject': 'Codemasters', 'relation': 'buy', 'object': 'platform exclusivity'}
+{'subject': 'Codemasters', 'relation': 'have taken grant-bribe from', 'object': 'Oculus'}
+{'subject': "Codies ' PR team", 'relation': 'fobbing off', 'object': 'questions about Vive compatibility with corporatespeak drivel'}
+{'subject': "Codies ' PR team", 'relation': 'fobbing off', 'object': 'questions about Vive compatibility with evasive corporatespeak drivel'}
+{'subject': "PC platform 's strength", 'relation': 'is', 'object': 'broad compatibility regardless'}
+{'subject': "PC platform 's strength", 'relation': 'is', 'object': 'compatibility'}
+{'subject': "PC platform 's strength", 'relation': 'is', 'object': 'compatibility regardless'}
+{'subject': "PC platform 's strength", 'relation': 'is', 'object': 'broad compatibility'}
+{'subject': 'pvp', 'relation': 'is', 'object': 'horrible'}
+{'subject': 'better weapons', 'relation': 'kill', 'object': 'your opponents'}
+{'subject': 'training facility', 'relation': 'is', 'object': 'game with bots play with'}
+{'subject': 'game', 'relation': 'is very slow at', 'object': 'start'}
+{'subject': 'game', 'relation': 'is', 'object': 'slow'}
+{'subject': 'game', 'relation': 'is', 'object': 'anyway very slow'}
+{'subject': 'game', 'relation': 'is', 'object': 'anyway slow'}
+{'subject': 'game', 'relation': 'is', 'object': 'very slow'}
+{'subject': 'game', 'relation': 'anyway is very slow at', 'object': 'start'}
+{'subject': 'game', 'relation': 'anyway is slow at', 'object': 'start'}
+{'subject': 'game', 'relation': 'is slow at', 'object': 'start'}
+{'subject': 'AWESOME', 'relation': 'started up', 'object': 'game'}
+{'subject': 'game', 'relation': 'become', 'object': 'so unbalanced'}
+{'subject': 'game', 'relation': 'feels', 'object': 'way overhyped'}
+{'subject': 'whole game', 'relation': 'feels', 'object': 'way overhyped'}
+{'subject': 'whole game', 'relation': 'feels', 'object': 'overhyped'}
+{'subject': 'game', 'relation': 'feels', 'object': 'overhyped'}
+{'subject': 'pointless.The graphics', 'relation': 'were', 'object': 'good'}
+{'subject': 'Combat', 'relation': 'is', 'object': 'boring'}
+{'subject': 'city', 'relation': 'were', 'object': 'good though'}
+{'subject': 'pointless.The graphics', 'relation': 'were', 'object': 'good though'}
+{'subject': 'city', 'relation': 'were', 'object': 'good'}
+{'subject': 'graphics', 'relation': 'were', 'object': 'good'}
+{'subject': 'graphics', 'relation': 'were', 'object': 'good though'}
+{'subject': 'many errors', 'relation': 'is with', 'object': 'lock-on system'}
+{'subject': 'large problems', 'relation': 'is with', 'object': 'rolling mechanic'}
+{'subject': 'two new characters', 'relation': 'is with', 'object': 'decent amount of interaction introduced in dlc'}
+{'subject': 'interface', 'relation': 'is', 'object': 'also slightly confusing'}
+{'subject': 'interface', 'relation': 'is', 'object': 'also confusing'}
+{'subject': 'I', 'relation': 'only felt', 'object': 'challenged at one stage in dlc'}
+{'subject': 'I', 'relation': 'really felt', 'object': 'challenged at one stage'}
+{'subject': 'I', 'relation': 'really only felt', 'object': 'challenged on combat at one stage in dlc'}
+{'subject': 'I', 'relation': 'really only felt', 'object': 'challenged on combat at one stage'}
+{'subject': 'I', 'relation': 'really only felt', 'object': 'challenged at one stage in dlc'}
+{'subject': 'I', 'relation': 'only felt', 'object': 'challenged on combat at one stage in dlc'}
+{'subject': 'I', 'relation': 'felt', 'object': 'challenged on combat at one stage'}
+{'subject': 'I', 'relation': 'really felt', 'object': 'challenged on combat at one stage'}
+{'subject': 'I', 'relation': 'really felt', 'object': 'challenged on combat at one stage in dlc'}
+{'subject': 'fallout 4', 'relation': 'has regardless', 'object': 'difficulty issues'}
+{'subject': 'best', 'relation': 'are', 'object': 'few weapons added'}
+{'subject': 'best', 'relation': 'are', 'object': 'new weapons added in dlc'}
+{'subject': 'best', 'relation': 'are', 'object': 'weapons added'}
+{'subject': 'they', 'relation': 'only benefit', 'object': 'energy weapons'}
+{'subject': 'they', 'relation': 'benefit', 'object': 'energy weapons'}
+{'subject': 'they', 'relation': 'fail with', 'object': 'Even modification'}
+{'subject': 'they', 'relation': 'are', 'object': 'non transferable'}
+{'subject': 'dlc', 'relation': 'adds', 'object': 'cool features'}
+{'subject': 'they', 'relation': 'fail with', 'object': 'full modification'}
+{'subject': 'they', 'relation': 'fail with', 'object': 'Even full modification'}
+{'subject': 'I', 'relation': "'m always crashed after", 'object': 'tutorial'}
+{'subject': 'I', 'relation': "'m", 'object': 'why crashed after tutorial'}
+{'subject': 'I', 'relation': "'m", 'object': 'why always crashed after tutorial'}
+{'subject': 'most people', 'relation': 'are OP in', 'object': 'PvP'}
+{'subject': 'attitude', 'relation': 'communicating', 'object': 'absolute minimum'}
+{'subject': 'loot drops', 'relation': 'is alone sign of', 'object': 'completely broken game.I'}
+{'subject': 'models', 'relation': 'are clearly re-textured from', 'object': 'arma games'}
+{'subject': 'models', 'relation': 'are clearly re-textured from', 'object': 'earlier arma games'}
+{'subject': 'models', 'relation': 'are re-textured from', 'object': 'arma games'}
+{'subject': 'models', 'relation': 'are', 'object': 'clearly re-textured'}
+{'subject': 'models', 'relation': 'are re-textured from', 'object': 'earlier arma games'}
+{'subject': 'models', 'relation': 'are', 'object': 're-textured'}
+{'subject': 'good thing', 'relation': 'is', 'object': 'charecter customizer'}
+{'subject': 'most AAA games', 'relation': 'are', 'object': 'quite deep'}
+{'subject': 'auto pilot', 'relation': 'down dumb is', 'object': 'depth of crafting system'}
+{'subject': 'game', 'relation': 'has become', 'object': 'extremely simpler'}
+{'subject': 'game', 'relation': 'has now become', 'object': 'extremely simpler'}
+{'subject': 'It', 'relation': 'didnt', 'object': 'feel like cods played'}
+{'subject': 'It', 'relation': 'didnt', 'object': 'feel like cods i played'}
+{'subject': 'It', 'relation': 'didnt', 'object': 'feel like cods'}
+{'subject': 'it', 'relation': 'now is crappy game with', 'object': 'no near playing feild'}
+{'subject': 'it', 'relation': 'now is crappy game with', 'object': 'no where near playing feild'}
+{'subject': 'it', 'relation': 'now is crappy game with', 'object': 'no near fair playing feild'}
+{'subject': 'it', 'relation': 'now is crappy game with', 'object': 'no where near fair playing feild'}
+{'subject': 'crappy game', 'relation': 'is with', 'object': 'no where near fair playing feild'}
+{'subject': 'grind', 'relation': 'is in', 'object': 'game'}
+{'subject': 'they', 'relation': 'vomiting out DLC', 'object': 'DLC i realise'}
+{'subject': 'they', 'relation': 'vomiting out', 'object': 'DLC'}
+{'subject': 'DLC Quest legit aint', 'relation': 'got nothin on', 'object': 'Payday 2'}
+{'subject': 'DLC Quest aint', 'relation': 'got nothin on', 'object': 'Payday 2'}
+{'subject': 'DLC Quest aint', 'relation': 'got', 'object': 'nothin'}
+{'subject': 'DLC Quest legit aint', 'relation': 'got', 'object': 'nothin'}
+{'subject': 'you', 'relation': 'have got licence ;-RRB-', 'object': 'well made with artstyle'}
+{'subject': 'you', 'relation': 'have got licence ;-RRB- of', 'object': 'course'}
+{'subject': 'you', 'relation': 'have got licence ;-RRB-', 'object': 'made with fantastic artstyle'}
+{'subject': 'you', 'relation': 'have got licence ;-RRB-', 'object': 'made with artstyle'}
+{'subject': 'game', 'relation': 'is', 'object': 'unfair'}
+{'subject': 'game', 'relation': 'is', 'object': 'blatantly unfair'}
+{'subject': 'you', 'relation': 'play', 'object': 'any of better original ones'}
+{'subject': 'you', 'relation': 'play', 'object': 'any of original ones'}
+{'subject': 'Combat', 'relation': 'is now ruined due to', 'object': 'parries'}
+{'subject': 'everything', 'relation': 'is better', 'object': 'unity is'}
+{'subject': 'it', 'relation': 'has become', 'object': 'frustrating'}
+{'subject': 'Far Harbor DLC campaign', 'relation': 'had', 'object': 'decent load content'}
+{'subject': 'Far Harbor DLC campaign', 'relation': 'had', 'object': 'decent load of content'}
+{'subject': 'Far Harbor DLC campaign', 'relation': 'had', 'object': 'load of content'}
+{'subject': 'Far Harbor DLC campaign', 'relation': 'had', 'object': 'load content'}
+{'subject': 'game', 'relation': 'gets', 'object': 'worse'}
+{'subject': 'game unplayable.Lets', 'relation': 'take', 'object': 'plasma guns'}
+{'subject': 'you', 'relation': 'used', 'object': 'able'}
+{'subject': 'Tis', 'relation': 'is because of', 'object': 'updates 1'}
+{'subject': 'Tis', 'relation': 'is because of', 'object': 'previous updates 1'}
+{'subject': 'guns', 'relation': 'equal', 'object': 'less shots'}
+{'subject': 'more guns', 'relation': 'reloading', 'object': 'nerf'}
+{'subject': 'guns', 'relation': 'reloading', 'object': 'nerf'}
+{'subject': 'more guns', 'relation': 'equal', 'object': 'less shots per minute'}
+{'subject': 'you', 'relation': 'can only shot', 'object': '6 plasmas balls'}
+{'subject': 'you', 'relation': 'can shot', 'object': '6 plasmas balls'}
+{'subject': 'you', 'relation': 'maximising', 'object': 'their time at max DPS'}
+{'subject': 'Clerics', 'relation': 'were', 'object': 'hindered by change degree'}
+{'subject': 'Clerics', 'relation': 'were', 'object': 'hindered degree'}
+{'subject': 'Clerics', 'relation': 'were', 'object': 'hindered by change to installment.To'}
+{'subject': 'you', 'relation': 'start off', 'object': 'deprived through entire game'}
+{'subject': 'micro transactions', 'relation': 'were', 'object': 'removed'}
+{'subject': 'game', 'relation': 'maybe depending', 'object': 'they can deal with transactions'}
+{'subject': 'game', 'relation': 'maybe depending', 'object': 'they can deal with micro transactions'}
+{'subject': 'game', 'relation': 'being in', 'object': 'early access'}
+{'subject': 'you', 'relation': 'just earn', 'object': 'new cars'}
+{'subject': 'you', 'relation': 'just earn', 'object': 'equipment upgrades'}
+{'subject': 'you', 'relation': 'just earn', 'object': 'cars'}
+{'subject': 'you', 'relation': 'use', 'object': 'microphone'}
+{'subject': 'they', 'relation': 'basically breach', 'object': 'your privacy'}
+{'subject': 'my fps', 'relation': 'drops to', 'object': 'about 10-20 fps'}
+{'subject': 'my fps', 'relation': 'drops significantly to', 'object': 'about 10-20 fps'}
+{'subject': 'game', 'relation': 'gets', 'object': 'really stale'}
+{'subject': 'game', 'relation': 'gets', 'object': 'stale'}
+{'subject': 'Kinda', 'relation': 'want', 'object': 'F2Pand'}
+{'subject': 'Kinda', 'relation': 'want', 'object': 'free F2Pand like cod GAME'}
+{'subject': 'Kinda', 'relation': 'want', 'object': 'free F2Pand like cod HORRIBLE GAME'}
+{'subject': 'Kinda', 'relation': 'want', 'object': 'new F2Pand like cod GAME'}
+{'subject': 'Kinda', 'relation': 'want', 'object': 'new free F2Pand like cod GAME'}
+{'subject': 'Kinda', 'relation': 'want', 'object': 'new F2Pand like cod HORRIBLE GAME'}
+{'subject': 'Kinda', 'relation': 'want', 'object': 'new free F2Pand like cod HORRIBLE GAME'}
+{'subject': 'Kinda', 'relation': 'want', 'object': 'F2Pand like cod GAME'}
+{'subject': 'Kinda', 'relation': 'want', 'object': 'F2Pand like cod HORRIBLE GAME'}
+{'subject': 'it', 'relation': 'takes time', 'object': 'even get on server'}
+{'subject': 'I', 'relation': 'recieved', 'object': 'constant freezing'}
+{'subject': 'PAY 2 WIN', 'relation': 'updated for', 'object': 'years'}
+{'subject': 'high end computer wont', 'relation': 'properly play', 'object': 'game'}
+{'subject': 'game', 'relation': 'survive', 'object': '1 frame'}
+{'subject': 'game', 'relation': 'even survive', 'object': '1 frame per second'}
+{'subject': 'high end computer wont', 'relation': 'play', 'object': 'game'}
+{'subject': 'end computer wont', 'relation': 'properly play', 'object': 'game'}
+{'subject': 'combat', 'relation': 'is', 'object': 'trash laggy Needs mutiplayer Piece'}
+{'subject': '0/1 combat', 'relation': 'is', 'object': 'trash Needs mutiplayer Piece'}
+{'subject': 'enviornments', 'relation': 'look', 'object': 'great'}
