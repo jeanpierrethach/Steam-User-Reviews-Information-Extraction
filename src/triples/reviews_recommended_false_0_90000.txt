@@ -1,0 +1,1994 @@
+{'subject': '3 days', 'relation': 'making', 'object': 'base'}
+{'subject': 'Man', 'relation': 'spawned in', 'object': 'steel armour'}
+{'subject': 'I', 'relation': 'trusted', 'object': 'you'}
+{'subject': 'Man', 'relation': 'killed', 'object': 'us'}
+{'subject': 'Man', 'relation': 'teleported in', 'object': 'my base'}
+{'subject': 'environment', 'relation': 'feels', 'object': 'too vibrant'}
+{'subject': 'environment', 'relation': 'feels', 'object': 'vibrant'}
+{'subject': 'environment', 'relation': 'feels', 'object': 'hollow'}
+{'subject': 'You', 'relation': 'traded', 'object': 'something original'}
+{'subject': 'You', 'relation': 'traded', 'object': 'something'}
+{'subject': 'E.T. Extra Terrestrial', 'relation': 'failed into', 'object': 'garbage dump like Atari'}
+{'subject': 'E.T. Extra Terrestrial', 'relation': 'failed into', 'object': 'garbage dump'}
+{'subject': 'digital copies', 'relation': 'are', 'object': 'wiped'}
+{'subject': 'they', 'relation': 'has', 'object': 'say'}
+{'subject': 'It', 'relation': 'has', 'object': 'say'}
+{'subject': 'yourself', 'relation': 'buy', 'object': 'Fallout'}
+{'subject': 'someone', 'relation': 'is with', 'object': 'low hours'}
+{'subject': 'Fighting', 'relation': 'is', 'object': 'really worst'}
+{'subject': 'Combat system', 'relation': 'is', 'object': 'still sort of playable in way'}
+{'subject': 'Fighting', 'relation': 'is', 'object': 'worst'}
+{'subject': 'knuckles', 'relation': 'ect', 'object': 'ect.'}
+{'subject': 'This', 'relation': 'is', 'object': 'poor'}
+{'subject': 'It', 'relation': 'runs', 'object': 'well2'}
+{'subject': 'area', 'relation': 'may seem', 'object': 'nice'}
+{'subject': 'surrounding area', 'relation': 'may seem', 'object': 'nice'}
+{'subject': 'Controls', 'relation': 'feel', 'object': 'heavy'}
+{'subject': 'Controls', 'relation': 'feel', 'object': 'too heavy'}
+{'subject': 'he', 'relation': 'drops like', 'object': 'stone'}
+{'subject': 'it', 'relation': 'used to', 'object': 'be3'}
+{'subject': 'stages', 'relation': 'are', 'object': 'just'}
+{'subject': 'It', 'relation': 'bring back', 'object': 'charm'}
+{'subject': 'It', 'relation': 'bring', 'object': 'charm'}
+{'subject': 'I', 'relation': 'wasted', 'object': 'money'}
+{'subject': 'I', 'relation': 'wasted money on', 'object': 'this'}
+{'subject': 'game', 'relation': 'is', 'object': '2/10'}
+{'subject': 'dont', 'relation': 'buy', 'object': 'it'}
+{'subject': 'SOOO MUCH BETTER', 'relation': 'Is', 'object': 'game Free'}
+{'subject': 'game', 'relation': 'Free', 'object': 'Play'}
+{'subject': 'game', 'relation': 'actually Free', 'object': 'Play'}
+{'subject': 'SOOO MUCH BETTER', 'relation': 'Is', 'object': 'game actually Free'}
+{'subject': 'You', 'relation': 'can hunt', 'object': 'ONE animal'}
+{'subject': 'You', 'relation': 'can only hunt', 'object': 'ONE animal'}
+{'subject': 'You can hunt', 'relation': 'is in', 'object': 'game'}
+{'subject': 'rest', 'relation': 'is with', 'object': 'REAL MONEY'}
+{'subject': 'you', 'relation': 'have', 'object': 'buy'}
+{'subject': 'one', 'relation': 'can', 'object': 'can free'}
+{'subject': 'one', 'relation': 'can', 'object': 'How can free'}
+{'subject': 'Hell', 'relation': 'have', 'object': 'pay'}
+{'subject': 'you', 'relation': 'have', 'object': 'pay'}
+{'subject': 'os humanos', 'relation': 'são', 'object': 'lerdos e fracos'}
+{'subject': 'game', 'relation': 'is', 'object': 'waste buy'}
+{'subject': 'Os', 'relation': 'zumbis', 'object': 'são rápidos fortes'}
+{'subject': 'game', 'relation': 'is', 'object': 'waste dont buy'}
+{'subject': 'game', 'relation': 'is', 'object': 'dont'}
+{'subject': 'Stellaris', 'relation': 'is', 'object': 'better'}
+{'subject': 'WTF', 'relation': 'CRASHING', 'object': 'PLZ FIXXXXXXXXXXXXXXXXXXXXXXXXX USED'}
+{'subject': 'American', 'relation': 'leaving', 'object': 'only European servers'}
+{'subject': 'North American', 'relation': 'leaving', 'object': 'servers'}
+{'subject': 'American', 'relation': 'leaving', 'object': 'servers'}
+{'subject': 'American', 'relation': 'leaving', 'object': 'only servers'}
+{'subject': 'North American', 'relation': 'leaving', 'object': 'only European servers'}
+{'subject': 'American', 'relation': 'leaving', 'object': 'European servers'}
+{'subject': 'North American', 'relation': 'leaving', 'object': 'only servers'}
+{'subject': 'North American', 'relation': 'leaving', 'object': 'European servers'}
+{'subject': 'I', 'relation': 'rarely get', 'object': 'stable connection'}
+{'subject': 'I', 'relation': 'rarely get connection As', 'object': 'Australian'}
+{'subject': 'I', 'relation': 'get', 'object': 'stable connection'}
+{'subject': 'I', 'relation': 'get', 'object': 'connection'}
+{'subject': 'I', 'relation': 'get', 'object': 'stable connection to Europe'}
+{'subject': 'I', 'relation': 'get', 'object': 'connection to Europe'}
+{'subject': 'I', 'relation': 'rarely get', 'object': 'connection to Europe'}
+{'subject': 'I', 'relation': 'rarely get', 'object': 'connection'}
+{'subject': 'I', 'relation': 'rarely get', 'object': 'stable connection to Europe'}
+{'subject': 'I', 'relation': 'get connection As', 'object': 'Australian'}
+{'subject': 'I', 'relation': 'managed', 'object': 'get'}
+{'subject': 'I', 'relation': 'managed', 'object': 'get into game'}
+{'subject': 'I', 'relation': 'get into', 'object': 'game'}
+{'subject': 'It', 'relation': 'looks', 'object': 'okay'}
+{'subject': 'loading time', 'relation': 'is long', 'object': 'game looks'}
+{'subject': 'loading time', 'relation': 'is', 'object': 'long'}
+{'subject': 'loading time', 'relation': 'is long', 'object': 'little'}
+{'subject': 'loading time', 'relation': 'is long', 'object': 'game looks like'}
+{'subject': 'they', 'relation': 'had first/last', 'object': 'names'}
+{'subject': 'playerbase', 'relation': 'is', 'object': 'just weird'}
+{'subject': 'playerbase', 'relation': 'is', 'object': 'Maybe weird'}
+{'subject': 'playerbase', 'relation': 'is', 'object': 'Maybe just weird'}
+{'subject': 'playerbase', 'relation': 'is', 'object': 'weird'}
+{'subject': 'big problem', 'relation': 'was', 'object': 'connection issues'}
+{'subject': 'problem', 'relation': 'was', 'object': 'connection issues'}
+{'subject': 'big problem', 'relation': 'was', 'object': 'aforementioned connection issues'}
+{'subject': 'problem', 'relation': 'was', 'object': 'aforementioned connection issues'}
+{'subject': 'I', 'relation': 'move', 'object': 'to.Don t'}
+{'subject': 'Moving', 'relation': 'was', 'object': 'rubber banding'}
+{'subject': 'it', 'relation': 'looks like', 'object': 'decent game'}
+{'subject': 'Moving', 'relation': 'was', 'object': 'constant rubber banding'}
+{'subject': 'I', 'relation': 'get', 'object': 'me wrong'}
+{'subject': 'it', 'relation': 'looks like', 'object': 'game'}
+{'subject': 'I', 'relation': 'was trying', 'object': 'get'}
+{'subject': 'I', 'relation': "'d play", 'object': 'this'}
+{'subject': 'i', 'relation': "'d recommend game", 'object': 'were servers'}
+{'subject': 'i', 'relation': "'d recommend game", 'object': 'were American servers'}
+{'subject': 'i', 'relation': "'d recommend", 'object': 'game'}
+{'subject': 'i', 'relation': "'d recommend game", 'object': 'were North American servers'}
+{'subject': 'It', 'relation': 'has', 'object': 'awesome'}
+{'subject': 'I', 'relation': 'will find', 'object': 'you'}
+{'subject': 'game', 'relation': 'is', 'object': 'worse'}
+{'subject': 'talk', 'relation': 'starting', 'object': 'game'}
+{'subject': 'game', 'relation': 'is', 'object': 'slow'}
+{'subject': 'it', 'relation': 'would', 'object': 'would amazing'}
+{'subject': 'I', 'relation': 'looked forward to', 'object': 'game shining'}
+{'subject': 'I', 'relation': 'really looked to', 'object': 'game'}
+{'subject': 'I', 'relation': 'looked to', 'object': 'game'}
+{'subject': 'I', 'relation': 'looked to', 'object': 'game shining'}
+{'subject': 'I', 'relation': 'really looked to', 'object': 'game shining'}
+{'subject': 'I', 'relation': 'really looked forward to', 'object': 'game shining'}
+{'subject': 'I', 'relation': 'looked forward to', 'object': 'game'}
+{'subject': 'I', 'relation': 'really looked forward to', 'object': 'game'}
+{'subject': 'new update u', 'relation': 'now destroyed', 'object': 'rocke tjumper'}
+{'subject': 'update u', 'relation': 'destroyed', 'object': 'rocke tjumper'}
+{'subject': 'new update u', 'relation': 'destroyed', 'object': 'rocke tjumper'}
+{'subject': 'pyros', 'relation': 'are', 'object': 'too overpowered'}
+{'subject': 'pyros', 'relation': 'are', 'object': 'overpowered'}
+{'subject': 'update u', 'relation': 'now destroyed', 'object': 'rocke tjumper'}
+{'subject': '1 hour', 'relation': 'just find', 'object': 'casual server.The pyro'}
+{'subject': 'I', 'relation': 'kill', 'object': 'soldier'}
+{'subject': '1 hour', 'relation': 'find', 'object': 'casual server.The pyro'}
+{'subject': 'game crash fasterlol 深夜的时候匹配会遇到derank的智障', 'relation': 'have', 'object': 'fun'}
+{'subject': 'game crash fasterlol 深夜的时候匹配会遇到derank的智障', 'relation': 'just have', 'object': 'fun'}
+{'subject': 'game crash fasterlol 深夜的时候匹配会遇到derank的智障', 'relation': 'holding down', 'object': 'mouse one.And'}
+{'subject': 'times.Now', 'relation': 'wait', 'object': '1 hour'}
+{'subject': 'i miss', 'relation': 'is', 'object': 'too overpowed'}
+{'subject': 'new update', 'relation': 'makes', 'object': 'game crash fasterlol 深夜的时候匹配会遇到derank的智障'}
+{'subject': 'i miss', 'relation': 'is', 'object': 'just overpowed'}
+{'subject': 'times.Now', 'relation': 'got', 'object': 'wait'}
+{'subject': '1 hour', 'relation': 'find', 'object': 'server.The pyro'}
+{'subject': '1 hour', 'relation': 'just find', 'object': 'server.The pyro'}
+{'subject': 'new update', 'relation': 'makes game crash fasterlol 深夜的时候匹配会遇到derank的智障 in', 'object': 'tf2'}
+{'subject': 'old times.Now', 'relation': 'got', 'object': 'wait'}
+{'subject': 'i miss', 'relation': 'is', 'object': 'just too overpowed'}
+{'subject': 'i miss', 'relation': 'is', 'object': 'overpowed'}
+{'subject': 'old times.Now', 'relation': 'wait', 'object': '1 hour'}
+{'subject': 'fun', 'relation': 'As 简直无脑刷刷刷 is', 'object': 'Its Big Microtransaction festIt'}
+{'subject': 'Hours', 'relation': 'Breaking blocks', 'object': 'get atleast 10 Coins'}
+{'subject': 'Hours', 'relation': 'Breaking', 'object': 'blocks'}
+{'subject': 'you', 'relation': 'buy', 'object': 'money'}
+{'subject': 'money', 'relation': 'spend', 'object': 'Hours'}
+{'subject': 'Hours', 'relation': 'Breaking blocks', 'object': 'get'}
+{'subject': 'you', 'relation': 'can take', 'object': 'Paying approach'}
+{'subject': 'you', 'relation': 'can take', 'object': 'approach'}
+{'subject': 'I', 'relation': "'d", 'object': "'d angry"}
+{'subject': 'someone', 'relation': 'put', 'object': 'it'}
+{'subject': 'i', 'relation': 'buy', 'object': 'it'}
+{'subject': 'I', 'relation': "'d", 'object': "'d happy.Or angry"}
+{'subject': 'someone', 'relation': 'can calculate', 'object': 'price'}
+{'subject': 'it', 'relation': 'had', 'object': 'items'}
+{'subject': 'warframe', 'relation': 'have shown that.Due in', 'object': 'time'}
+{'subject': 'warframe', 'relation': 'have shown at', 'object': 'point'}
+{'subject': 'warframe', 'relation': 'have shown that.Due at', 'object': 'point'}
+{'subject': 'warframe', 'relation': 'have shown', 'object': 'that.Due to rights'}
+{'subject': 'case', 'relation': 'is', 'object': 'completed'}
+{'subject': 'warframe', 'relation': 'have shown', 'object': 'that.Due to legal rights'}
+{'subject': 'conversations', 'relation': 'support', 'object': 'completed'}
+{'subject': 'warframe', 'relation': 'have shown', 'object': 'that.Due'}
+{'subject': 'i', 'relation': "'ve had between", 'object': 'paypal'}
+{'subject': 'warframe', 'relation': 'that.Due to', 'object': 'rights'}
+{'subject': 'warframe', 'relation': 'have shown in', 'object': 'time'}
+{'subject': 'warframe', 'relation': 'that.Due to', 'object': 'legal rights'}
+{'subject': 'people', 'relation': 'are', 'object': 'aware'}
+{'subject': 'i', 'relation': 'kept', 'object': 'dying over'}
+{'subject': 'i', 'relation': 'kept', 'object': 'dying'}
+{'subject': 'i', 'relation': 'said', 'object': 'its'}
+{'subject': 'i', 'relation': 'kept by', 'object': 'people'}
+{'subject': 'i', 'relation': 'need', 'object': 'survive'}
+{'subject': 'i', 'relation': 'survive on', 'object': 'it'}
+{'subject': 'i', 'relation': 'need', 'object': 'survive i dont like game because1'}
+{'subject': 'i', 'relation': 'need', 'object': 'survive on it'}
+{'subject': 'i', 'relation': 'need', 'object': 'survive on it i dont'}
+{'subject': 'i', 'relation': 'find', 'object': 'stuff'}
+{'subject': '1 time', 'relation': 'is with', 'object': 'revolver'}
+{'subject': 'i', 'relation': 'need', 'object': 'survive i dont'}
+{'subject': 'i', 'relation': 'need', 'object': 'survive on it i dont like game because1'}
+{'subject': 'i', 'relation': 'so find', 'object': 'stuff'}
+{'subject': 'i', 'relation': 'survive like', 'object': 'game because1'}
+{'subject': 'i', 'relation': 'need', 'object': 'survive like game because1'}
+{'subject': 'i', 'relation': 'need', 'object': 'survive on it like game because1'}
+{'subject': 'game', 'relation': 'are', 'object': 'lag'}
+{'subject': 'counting', 'relation': 'buying', 'object': 'game'}
+{'subject': 'It', 'relation': 'has', 'object': 'scam'}
+{'subject': 'HACKERS HACKERS HACKERS DEVS', 'relation': 'ARNT', 'object': '♥'}
+{'subject': 'game', 'relation': 'is full of', 'object': 'bugs'}
+{'subject': 'game', 'relation': 'is', 'object': 'still full'}
+{'subject': 'game', 'relation': 'is', 'object': 'full'}
+{'subject': 'game', 'relation': 'is still full of', 'object': 'bugs'}
+{'subject': 'Today i', 'relation': 'tamed Argy for', 'object': '9 hours only it fall'}
+{'subject': 'Today i', 'relation': 'tamed Argy for', 'object': '9 hours it fall through map'}
+{'subject': 'You', 'relation': 'can lose', 'object': 'hours'}
+{'subject': 'You', 'relation': 'can lose hours with', 'object': '♥'}
+{'subject': 'You', 'relation': 'can easily lose', 'object': 'hours'}
+{'subject': 'You', 'relation': 'can easily lose hours with', 'object': 'stupid ♥'}
+{'subject': 'Today i', 'relation': 'tamed Argy for', 'object': '9 hours it fall'}
+{'subject': 'Today i', 'relation': 'tamed Argy for', 'object': '9 hours only it fall through map'}
+{'subject': 'Today i', 'relation': 'tamed Argy for', 'object': '9 hours it fall within 20 mins'}
+{'subject': 'Today i', 'relation': 'tamed', 'object': 'Argy'}
+{'subject': 'Today i', 'relation': 'tamed Argy for', 'object': '9 hours only it fall through map within 20 mins'}
+{'subject': 'You', 'relation': 'can easily lose hours with', 'object': '♥'}
+{'subject': 'You', 'relation': 'can lose hours with', 'object': 'stupid ♥'}
+{'subject': 'Today i', 'relation': 'tamed Argy for', 'object': '9 hours it fall through map within 20 mins'}
+{'subject': 'Today i', 'relation': 'tamed Argy for', 'object': '9 hours only it fall within 20 mins'}
+{'subject': 'Super', 'relation': 'refunded', 'object': 'game'}
+{'subject': 'Super', 'relation': 'refunded game within', 'object': '90 minutes'}
+{'subject': 'people', 'relation': 'is in', 'object': 'big clan'}
+{'subject': 'you', 'relation': 'cant come into', 'object': 'wipe'}
+{'subject': 'you', 'relation': 'come into', 'object': 'wipe'}
+{'subject': 'It', 'relation': 'is', 'object': 'race'}
+{'subject': 'It', 'relation': 'is', 'object': 'basically race'}
+{'subject': 'We', 'relation': 'want', 'object': 'Rust back'}
+{'subject': 'We', 'relation': 'want', 'object': 'Rust'}
+{'subject': 'GC', 'relation': 'was', 'object': 'bought more frequently'}
+{'subject': 'GC', 'relation': 'was', 'object': 'bought more frequently than your crrates'}
+{'subject': 'you', 'relation': 'was', 'object': 'bought more frequently than your crrates'}
+{'subject': 'you', 'relation': 'was', 'object': 'bought'}
+{'subject': 'you', 'relation': 'was', 'object': 'bought frequently'}
+{'subject': 'you', 'relation': 'was', 'object': 'bought frequently than your crrates'}
+{'subject': 'GC', 'relation': 'was', 'object': 'bought frequently than your crrates'}
+{'subject': 'GC', 'relation': 'was', 'object': 'bought frequently'}
+{'subject': 'you', 'relation': 'was', 'object': 'bought more frequently'}
+{'subject': 'GC', 'relation': 'was', 'object': 'bought'}
+{'subject': 'you', 'relation': 'get', 'object': 'steaks'}
+{'subject': 'GC', 'relation': 'check.Removal of is', 'object': 'pure greed'}
+{'subject': 'you', 'relation': 'get', 'object': 'vegetables'}
+{'subject': 'you', 'relation': 'get', 'object': 'fruits'}
+{'subject': 'you', 'relation': 'get', 'object': 'chicken'}
+{'subject': 'You', 'relation': 'are killing', 'object': 'game'}
+{'subject': 'You', 'relation': 'are just killing', 'object': 'game'}
+{'subject': 'It', 'relation': 'been', 'object': 'could have avoided'}
+{'subject': 'It', 'relation': 'been', 'object': 'could have all avoided'}
+{'subject': 'fun', 'relation': 'trying to', 'object': 'to stand'}
+{'subject': 'game', 'relation': 'unique in', 'object': 'its own way'}
+{'subject': 'game', 'relation': 'truly unique in', 'object': 'its own way'}
+{'subject': 'game', 'relation': 'truly unique in', 'object': 'its way'}
+{'subject': 'game', 'relation': 'unique in', 'object': 'its way'}
+{'subject': 'game', 'relation': 'is', 'object': 'free'}
+{'subject': 'You', 'relation': 'can deassemble', 'object': 'accessory'}
+{'subject': 'problem', 'relation': 'is with', 'object': 'game'}
+{'subject': 'e.g. Shadow Archers', 'relation': 'will receive', 'object': 'bows'}
+{'subject': 'e.g. Shadow Archers', 'relation': 'will ONLY receive', 'object': 'bows'}
+{'subject': 'none', 'relation': 'actually change', 'object': 'way'}
+{'subject': 'none matter', 'relation': 'give', 'object': 'feeling of variety'}
+{'subject': 'none', 'relation': 'change', 'object': 'way'}
+{'subject': 'way', 'relation': 'none of', 'object': 'them'}
+{'subject': 'none', 'relation': 'actually change way on', 'object': 'your class'}
+{'subject': 'you', 'relation': 'are', 'object': 'pre-assigned'}
+{'subject': 'none', 'relation': 'change way on', 'object': 'your class'}
+{'subject': 'you', 'relation': 'considered', 'object': 'good at time'}
+{'subject': 'you', 'relation': 'considered', 'object': 'good'}
+{'subject': 'item', 'relation': 'quickly become in', 'object': 'terms of stats'}
+{'subject': 'you', 'relation': 'considered', 'object': 'really good at time'}
+{'subject': 'item', 'relation': 'quickly become', 'object': 'outdated'}
+{'subject': 'item', 'relation': 'become in', 'object': 'terms of stats'}
+{'subject': 'item', 'relation': 'quickly become in', 'object': 'terms'}
+{'subject': 'item', 'relation': 'become', 'object': 'outdated'}
+{'subject': 'item', 'relation': 'become in', 'object': 'terms'}
+{'subject': 'you', 'relation': 'considered', 'object': 'really good'}
+{'subject': 'you', 'relation': 'feel with', 'object': 'system'}
+{'subject': 'you', 'relation': 'feel', 'object': 'good'}
+{'subject': 'game', 'relation': 'tries', 'object': 'make'}
+{'subject': 'you', 'relation': 'feel with', 'object': 'system of rewards'}
+{'subject': 'you', 'relation': 'feel with', 'object': 'system of constant rewards'}
+{'subject': 'game', 'relation': 'is', 'object': 'repetitive'}
+{'subject': 'you', 'relation': 'MUST', 'object': 'complete quest move'}
+{'subject': 'you', 'relation': 'MUST', 'object': 'quest move onto next one'}
+{'subject': 'you', 'relation': 'MUST', 'object': 'complete quest move onto next one'}
+{'subject': 'you', 'relation': 'MUST', 'object': 'complete assigned quest move onto next one'}
+{'subject': 'you', 'relation': 'MUST', 'object': 'assigned quest move'}
+{'subject': 'you', 'relation': 'MUST', 'object': 'complete assigned quest move'}
+{'subject': 'you', 'relation': 'MUST', 'object': 'assigned quest move onto next one'}
+{'subject': 'you', 'relation': 'MUST', 'object': 'quest move'}
+{'subject': 'entire game', 'relation': 'is generated', 'object': 'making'}
+{'subject': 'game', 'relation': 'is randomly generated', 'object': 'making'}
+{'subject': 'it', 'relation': "'s just randomly generated", 'object': 'dungeons'}
+{'subject': 'it', 'relation': "'s just randomly generated", 'object': 'terrain'}
+{'subject': 'there', 'relation': 'feel', 'object': "'s nothing explore"}
+{'subject': 'it', 'relation': "'s generated", 'object': 'terrain'}
+{'subject': 'there', 'relation': 'feel', 'object': "'s nothing actually explore"}
+{'subject': 'entire game', 'relation': 'is', 'object': 'randomly generated'}
+{'subject': 'game', 'relation': 'is generated', 'object': 'making'}
+{'subject': 'it', 'relation': "'s just generated", 'object': 'dungeons'}
+{'subject': 'game', 'relation': 'is', 'object': 'generated'}
+{'subject': 'it', 'relation': "'s randomly generated", 'object': 'dungeons'}
+{'subject': 'it', 'relation': "'s generated", 'object': 'dungeons'}
+{'subject': 'it', 'relation': "'s randomly generated", 'object': 'terrain'}
+{'subject': 'entire game', 'relation': 'is', 'object': 'generated'}
+{'subject': 'it', 'relation': "'s just generated", 'object': 'terrain'}
+{'subject': 'game', 'relation': 'is', 'object': 'randomly generated'}
+{'subject': 'entire game', 'relation': 'is randomly generated', 'object': 'making'}
+{'subject': 'your', 'relation': 'height', 'object': 'etc.'}
+{'subject': 'your', 'relation': 'height', 'object': 'width'}
+{'subject': 'Things', 'relation': 'is in', 'object': 'tutorial'}
+{'subject': 'Things', 'relation': 'be out of', 'object': 'order'}
+{'subject': 'Things', 'relation': 'seem', 'object': 'order'}
+{'subject': 'it', 'relation': 'comes to', 'object': 'rarity tag'}
+{'subject': 'drops', 'relation': 'are', 'object': 'marked'}
+{'subject': 'single item', 'relation': 'marked as', 'object': 'common'}
+{'subject': 'drops', 'relation': 'are marked as', 'object': 'uncommon/rare'}
+{'subject': 'it', 'relation': 'comes to', 'object': 'rarity tag of item'}
+{'subject': 'item', 'relation': 'marked as', 'object': 'common'}
+{'subject': 'game', 'relation': 'does', 'object': 'make'}
+{'subject': 'I', 'relation': 'have', 'object': 'say'}
+{'subject': 'I', 'relation': 'Sadly have', 'object': 'say'}
+{'subject': 'I', 'relation': 'was', 'object': 'later led'}
+{'subject': 'I', 'relation': 'was led', 'object': 'I realized'}
+{'subject': 'I', 'relation': 'realized', 'object': 'little story'}
+{'subject': 'I', 'relation': 'realized', 'object': 'how little story'}
+{'subject': 'I', 'relation': 'was led to', 'object': 'disappointment'}
+{'subject': 'game', 'relation': 'using', 'object': 'cliffhangers'}
+{'subject': 'I', 'relation': 'realized', 'object': 'story'}
+{'subject': 'I', 'relation': 'realized', 'object': 'just little story'}
+{'subject': 'I', 'relation': 'realized', 'object': 'just how little story'}
+{'subject': 'game', 'relation': 'using cliffhangers', 'object': 'keep'}
+{'subject': 'I', 'relation': 'was later led to', 'object': 'disappointment'}
+{'subject': 'I', 'relation': 'was later led', 'object': 'I realized'}
+{'subject': 'I', 'relation': 'was', 'object': 'led'}
+{'subject': 'I', 'relation': 'was', 'object': 'fine'}
+{'subject': 'I', 'relation': 'was', 'object': 'left'}
+{'subject': 'I', 'relation': 'was left', 'object': 'quite unsatisfied'}
+{'subject': 'I', 'relation': 'was fine with', 'object': 'this'}
+{'subject': 'I', 'relation': 'was left', 'object': 'unsatisfied'}
+{'subject': 'I', 'relation': 'completed', 'object': 'game'}
+{'subject': 'I', 'relation': 'swung to', 'object': 'stage hoping'}
+{'subject': 'me', 'relation': 'eager', 'object': 'see'}
+{'subject': 'game', 'relation': 'made', 'object': 'me eager'}
+{'subject': 'I', 'relation': 'swung from', 'object': 'stage'}
+{'subject': 'game', 'relation': 'made', 'object': 'me very eager'}
+{'subject': 'I', 'relation': 'swung to', 'object': 'stage'}
+{'subject': 'I', 'relation': 'get', 'object': 'dialogue'}
+{'subject': 'me', 'relation': 'very eager', 'object': 'see'}
+{'subject': 'me', 'relation': 'quite disappointed', 'object': 'I saw'}
+{'subject': 'me', 'relation': 'disappointed', 'object': 'I saw'}
+{'subject': 'developer', 'relation': 'done', 'object': 'more with game'}
+{'subject': 'developer', 'relation': 'done', 'object': 'much more'}
+{'subject': 'developer', 'relation': 'done', 'object': 'much more with game'}
+{'subject': 'developer', 'relation': 'done', 'object': 'more'}
+{'subject': 'ending', 'relation': 'left', 'object': 'me quite disappointed'}
+{'subject': 'ending', 'relation': 'left', 'object': 'me disappointed'}
+{'subject': 'players', 'relation': 'have', 'object': 'trouble with game'}
+{'subject': 'trouble', 'relation': 'is with', 'object': 'game'}
+{'subject': 'players', 'relation': 'have', 'object': 'trouble'}
+{'subject': 'it', 'relation': 'has', 'object': 'fun'}
+{'subject': 'You', 'relation': 'could get', 'object': 'something'}
+{'subject': 'Tower defence', 'relation': 'is with', 'object': 'rather standard level design'}
+{'subject': 'you', 'relation': 'sell/build to', 'object': 'mess with pathing'}
+{'subject': 'some', 'relation': 'require', 'object': 'you'}
+{'subject': 'you', 'relation': 'sell/build to', 'object': 'mess with pathing of attackers.Game'}
+{'subject': 'mess', 'relation': 'is with', 'object': 'pathing of attackers.Game'}
+{'subject': 'I', 'relation': 'was on', 'object': 'my 2 achievements'}
+{'subject': 'you', 'relation': 'sell/build to', 'object': 'mess'}
+{'subject': 'I', 'relation': 'was on', 'object': 'my last 2 achievements'}
+{'subject': 'game', 'relation': 'crashed', 'object': 'my progress'}
+{'subject': 'concept', 'relation': 'be', 'object': 'perfect mix'}
+{'subject': 'Great concept', 'relation': 'Seems', 'object': 'perfect mix of chess'}
+{'subject': 'Great concept', 'relation': 'Seems', 'object': 'mix'}
+{'subject': 'concept', 'relation': 'be mix of', 'object': 'chess'}
+{'subject': 'concept', 'relation': 'Seems', 'object': 'perfect mix of chess'}
+{'subject': 'concept', 'relation': 'be', 'object': 'perfect'}
+{'subject': 'concept', 'relation': 'Seems', 'object': 'mix'}
+{'subject': 'concept', 'relation': 'be perfect mix of', 'object': 'chess'}
+{'subject': 'game', 'relation': 'Great concept of be', 'object': 'perfect mix'}
+{'subject': 'Great concept', 'relation': 'be mix of', 'object': 'chess'}
+{'subject': 'game', 'relation': 'concept of be', 'object': 'mix'}
+{'subject': 'game', 'relation': 'Great concept of be', 'object': 'mix'}
+{'subject': 'Great concept', 'relation': 'be perfect mix of', 'object': 'chess'}
+{'subject': 'Great concept', 'relation': 'be', 'object': 'mix'}
+{'subject': 'Great concept', 'relation': 'Seems', 'object': 'mix of chess'}
+{'subject': 'concept', 'relation': 'be', 'object': 'mix'}
+{'subject': 'game', 'relation': 'concept of be', 'object': 'perfect mix'}
+{'subject': 'concept', 'relation': 'Seems', 'object': 'mix of chess'}
+{'subject': 'concept', 'relation': 'Seems', 'object': 'perfect mix'}
+{'subject': 'Great concept', 'relation': 'Seems', 'object': 'perfect mix'}
+{'subject': 'Great concept', 'relation': 'be', 'object': 'perfect mix'}
+{'subject': 'AI', 'relation': 'is', 'object': 'completely broken'}
+{'subject': 'AI', 'relation': 'is', 'object': 'broken'}
+{'subject': 'Misses', 'relation': 'seem', 'object': 'happen'}
+{'subject': 'Misses', 'relation': 'seem', 'object': 'happen far'}
+{'subject': 'Misses', 'relation': 'did', 'object': 'work'}
+{'subject': 'you', 'relation': 'only want', 'object': 'it'}
+{'subject': 'you', 'relation': 'only want for', 'object': 'multiplayer'}
+{'subject': 'you', 'relation': 'want', 'object': 'it'}
+{'subject': 'you', 'relation': 'want for', 'object': 'multiplayer'}
+{'subject': 'IT', 'relation': "'S", 'object': 'JUSTAN UNREAL TOURNAMENT-ESQUE GAME'}
+{'subject': 'ANDARBITRARY LIMITATIONS', 'relation': 'PLACED ON', 'object': 'VISUAL CUSTOMISATION'}
+{'subject': 'IT', 'relation': "'S", 'object': 'ESSENTIALLY JUSTAN TOURNAMENT-ESQUE GAME'}
+{'subject': 'IT', 'relation': "'S", 'object': 'JUSTAN TOURNAMENT-ESQUE GAME'}
+{'subject': 'YOU', 'relation': 'WOULD PLAY GAME', 'object': 'ALL FUN SPEED REMOVED'}
+{'subject': 'IT', 'relation': "'S", 'object': 'ESSENTIALLY JUSTAN UNREAL TOURNAMENT-ESQUE GAME'}
+{'subject': 'IT', 'relation': "'S", 'object': 'WHEN ESSENTIALLY JUSTAN TOURNAMENT-ESQUE GAME'}
+{'subject': 'IT', 'relation': "'S", 'object': 'WHEN ESSENTIALLY JUSTAN UNREAL TOURNAMENT-ESQUE GAME'}
+{'subject': 'IT', 'relation': "'S", 'object': 'WHEN JUSTAN TOURNAMENT-ESQUE GAME'}
+{'subject': 'IT', 'relation': "'S", 'object': 'UNREAL TOURNAMENT-ESQUE GAME'}
+{'subject': 'IT', 'relation': "'S", 'object': 'TOURNAMENT-ESQUE GAME'}
+{'subject': 'IT', 'relation': "'S", 'object': 'WHEN TOURNAMENT-ESQUE GAME'}
+{'subject': 'YOU', 'relation': 'WOULD PLAY GAME', 'object': 'FUN SPEED REMOVED'}
+{'subject': 'IT', 'relation': "'S", 'object': 'WHEN JUSTAN UNREAL TOURNAMENT-ESQUE GAME'}
+{'subject': 'I', 'relation': 'DINNAE', 'object': 'KNOW'}
+{'subject': 'IT', 'relation': "'S", 'object': 'WHEN UNREAL TOURNAMENT-ESQUE GAME'}
+{'subject': 'YOU', 'relation': 'WOULD', 'object': 'PLAY GAME'}
+{'subject': 'Nether', 'relation': 'is', 'object': 'game'}
+{'subject': 'Nether', 'relation': 'is', 'object': 'terrrible game'}
+{'subject': 'Nether', 'relation': 'is', 'object': 'terrrible'}
+{'subject': 'amount', 'relation': 'im', 'object': 'Australia'}
+{'subject': 'amount', 'relation': 'im', 'object': 'my area'}
+{'subject': 'graphics', 'relation': 'are', 'object': 'lower'}
+{'subject': 'amount', 'relation': 'especially im', 'object': 'my area'}
+{'subject': 'low amount', 'relation': 'especially im', 'object': 'Australia'}
+{'subject': 'low amount', 'relation': 'im', 'object': 'Australia'}
+{'subject': 'low amount', 'relation': 'im', 'object': 'my area'}
+{'subject': 'my area', 'relation': 'amount of', 'object': 'servers'}
+{'subject': 'my', 'relation': 'area', 'object': 'Australia'}
+{'subject': 'my area', 'relation': 'low amount of', 'object': 'servers'}
+{'subject': 'amount', 'relation': 'especially im', 'object': 'Australia'}
+{'subject': 'low amount', 'relation': 'especially im', 'object': 'my area'}
+{'subject': 'it', 'relation': 'play with', 'object': 'lag'}
+{'subject': 'game', 'relation': 'is', 'object': 'glitchy i'}
+{'subject': 'glitchy i', 'relation': 'found', 'object': 'myself'}
+{'subject': 'i', 'relation': 'found myself in air at', 'object': 'one point'}
+{'subject': 'i', 'relation': 'found', 'object': 'myself in air'}
+{'subject': 'i', 'relation': 'found myself at', 'object': 'one point'}
+{'subject': 'glitchy i', 'relation': 'found myself in air at', 'object': 'one point'}
+{'subject': 'glitchy i', 'relation': 'found', 'object': 'myself in air'}
+{'subject': 'game', 'relation': 'is', 'object': 'i'}
+{'subject': 'glitchy i', 'relation': 'found myself at', 'object': 'one point'}
+{'subject': 'i', 'relation': 'found', 'object': 'myself'}
+{'subject': 'i', 'relation': 'bought', 'object': 'gold edition'}
+{'subject': 'i wish', 'relation': 'could have', 'object': 'refund i dont what say'}
+{'subject': 'I', 'relation': 'bying', 'object': 'game'}
+{'subject': 'game', 'relation': 'went on', 'object': 'decline about year'}
+{'subject': 'game', 'relation': 'Unfortunately went on', 'object': 'decline about year'}
+{'subject': 'game', 'relation': 'went on', 'object': 'decline'}
+{'subject': 'game', 'relation': 'went after', 'object': 'release'}
+{'subject': 'game', 'relation': 'Unfortunately went after', 'object': 'release'}
+{'subject': 'game', 'relation': 'Unfortunately went on', 'object': 'decline'}
+{'subject': 'game', 'relation': 'has', 'object': 'only got'}
+{'subject': 'game', 'relation': 'has', 'object': 'got'}
+{'subject': 'announcement', 'relation': 'was', 'object': 'disappointing'}
+{'subject': 'it', 'relation': 'use', 'object': 'be'}
+{'subject': 'game', 'relation': 'is', 'object': 'bad'}
+{'subject': 'game', 'relation': 'is', 'object': 'so bad'}
+{'subject': 'online multiplayer', 'relation': 'is up unplayable', 'object': 'you live in regions of world'}
+{'subject': 'multiplayer', 'relation': 'is', 'object': 'straight up unplayable'}
+{'subject': 'online multiplayer', 'relation': 'is straight up unplayable with', 'object': 'terrible host migration'}
+{'subject': 'multiplayer', 'relation': 'is unplayable with', 'object': 'host migration'}
+{'subject': 'online multiplayer', 'relation': 'is unplayable', 'object': 'you live'}
+{'subject': 'multiplayer', 'relation': 'is up unplayable', 'object': 'you live'}
+{'subject': 'multiplayer', 'relation': 'is up unplayable', 'object': 'you live in certain regions of world'}
+{'subject': 'you', 'relation': 'live in', 'object': 'certain regions'}
+{'subject': 'online multiplayer', 'relation': 'is up unplayable with', 'object': 'host migration'}
+{'subject': 'multiplayer', 'relation': 'is up unplayable', 'object': 'you live in regions'}
+{'subject': 'online multiplayer', 'relation': 'is straight up unplayable', 'object': 'you live'}
+{'subject': 'multiplayer', 'relation': 'is straight unplayable', 'object': 'you live in regions of world'}
+{'subject': 'online multiplayer', 'relation': 'is unplayable', 'object': 'you live in certain regions'}
+{'subject': 'online multiplayer', 'relation': 'is', 'object': 'up unplayable'}
+{'subject': 'online multiplayer', 'relation': 'is unplayable', 'object': 'you live in regions'}
+{'subject': 'online multiplayer', 'relation': 'is straight unplayable', 'object': 'you live'}
+{'subject': 'you', 'relation': 'live in', 'object': 'regions'}
+{'subject': 'multiplayer', 'relation': 'is', 'object': 'unplayable'}
+{'subject': 'multiplayer', 'relation': 'is unplayable with', 'object': 'terrible host migration'}
+{'subject': 'multiplayer', 'relation': 'is straight up unplayable', 'object': 'you live in certain regions of world'}
+{'subject': 'online multiplayer', 'relation': 'is unplayable with', 'object': 'terrible host migration'}
+{'subject': 'online multiplayer', 'relation': 'is', 'object': 'unplayable'}
+{'subject': 'multiplayer', 'relation': 'is straight up unplayable with', 'object': 'terrible host migration'}
+{'subject': 'multiplayer', 'relation': 'is', 'object': 'up unplayable'}
+{'subject': 'multiplayer', 'relation': 'is unplayable', 'object': 'you live'}
+{'subject': 'online multiplayer', 'relation': 'is up unplayable with', 'object': 'terrible host migration'}
+{'subject': 'online multiplayer', 'relation': 'is straight up unplayable', 'object': 'you live in certain regions'}
+{'subject': 'multiplayer', 'relation': 'is unplayable', 'object': 'you live in certain regions of world'}
+{'subject': 'online multiplayer', 'relation': 'is straight unplayable', 'object': 'you live in certain regions of world'}
+{'subject': 'multiplayer', 'relation': 'is straight up unplayable', 'object': 'you live in regions'}
+{'subject': 'online multiplayer', 'relation': 'is unplayable', 'object': 'you live in certain regions of world'}
+{'subject': 'online multiplayer', 'relation': 'is', 'object': 'straight unplayable'}
+{'subject': 'online multiplayer', 'relation': 'is straight unplayable with', 'object': 'terrible host migration'}
+{'subject': 'multiplayer', 'relation': 'is straight up unplayable with', 'object': 'host migration'}
+{'subject': 'multiplayer', 'relation': 'is straight unplayable with', 'object': 'terrible host migration'}
+{'subject': 'multiplayer', 'relation': 'is straight up unplayable', 'object': 'you live in certain regions'}
+{'subject': 'online multiplayer', 'relation': 'is unplayable', 'object': 'you live in regions of world'}
+{'subject': 'multiplayer', 'relation': 'is straight up unplayable', 'object': 'you live in regions of world'}
+{'subject': 'online multiplayer', 'relation': 'is straight up unplayable', 'object': 'you live in certain regions of world'}
+{'subject': 'multiplayer', 'relation': 'is unplayable', 'object': 'you live in regions of world'}
+{'subject': 'multiplayer', 'relation': 'is straight unplayable', 'object': 'you live'}
+{'subject': 'multiplayer', 'relation': 'is up unplayable', 'object': 'you live in certain regions'}
+{'subject': 'online multiplayer', 'relation': 'is straight unplayable', 'object': 'you live in certain regions'}
+{'subject': 'you', 'relation': 'live in', 'object': 'regions of world'}
+{'subject': 'online multiplayer', 'relation': 'is up unplayable', 'object': 'you live in certain regions of world'}
+{'subject': 'online multiplayer', 'relation': 'is straight unplayable', 'object': 'you live in regions of world'}
+{'subject': 'online multiplayer', 'relation': 'is', 'object': 'straight up unplayable'}
+{'subject': 'online multiplayer', 'relation': 'is unplayable with', 'object': 'host migration'}
+{'subject': 'multiplayer', 'relation': 'is unplayable', 'object': 'you live in regions'}
+{'subject': 'online multiplayer', 'relation': 'is straight up unplayable', 'object': 'you live in regions of world'}
+{'subject': 'multiplayer', 'relation': 'is straight unplayable', 'object': 'you live in certain regions'}
+{'subject': 'online multiplayer', 'relation': 'is up unplayable', 'object': 'you live'}
+{'subject': 'multiplayer', 'relation': 'is unplayable', 'object': 'you live in certain regions'}
+{'subject': 'multiplayer', 'relation': 'is up unplayable with', 'object': 'terrible host migration'}
+{'subject': 'online multiplayer', 'relation': 'is straight unplayable', 'object': 'you live in regions'}
+{'subject': 'online multiplayer', 'relation': 'is straight up unplayable with', 'object': 'host migration'}
+{'subject': 'multiplayer', 'relation': 'is up unplayable with', 'object': 'host migration'}
+{'subject': 'online multiplayer', 'relation': 'is up unplayable', 'object': 'you live in regions'}
+{'subject': 'multiplayer', 'relation': 'is', 'object': 'straight unplayable'}
+{'subject': 'online multiplayer', 'relation': 'is straight up unplayable', 'object': 'you live in regions'}
+{'subject': 'online multiplayer', 'relation': 'is up unplayable', 'object': 'you live in certain regions'}
+{'subject': 'multiplayer', 'relation': 'is straight up unplayable', 'object': 'you live'}
+{'subject': 'multiplayer', 'relation': 'is straight unplayable', 'object': 'you live in certain regions of world'}
+{'subject': 'multiplayer', 'relation': 'is up unplayable', 'object': 'you live in regions of world'}
+{'subject': 'online multiplayer', 'relation': 'is straight unplayable with', 'object': 'host migration'}
+{'subject': 'you', 'relation': 'live in', 'object': 'certain regions of world'}
+{'subject': 'multiplayer', 'relation': 'is straight unplayable', 'object': 'you live in regions'}
+{'subject': 'multiplayer', 'relation': 'is straight unplayable with', 'object': 'host migration'}
+{'subject': 'It', 'relation': 'been', 'object': 'would better'}
+{'subject': 'you', 'relation': 'want', 'object': 'play'}
+{'subject': 'you', 'relation': 'just buy', 'object': 'it'}
+{'subject': 'something', 'relation': 'Liked', 'object': 'those'}
+{'subject': 'they', 'relation': "'re", 'object': 'great.Great anime graphics'}
+{'subject': 'something', 'relation': 'otherwise buy', 'object': 'it'}
+{'subject': 'you', 'relation': 'can make something since', 'object': 'way'}
+{'subject': 'they', 'relation': "'re", 'object': 'anime graphics though'}
+{'subject': 'only ones', 'relation': 'are high', 'object': 'you want'}
+{'subject': 'ones', 'relation': 'are', 'object': 'high'}
+{'subject': 'ones', 'relation': 'are high', 'object': 'you want'}
+{'subject': 'they', 'relation': "'re", 'object': 'anime graphics'}
+{'subject': 'you', 'relation': 'otherwise just buy', 'object': 'it'}
+{'subject': 'only ones', 'relation': 'are', 'object': 'high'}
+{'subject': 'you', 'relation': 'buy', 'object': 'it'}
+{'subject': 'something', 'relation': 'just buy', 'object': 'it'}
+{'subject': 'you', 'relation': 'can make', 'object': 'Inhouse tournament'}
+{'subject': 'you', 'relation': 'can make', 'object': 'something'}
+{'subject': 'you', 'relation': 'group of', 'object': '+8 friends'}
+{'subject': 'you', 'relation': 'otherwise buy', 'object': 'it'}
+{'subject': 'you', 'relation': 'can make Inhouse tournament', 'object': 'anime graphics'}
+{'subject': 'they', 'relation': "'re", 'object': 'great.Great anime graphics though'}
+{'subject': 'you', 'relation': 'better have', 'object': 'group'}
+{'subject': 'something', 'relation': 'otherwise just buy', 'object': 'it'}
+{'subject': 'you', 'relation': 'Liked', 'object': 'those'}
+{'subject': 'you', 'relation': 'can make something', 'object': 'anime graphics'}
+{'subject': 'It', 'relation': 'has', 'object': 'great'}
+{'subject': 'you', 'relation': 'have', 'object': 'group'}
+{'subject': 'something', 'relation': 'buy', 'object': 'it'}
+{'subject': 'you', 'relation': 'can make Inhouse tournament since', 'object': 'way'}
+{'subject': 'it', 'relation': 'looks', 'object': 'it looks'}
+{'subject': 'it', 'relation': 'gives', 'object': 'you'}
+{'subject': 'it', 'relation': 'gives', 'object': 'rubble'}
+{'subject': 'there', 'relation': 'be', 'object': 'massive'}
+{'subject': 'there', 'relation': 'however seems', 'object': 'massive bug'}
+{'subject': 'there', 'relation': 'be', 'object': 'bug'}
+{'subject': 'there', 'relation': 'be', 'object': 'massive bug'}
+{'subject': 'they', 'relation': 'change', 'object': 'layout'}
+{'subject': 'it', 'relation': 'gives', 'object': 'several rubble'}
+{'subject': 'there', 'relation': 'however seems', 'object': 'bug'}
+{'subject': 'game', 'relation': 'was', 'object': 'good'}
+{'subject': 'game', 'relation': 'was', 'object': 'really good'}
+{'subject': 'there', 'relation': 'seems', 'object': 'massive bug'}
+{'subject': 'there', 'relation': 'seems', 'object': 'bug'}
+{'subject': 'it', 'relation': 'looks', 'object': 'now it looks'}
+{'subject': 'graphics', 'relation': 'arent', 'object': 'good'}
+{'subject': 'graphics', 'relation': 'arent', 'object': 'too good'}
+{'subject': 'gameplay', 'relation': 'is', 'object': 'awful'}
+{'subject': 'servers', 'relation': 'are', 'object': 'just laggy'}
+{'subject': 'servers', 'relation': 'are', 'object': 'laggy'}
+{'subject': 'gameplay', 'relation': 'is', 'object': 'really awful'}
+{'subject': 'it', 'relation': 'is', 'object': 'multiplayer'}
+{'subject': 'it', 'relation': 'get', 'object': 'boring'}
+{'subject': 'i dont', 'relation': 'recomend', 'object': 'it'}
+{'subject': 'All', 'relation': 'recomend', 'object': 'it'}
+{'subject': 'graphical settings', 'relation': 'are on', 'object': 'high'}
+{'subject': 'graphical settings', 'relation': 'are on', 'object': 'even when high'}
+{'subject': 'graphical settings', 'relation': 'are on', 'object': 'even high'}
+{'subject': 'graphical settings', 'relation': 'are on', 'object': 'when high'}
+{'subject': 'i', 'relation': 'get', 'object': 'hate'}
+{'subject': 'i', 'relation': 'using', 'object': 'laptop'}
+{'subject': 'My beast gaming laptop', 'relation': 'goes beyond', 'object': 'system requirements of game'}
+{'subject': 'existing SFX', 'relation': 'being replaced with', 'object': 'better ones'}
+{'subject': 'existing SFX', 'relation': 'being', 'object': 'replaced'}
+{'subject': 'SFX', 'relation': 'being replaced with', 'object': 'better ones'}
+{'subject': 'SFX', 'relation': 'being', 'object': 'replaced'}
+{'subject': 'SFX', 'relation': 'being replaced with', 'object': 'ones'}
+{'subject': 'existing SFX', 'relation': 'being replaced with', 'object': 'ones'}
+{'subject': 'default layout', 'relation': 'is', 'object': 'terrible'}
+{'subject': 'game', 'relation': 'progressed since', 'object': 'release'}
+{'subject': 'game', 'relation': 'progressed lot since', 'object': 'release'}
+{'subject': 'game', 'relation': 'progressed', 'object': 'lot'}
+{'subject': 'game', 'relation': 'progressed since', 'object': 'original release'}
+{'subject': 'it', 'relation': 'is from', 'object': 'how should have start'}
+{'subject': 'it', 'relation': 'is from', 'object': 'finally how should have start'}
+{'subject': 'game', 'relation': 'progressed lot since', 'object': 'original release'}
+{'subject': 'it', 'relation': 'is from', 'object': 'should have start'}
+{'subject': 'it', 'relation': 'is from', 'object': 'finally should have start'}
+{'subject': 'review', 'relation': 'is based on', 'object': 'latest version of game available'}
+{'subject': 'review', 'relation': 'is based on', 'object': 'latest version of game available to me'}
+{'subject': 'review', 'relation': 'is based on', 'object': 'version'}
+{'subject': 'review', 'relation': 'is based on', 'object': 'version of game'}
+{'subject': 'review', 'relation': 'is', 'object': 'based'}
+{'subject': 'review', 'relation': 'is based on', 'object': 'version of game available'}
+{'subject': 'review', 'relation': 'is based on', 'object': 'latest version of game'}
+{'subject': 'review', 'relation': 'is based on', 'object': 'version of game available to me'}
+{'subject': 'review', 'relation': 'is based on', 'object': 'latest version'}
+{'subject': 'Ghosts', 'relation': 'such as games is', 'object': 'Shadow Of Beast'}
+{'subject': 'games', 'relation': 'Shadow Of', 'object': 'Beast'}
+{'subject': 'Everything', 'relation': 'is', 'object': 'much much worse'}
+{'subject': 'Everything', 'relation': 'is', 'object': 'much worse'}
+{'subject': 'Everything', 'relation': 'is', 'object': 'much worse'}
+{'subject': 'Everything', 'relation': 'is', 'object': 'worse'}
+{'subject': 'I', 'relation': 'backed on', 'object': 'Kickstarter'}
+{'subject': 'I', 'relation': 'would have hope', 'object': 'was bug'}
+{'subject': 'I', 'relation': 'would have hope', 'object': 'was only bug here'}
+{'subject': 'I', 'relation': 'would have', 'object': 'hope'}
+{'subject': 'I', 'relation': 'would have hope', 'object': 'was bug here'}
+{'subject': 'I', 'relation': 'would have hope', 'object': 'was only bug'}
+{'subject': 'it', 'relation': 'be', 'object': 'fixed'}
+{'subject': 'games', 'relation': 'mentioned above', 'object': 'there'}
+{'subject': 'you', 'relation': 'get hit by', 'object': 'enemy'}
+{'subject': 'you', 'relation': 'get', 'object': 'when hit'}
+{'subject': 'you', 'relation': 'get', 'object': 'when hit by enemy'}
+{'subject': 'you', 'relation': 'get', 'object': 'hit'}
+{'subject': 'enemies', 'relation': 'walk through', 'object': 'you'}
+{'subject': 'Linux', 'relation': 'update in', 'object': 'future'}
+{'subject': 'I', 'relation': 'slap', 'object': 'early access badge'}
+{'subject': 'Linux', 'relation': 'too update in', 'object': 'near future'}
+{'subject': 'early access badge', 'relation': 'take', 'object': 'it'}
+{'subject': 'I', 'relation': 'slap', 'object': 'early access badge on this'}
+{'subject': 'they', 'relation': 'have', 'object': 'OSX'}
+{'subject': 'access badge', 'relation': 'take', 'object': 'it'}
+{'subject': 'I', 'relation': 'slap', 'object': 'access badge'}
+{'subject': 'I', 'relation': 'would suggest At', 'object': 'stage'}
+{'subject': 'I', 'relation': 'slap access badge As of', 'object': '31 May developers'}
+{'subject': 'Linux', 'relation': 'update in', 'object': 'near future'}
+{'subject': 'I', 'relation': 'slap', 'object': 'access badge on this'}
+{'subject': 'Linux', 'relation': 'too update in', 'object': 'future'}
+{'subject': 'I', 'relation': 'would suggest to', 'object': 'developers'}
+{'subject': 'kick', 'relation': 'is in', 'object': 'balls'}
+{'subject': 'It', 'relation': 'fixes', 'object': 'many things'}
+{'subject': 'It', 'relation': 'fixes', 'object': 'things'}
+{'subject': 'It', 'relation': 'fixes', 'object': 'sooo many things'}
+{'subject': 'it', 'relation': "'s for", 'object': 'Win'}
+{'subject': 'it', 'relation': "'s for", 'object': 'just Win'}
+{'subject': 'Achievements', 'relation': 'are', 'object': 'broken'}
+{'subject': 'game', 'relation': 'is', 'object': 'mute!Except'}
+{'subject': 'game', 'relation': 'is almost mute!Except from', 'object': 'footsteps'}
+{'subject': 'game', 'relation': 'is almost mute!Except from', 'object': 'generic footsteps'}
+{'subject': 'game', 'relation': 'is mute!Except from', 'object': 'generic footsteps'}
+{'subject': 'game', 'relation': 'is', 'object': 'almost mute!Except'}
+{'subject': 'game', 'relation': 'is mute!Except from', 'object': 'footsteps'}
+{'subject': 'it', 'relation': 'has', 'object': 'all quiet'}
+{'subject': 'it', 'relation': 'has', 'object': 'quiet'}
+{'subject': 'ground', 'relation': 'sound of', 'object': 'blood'}
+{'subject': 'engine', 'relation': 'starts over in', 'object': 'loop'}
+{'subject': 'engine', 'relation': 'starts in', 'object': 'loop'}
+{'subject': 'Skeletons', 'relation': 'make', 'object': 'fireplace'}
+{'subject': 'Skeletons', 'relation': 'make', 'object': 'fireplace crackling'}
+{'subject': 'Skeletons', 'relation': 'make', 'object': 'fireplace crackling like sound'}
+{'subject': 'I', 'relation': "'ll remind", 'object': 'you'}
+{'subject': 'game', 'relation': 'is', 'object': 'so boring'}
+{'subject': 'game', 'relation': 'is', 'object': 'boring'}
+{'subject': 'I', 'relation': 'like', 'object': 'it'}
+{'subject': 'it', 'relation': "'s got", 'object': 'really nice graphics'}
+{'subject': 'it', 'relation': "'s got", 'object': 'graphics'}
+{'subject': 'it', 'relation': "'s got", 'object': 'nice graphics'}
+{'subject': 'loot', 'relation': 'is', 'object': 'crap'}
+{'subject': 'it', 'relation': 'was taken from', 'object': 'B grade movie'}
+{'subject': 'characters', 'relation': 'are plain', 'object': 'taken'}
+{'subject': 'it', 'relation': 'was', 'object': 'taken'}
+{'subject': 'characters', 'relation': 'are just plain', 'object': 'taken from B grade movie'}
+{'subject': 'characters', 'relation': 'are', 'object': 'just plain'}
+{'subject': 'characters', 'relation': 'are plain', 'object': 'taken from B grade movie'}
+{'subject': 'characters', 'relation': 'are just plain', 'object': 'taken'}
+{'subject': 'characters', 'relation': 'are', 'object': 'plain'}
+{'subject': 'same locations', 'relation': 'doing', 'object': 'pointless side missions'}
+{'subject': 'same locations', 'relation': 'doing', 'object': 'side missions'}
+{'subject': 'same locations', 'relation': 'killing', 'object': 'zombies'}
+{'subject': 'locations', 'relation': 'doing', 'object': 'side missions'}
+{'subject': 'You', 'relation': 'visit', 'object': 'locations'}
+{'subject': 'You', 'relation': 'visit', 'object': 'same locations'}
+{'subject': 'locations', 'relation': 'doing', 'object': 'pointless side missions'}
+{'subject': 'locations', 'relation': 'killing', 'object': 'zombies'}
+{'subject': 'This', 'relation': 'is NOTHING like', 'object': 'Borderlands'}
+{'subject': 'i', 'relation': 'said', 'object': 'nothing in shop'}
+{'subject': 'you', 'relation': 'need', 'object': 'weapons'}
+{'subject': 'you', 'relation': 'get', 'object': 'weapons'}
+{'subject': 'you', 'relation': 'need', 'object': 'money'}
+{'subject': 'nothing', 'relation': 'is in', 'object': 'shop'}
+{'subject': 'i', 'relation': 'nothing in', 'object': 'shop'}
+{'subject': 'i', 'relation': 'said', 'object': 'nothing'}
+{'subject': 'you', 'relation': 'can buy with', 'object': 'with game money'}
+{'subject': 'you', 'relation': 'need', 'object': 'real money'}
+{'subject': 'game', 'relation': 'is', 'object': 'poorly optimised'}
+{'subject': 'game -10', 'relation': 'is', 'object': 'poorly optimised'}
+{'subject': 'game', 'relation': 'is in', 'object': 'still early access'}
+{'subject': 'game', 'relation': 'probably stay', 'object': 'real apocalypse happens'}
+{'subject': 'game', 'relation': 'probably stay like', 'object': 'that'}
+{'subject': 'game', 'relation': 'stay', 'object': 'real apocalypse happens'}
+{'subject': 'game', 'relation': 'stay like', 'object': 'that'}
+{'subject': 'game', 'relation': 'stay', 'object': 'apocalypse happens'}
+{'subject': 'game', 'relation': 'is in', 'object': 'early access'}
+{'subject': 'game', 'relation': 'is in', 'object': 'access'}
+{'subject': 'game', 'relation': 'is in', 'object': 'still access'}
+{'subject': 'game', 'relation': 'probably stay', 'object': 'apocalypse happens'}
+{'subject': '0/10', 'relation': 'would again Save', 'object': 'dont buy'}
+{'subject': 'internet conspiracy', 'relation': 'would again Save', 'object': 'dont buy'}
+{'subject': 'I', 'relation': 'may only have', 'object': '116 hours'}
+{'subject': '0/10', 'relation': 'would Save', 'object': 'money'}
+{'subject': 'I', 'relation': 'look of', 'object': 'it'}
+{'subject': '0/10', 'relation': 'would again Save buy at_time', 'object': 'game'}
+{'subject': 'internet conspiracy', 'relation': 'would again Save money at_time', 'object': 'game'}
+{'subject': 'internet conspiracy', 'relation': 'would Save', 'object': 'buy'}
+{'subject': 'I', 'relation': 'may have', 'object': '116 hours'}
+{'subject': 'internet conspiracy', 'relation': 'would Save money at_time', 'object': 'game'}
+{'subject': '0/10', 'relation': 'would again Save', 'object': 'money'}
+{'subject': 'internet conspiracy', 'relation': 'would Save', 'object': 'dont buy'}
+{'subject': '0/10', 'relation': 'would Save', 'object': 'dont buy'}
+{'subject': 'internet conspiracy', 'relation': 'would again Save buy at_time', 'object': 'game'}
+{'subject': '0/10', 'relation': 'would Save money at_time', 'object': 'game'}
+{'subject': 'internet conspiracy', 'relation': 'would Save buy at_time', 'object': 'game'}
+{'subject': '0/10', 'relation': 'would again Save', 'object': 'buy'}
+{'subject': '0/10', 'relation': 'would Save', 'object': 'buy'}
+{'subject': '0/10', 'relation': 'would Save buy at_time', 'object': 'game'}
+{'subject': '0/10', 'relation': 'would again Save money at_time', 'object': 'game'}
+{'subject': 'internet conspiracy', 'relation': 'would Save', 'object': 'money'}
+{'subject': 'internet conspiracy', 'relation': 'would again Save', 'object': 'money'}
+{'subject': 'more time', 'relation': 'playing', 'object': 'beautiful game'}
+{'subject': 'internet conspiracy', 'relation': 'would again Save', 'object': 'buy'}
+{'subject': 'you', 'relation': 'Do want date', 'object': 'Wrestle'}
+{'subject': 'you', 'relation': 'Wrestle', 'object': 'eel?Well'}
+{'subject': 'you', 'relation': 'Do want with', 'object': 'Palmela Handerson?Or'}
+{'subject': 'you', 'relation': 'Do want', 'object': 'Wrestle'}
+{'subject': 'you', 'relation': 'Do want', 'object': 'date'}
+{'subject': 'you', 'relation': 'Do want date with', 'object': 'Palmela Handerson?Or'}
+{'subject': 'dont', 'relation': 'buy', 'object': 'piece of crap 1/10'}
+{'subject': 'dont', 'relation': 'piece of', 'object': 'crap 1/10'}
+{'subject': 'dont', 'relation': 'buy', 'object': 'piece'}
+{'subject': 'You', 'relation': 'assign', 'object': 'them'}
+{'subject': 'They', 'relation': 'cutting', 'object': 'wood'}
+{'subject': 'Your wood', 'relation': 'falls of', 'object': 'sky-island'}
+{'subject': 'it', 'relation': 'is', 'object': 'unique'}
+{'subject': 'your tools', 'relation': 'include', 'object': 'other annimals'}
+{'subject': 'your tools', 'relation': 'include', 'object': 'annimals'}
+{'subject': 'it', 'relation': 'is unique in', 'object': 'fact'}
+{'subject': 'your tools', 'relation': 'include', 'object': 'Dinos'}
+{'subject': 'your', 'relation': 'constantly finding', 'object': 'bugs'}
+{'subject': 'your', 'relation': 'finding', 'object': 'bugs'}
+{'subject': 'It', 'relation': 'ruins', 'object': 'experience'}
+{'subject': 'things', 'relation': 'make', 'object': 'game frustrating'}
+{'subject': 'severe trouble', 'relation': 'run on', 'object': 'even its lowest settings'}
+{'subject': 'i', 'relation': 'have', 'object': 'trouble run on even its lowest settings'}
+{'subject': 'i', 'relation': 'have', 'object': 'severe trouble run on its settings'}
+{'subject': 'trouble', 'relation': 'run on', 'object': 'its lowest settings'}
+{'subject': 'i', 'relation': 'have', 'object': 'trouble run on even its settings'}
+{'subject': 'i', 'relation': 'trouble', 'object': 'run on even its lowest settings'}
+{'subject': 'i', 'relation': 'have', 'object': 'severe trouble run on even its lowest settings'}
+{'subject': 'i', 'relation': 'trouble', 'object': 'run on its settings'}
+{'subject': 'i', 'relation': 'have', 'object': 'severe trouble run'}
+{'subject': 'i', 'relation': 'trouble', 'object': 'run on even its settings'}
+{'subject': 'i', 'relation': 'have', 'object': 'trouble run'}
+{'subject': 'i', 'relation': 'have', 'object': 'trouble run on its lowest settings'}
+{'subject': 'severe trouble', 'relation': 'run on', 'object': 'even its settings'}
+{'subject': 'severe trouble', 'relation': 'run on', 'object': 'its lowest settings'}
+{'subject': 'severe trouble', 'relation': 'run on', 'object': 'its settings'}
+{'subject': 'i', 'relation': 'trouble', 'object': 'run on its lowest settings'}
+{'subject': 'trouble', 'relation': 'run on', 'object': 'even its lowest settings'}
+{'subject': 'i', 'relation': 'trouble', 'object': 'run'}
+{'subject': 'i', 'relation': 'have', 'object': 'severe trouble run on its lowest settings'}
+{'subject': 'i', 'relation': 'severe trouble', 'object': 'run on its lowest settings'}
+{'subject': 'i', 'relation': 'severe trouble', 'object': 'run'}
+{'subject': 'trouble', 'relation': 'run on', 'object': 'its settings'}
+{'subject': 'i', 'relation': 'have', 'object': 'trouble run on its settings'}
+{'subject': 'i', 'relation': 'severe trouble', 'object': 'run on even its lowest settings'}
+{'subject': 'trouble', 'relation': 'run on', 'object': 'even its settings'}
+{'subject': 'i', 'relation': 'severe trouble', 'object': 'run on even its settings'}
+{'subject': 'i', 'relation': 'have', 'object': 'severe trouble run on even its settings'}
+{'subject': 'i', 'relation': 'severe trouble', 'object': 'run on its settings'}
+{'subject': 'you', 'relation': 'is become', 'object': 'you relised'}
+{'subject': 'you', 'relation': 'cancer', 'object': 'I recommend'}
+{'subject': 'i', 'relation': "'d give", 'object': 'positive review'}
+{'subject': 'Dev team', 'relation': 'is', 'object': 'able'}
+{'subject': 'devs', 'relation': 'arehalting addition of', 'object': 'features'}
+{'subject': 'devs', 'relation': 'addition of', 'object': 'features'}
+{'subject': 'i', 'relation': "'d give", 'object': 'it'}
+{'subject': 'i', 'relation': "'d give", 'object': 'review'}
+{'subject': 'you', 'relation': 'is become', 'object': '♥ ♥ ING AWFUL'}
+{'subject': 'Dev team', 'relation': 'address', 'object': 'many issues'}
+{'subject': 'Dev team', 'relation': 'address', 'object': 'issues'}
+{'subject': 'you', 'relation': 'wasted', 'object': 'your money'}
+{'subject': 'Dev team', 'relation': 'address issues with', 'object': 'game'}
+{'subject': 'DO NOT BUY.Quite', 'relation': 'simply uses', 'object': 'GFWL'}
+{'subject': 'DO NOT BUY.Quite', 'relation': 'uses', 'object': 'GFWL'}
+{'subject': 'one simple troop', 'relation': 'will take', 'object': 'magazine'}
+{'subject': 'interface', 'relation': 'is designed for', 'object': 'console'}
+{'subject': 'simple troop', 'relation': 'will take magazine', 'object': 'kill'}
+{'subject': 'interface', 'relation': 'is', 'object': 'designed'}
+{'subject': 'voice acting', 'relation': 'is', 'object': 'terrible'}
+{'subject': 'one simple troop', 'relation': 'will take', 'object': 'whole magazine'}
+{'subject': 'interface', 'relation': 'is designed', 'object': 'reflects'}
+{'subject': 'simple troop', 'relation': 'will take', 'object': 'magazine'}
+{'subject': 'simple troop', 'relation': 'will take', 'object': 'whole magazine'}
+{'subject': 'AI', 'relation': 'is', 'object': 'moronically stupid'}
+{'subject': 'AI', 'relation': 'is', 'object': 'stupid'}
+{'subject': 'one simple troop', 'relation': 'will take magazine', 'object': 'kill'}
+{'subject': 'voice acting', 'relation': 'is', 'object': 'just terrible'}
+{'subject': 'interface', 'relation': 'reflects', 'object': 'that'}
+{'subject': 'Character models', 'relation': 'are lousy as', 'object': 'well.I REPEAT'}
+{'subject': 'Character models', 'relation': 'are pretty lousy as', 'object': 'well.I REPEAT'}
+{'subject': 'Character models', 'relation': 'are', 'object': 'lousy'}
+{'subject': 'Character models', 'relation': 'are', 'object': 'pretty lousy'}
+{'subject': 'i', 'relation': 'was', 'object': 'banned'}
+{'subject': 'i', 'relation': 'have spent', 'object': 'gameing'}
+{'subject': 'i', 'relation': 'have played', 'object': 'around 2 hours'}
+{'subject': 'i', 'relation': 'played', 'object': 'game'}
+{'subject': 'i', 'relation': 'was', 'object': 'then banned'}
+{'subject': 'i', 'relation': 'was', 'object': 'then banned for cheating'}
+{'subject': 'i', 'relation': 'have ever spent', 'object': 'gameing'}
+{'subject': 'i', 'relation': 'played game for', 'object': '40 hours'}
+{'subject': 'i', 'relation': 'was banned for', 'object': 'cheating'}
+{'subject': 'fighter pilot controls', 'relation': 'are', 'object': 'strange'}
+{'subject': 'bomber spam', 'relation': 'is great thing for', 'object': 'game'}
+{'subject': 'bomber spam', 'relation': 'is', 'object': 'great thing'}
+{'subject': 'tu', 'relation': 'is', 'object': 'good cause'}
+{'subject': 'bomber spam', 'relation': 'is new great thing for', 'object': 'game'}
+{'subject': 'bomber spam', 'relation': 'is', 'object': 'new great thing'}
+{'subject': 'tu 4', 'relation': 'is', 'object': 'also good cause'}
+{'subject': 'tu', 'relation': 'is', 'object': 'also cause'}
+{'subject': 'bomber spam', 'relation': 'is', 'object': 'thing'}
+{'subject': 'tu 4', 'relation': 'is', 'object': 'also cause'}
+{'subject': 'tu 4', 'relation': 'is', 'object': 'cause'}
+{'subject': 'bomber spam', 'relation': 'is thing for', 'object': 'game'}
+{'subject': 'tu', 'relation': 'is', 'object': 'also good cause'}
+{'subject': 'bomber spam', 'relation': 'is', 'object': 'new thing'}
+{'subject': 'bomber spam', 'relation': 'is new thing for', 'object': 'game'}
+{'subject': 'tu 4', 'relation': 'is', 'object': 'good cause'}
+{'subject': 'tu', 'relation': 'is', 'object': 'cause'}
+{'subject': 'match', 'relation': 'is in', 'object': 'over 2 minute'}
+{'subject': 'Guns', 'relation': 'is', 'object': 'Western'}
+{'subject': 'Guns', 'relation': 'is', 'object': 'Person Shooter'}
+{'subject': 'Guns', 'relation': 'is', 'object': 'Person Western Shooter'}
+{'subject': 'Guns', 'relation': 'is', 'object': 'First Person Western Shooter'}
+{'subject': 'Guns', 'relation': 'is', 'object': 'First'}
+{'subject': 'Guns', 'relation': 'is', 'object': 'First Person Shooter'}
+{'subject': 'game', 'relation': 'is obviously failure of', 'object': 'Call'}
+{'subject': 'game', 'relation': 'is', 'object': 'obviously failure'}
+{'subject': 'game', 'relation': 'is', 'object': 'failure'}
+{'subject': 'game', 'relation': 'is failure of', 'object': 'Call of Duty clone'}
+{'subject': 'game', 'relation': 'is failure of', 'object': 'Call'}
+{'subject': 'game', 'relation': 'is obviously failure of', 'object': 'Call of Duty clone'}
+{'subject': 'You', 'relation': 'also lack', 'object': 'ability to prestige'}
+{'subject': 'You', 'relation': 'lack', 'object': 'ability to prestige'}
+{'subject': 'You', 'relation': 'lack', 'object': 'ability'}
+{'subject': 'You', 'relation': 'also lack', 'object': 'ability'}
+{'subject': 'They', 'relation': 'are', 'object': 'mounted'}
+{'subject': 'mounted', 'relation': 'is', 'object': 'horrible'}
+{'subject': 'They', 'relation': 'are mounted onto', 'object': 'your vehicle'}
+{'subject': 'You', 'relation': 'heard', 'object': 'me'}
+{'subject': 'You', 'relation': 'heard', 'object': 'sniper rifle'}
+{'subject': 'IT', 'relation': 'HAS', 'object': '2 BULLETS'}
+{'subject': 'IT', 'relation': 'ONLY HAS', 'object': '2 BULLETS'}
+{'subject': 'YOU', 'relation': 'ALSO LACK ABILITY TO', 'object': 'DO 360 NO SCOPES'}
+{'subject': 'YOU', 'relation': 'LACK ABILITY TO', 'object': 'DO 360 NO SCOPES'}
+{'subject': 'I', 'relation': 'give', 'object': 'Guns of ed-your-mother-hard-last-night-carus'}
+{'subject': 'I', 'relation': 'give', 'object': 'Guns'}
+{'subject': 'im', 'relation': 'stuck', 'object': 'Well'}
+{'subject': 'story', 'relation': 'is', 'object': 'absolutely horrible'}
+{'subject': 'story', 'relation': 'is', 'object': 'On side note horrible'}
+{'subject': 'story', 'relation': 'is absolutely horrible On', 'object': 'side note'}
+{'subject': 'story', 'relation': 'is', 'object': 'horrible'}
+{'subject': 'story', 'relation': 'is horrible On', 'object': 'side note'}
+{'subject': 'soundtrack', 'relation': 'is', 'object': 'absolutely horrible'}
+{'subject': 'League', 'relation': 'want', 'object': 'it'}
+{'subject': 'want', 'relation': 'install', 'object': 'League'}
+{'subject': 'u liek dis game', 'relation': 'install', 'object': 'League'}
+{'subject': 'story', 'relation': 'is', 'object': 'On side note absolutely horrible'}
+{'subject': 'soundtrack', 'relation': 'is horrible On', 'object': 'side note'}
+{'subject': 'u liek dis game', 'relation': 'install', 'object': 'League of Legends'}
+{'subject': 'soundtrack', 'relation': 'is', 'object': 'horrible'}
+{'subject': 'want', 'relation': 'install', 'object': 'League of Legends'}
+{'subject': 'soundtrack', 'relation': 'is absolutely horrible On', 'object': 'side note'}
+{'subject': 'Everything', 'relation': 'is', 'object': 'great far'}
+{'subject': 'Everything', 'relation': 'is', 'object': 'great'}
+{'subject': 'Everything', 'relation': 'is', 'object': 'great so far'}
+{'subject': 'u', 'relation': 'build', 'object': 'stuff'}
+{'subject': 'u', 'relation': 'get', 'object': 'raid'}
+{'subject': 'U', 'relation': 'get', 'object': 'craft'}
+{'subject': 'game', 'relation': 'is', 'object': 'currently ruined'}
+{'subject': 'game', 'relation': 'is', 'object': 'ruined'}
+{'subject': 'game', 'relation': 'currently is ruined by', 'object': 'hackers'}
+{'subject': 'game', 'relation': 'is ruined by', 'object': 'hackers'}
+{'subject': 'asia server', 'relation': 'has', 'object': 'hacker'}
+{'subject': 'Dun', 'relation': 'get', 'object': 'me wrong'}
+{'subject': 'western server', 'relation': 'too lag', 'object': 'play'}
+{'subject': 'western server', 'relation': 'lag', 'object': 'play'}
+{'subject': 'ppl', 'relation': 'scared', 'object': 'use'}
+{'subject': 'ppl', 'relation': 'scared', 'object': 'use ♥'}
+{'subject': 'infront', 'relation': 'smack', 'object': 'u'}
+{'subject': 'right infront', 'relation': 'smack u to', 'object': 'death with rock'}
+{'subject': 'right infront', 'relation': 'smack', 'object': 'u'}
+{'subject': 'right infront', 'relation': 'just smack u to', 'object': 'death with rock'}
+{'subject': 'resource', 'relation': 'flash', 'object': 'right infront of u'}
+{'subject': 'resource', 'relation': 'flash', 'object': 'infront'}
+{'subject': 'infront', 'relation': 'just smack u to', 'object': 'death'}
+{'subject': 'infront', 'relation': 'seemingly smack u to', 'object': 'death'}
+{'subject': 'right infront', 'relation': 'seemingly just smack', 'object': 'u'}
+{'subject': 'right infront', 'relation': 'seemingly smack u to', 'object': 'death with rock'}
+{'subject': 'infront', 'relation': 'smack u to', 'object': 'death with rock'}
+{'subject': 'right infront', 'relation': 'just smack', 'object': 'u'}
+{'subject': 'right infront', 'relation': 'seemingly just smack u to', 'object': 'death'}
+{'subject': 'right infront', 'relation': 'smack u to', 'object': 'death'}
+{'subject': 'infront', 'relation': 'seemingly smack u to', 'object': 'death with rock'}
+{'subject': 'infront', 'relation': 'seemingly just smack u to', 'object': 'death with rock'}
+{'subject': 'right infront', 'relation': 'seemingly smack u to', 'object': 'death'}
+{'subject': 'infront', 'relation': 'seemingly smack', 'object': 'u'}
+{'subject': 'guy', 'relation': 'ruining', 'object': 'game'}
+{'subject': 'guy', 'relation': 'is with', 'object': 'speed hack'}
+{'subject': 'infront', 'relation': 'smack u to', 'object': 'death'}
+{'subject': 'infront', 'relation': 'seemingly just smack u to', 'object': 'death'}
+{'subject': 'right infront', 'relation': 'seemingly just smack u to', 'object': 'death with rock'}
+{'subject': 'resource', 'relation': 'flash', 'object': 'right infront'}
+{'subject': 'infront', 'relation': 'just smack u to', 'object': 'death with rock'}
+{'subject': 'infront', 'relation': 'just smack', 'object': 'u'}
+{'subject': 'right infront', 'relation': 'seemingly smack', 'object': 'u'}
+{'subject': 'resource', 'relation': 'flash', 'object': 'infront of u'}
+{'subject': 'right infront', 'relation': 'just smack u to', 'object': 'death'}
+{'subject': 'death', 'relation': 'is with', 'object': 'rock'}
+{'subject': 'infront', 'relation': 'seemingly just smack', 'object': 'u'}
+{'subject': 'they', 'relation': 'are', 'object': 'just ban china major cause for hacking'}
+{'subject': 'they', 'relation': 'are', 'object': 'cause'}
+{'subject': 'they', 'relation': 'are', 'object': 'ban china major cause'}
+{'subject': 'they', 'relation': 'are cause for', 'object': 'hacking'}
+{'subject': 'they', 'relation': 'are', 'object': 'just ban china major cause'}
+{'subject': 'they', 'relation': 'are', 'object': 'ban china cause'}
+{'subject': 'they', 'relation': 'are', 'object': 'just ban china cause for hacking'}
+{'subject': 'they', 'relation': 'are', 'object': 'just ban china cause'}
+{'subject': 'they', 'relation': 'are', 'object': 'ban china major cause for hacking'}
+{'subject': 'they', 'relation': 'are', 'object': 'major cause'}
+{'subject': 'they', 'relation': 'are', 'object': 'ban china cause for hacking'}
+{'subject': 'they', 'relation': 'are major cause for', 'object': 'hacking'}
+{'subject': 'majority', 'relation': 'is', 'object': 'mediocre made as fall height'}
+{'subject': 'majority', 'relation': 'is', 'object': 'mediocre made'}
+{'subject': 'majority', 'relation': 'is', 'object': 'mediocre'}
+{'subject': 'you', 'relation': "'ll at", 'object': "'ll Steam 's mercy"}
+{'subject': 'integration', 'relation': 'is', 'object': 'worst'}
+{'subject': 'integration', 'relation': 'is worst', 'object': 'I have seen'}
+{'subject': 'integration', 'relation': 'is worst', 'object': 'I have ever seen'}
+{'subject': 'game', 'relation': 'is sack of', 'object': '♥ ♥'}
+{'subject': 'game', 'relation': 'is', 'object': 'sack'}
+{'subject': 'YUMMY Too', 'relation': 'short for', 'object': 'price'}
+{'subject': 'hour', 'relation': 'is', 'object': 'endless'}
+{'subject': 'hour', 'relation': 'is', 'object': 'now endless'}
+{'subject': 'half', 'relation': 'is', 'object': 'right now endless'}
+{'subject': 'YUMMY Too', 'relation': 'is', 'object': 'now endless'}
+{'subject': 'YUMMY Too', 'relation': 'is', 'object': 'endless'}
+{'subject': 'half', 'relation': 'is', 'object': 'endless'}
+{'subject': 'half', 'relation': 'is', 'object': 'now endless'}
+{'subject': 'YUMMY Too', 'relation': 'is', 'object': 'right now endless'}
+{'subject': 'hour', 'relation': 'is', 'object': 'right now endless'}
+{'subject': 'Fun', 'relation': 'is', 'object': 'more fair price'}
+{'subject': 'I', 'relation': "'VE PLAYED IN", 'object': 'YEARS'}
+{'subject': 'Codemasters', 'relation': 'have taken', 'object': 'grant-bribe'}
+{'subject': 'Codemasters', 'relation': 'buy', 'object': 'platform exclusivity'}
+{'subject': 'Codemasters', 'relation': 'have taken grant-bribe from', 'object': 'Oculus'}
+{'subject': 'this', 'relation': 'using', 'object': 'open source Steam VR'}
+{'subject': "Codies ' PR team", 'relation': 'fobbing off', 'object': 'questions'}
+{'subject': "Codies ' PR team", 'relation': 'are', 'object': 'busy'}
+{'subject': "Codies ' PR team", 'relation': 'fobbing off', 'object': 'questions about Vive compatibility with corporatespeak drivel'}
+{'subject': "Codies ' PR team", 'relation': 'fobbing off', 'object': 'questions about Vive compatibility with evasive corporatespeak drivel'}
+{'subject': 'Vive compatibility', 'relation': 'is with', 'object': 'evasive corporatespeak drivel'}
+{'subject': "Codies ' PR team", 'relation': 'fobbing off', 'object': 'questions about Vive compatibility'}
+{'subject': 'you', 'relation': "'re", 'object': 'Logitech customer'}
+{'subject': "PC platform 's strength", 'relation': 'is', 'object': 'broad compatibility regardless'}
+{'subject': "PC platform 's strength", 'relation': 'is', 'object': 'compatibility'}
+{'subject': 'PC platform', 'relation': 'has', 'object': 'strength'}
+{'subject': "PC platform 's strength", 'relation': 'is', 'object': 'compatibility regardless'}
+{'subject': "PC platform 's strength", 'relation': 'is', 'object': 'broad compatibility'}
+{'subject': 'That', 'relation': 'has', 'object': 'huge'}
+{'subject': 'Mark Zuckerberg', 'relation': 'on', 'object': 'baby batter'}
+{'subject': 'it', 'relation': "'s buggy as", 'object': 'hell'}
+{'subject': 'pvp', 'relation': 'is', 'object': 'horrible'}
+{'subject': 'thinking i', 'relation': 'have', 'object': 'access to online areas'}
+{'subject': 'i', 'relation': 'have', 'object': 'access to online areas'}
+{'subject': 'i', 'relation': 'launched', 'object': 'game'}
+{'subject': 'I', 'relation': 'vote', 'object': 'game'}
+{'subject': 'I', 'relation': 'down vote', 'object': 'game'}
+{'subject': 'I', 'relation': 'have', 'object': 'vote'}
+{'subject': 'I', 'relation': 'have', 'object': 'down vote'}
+{'subject': 'shocking trend', 'relation': 'is in', 'object': 'PC games'}
+{'subject': 'games', 'relation': 'disable', 'object': 'keyboard alltogether making'}
+{'subject': 'new games', 'relation': 'disable', 'object': 'keyboard alltogether making'}
+{'subject': 'new games', 'relation': 'see', 'object': 'joysicks'}
+{'subject': 'games', 'relation': 'see', 'object': 'joysicks'}
+{'subject': 'new games', 'relation': 'disable', 'object': 'keyboard alltogether'}
+{'subject': 'games', 'relation': 'disable', 'object': 'keyboard alltogether'}
+{'subject': 'I', 'relation': 'down vote', 'object': 'game'}
+{'subject': 'I', 'relation': 'vote', 'object': 'game'}
+{'subject': 'I', 'relation': 'have', 'object': 'vote'}
+{'subject': 'I', 'relation': 'have', 'object': 'down vote'}
+{'subject': 'shocking trend', 'relation': 'is in', 'object': 'PC games'}
+{'subject': 'games', 'relation': 'disable', 'object': 'keyboard alltogether making'}
+{'subject': 'new games', 'relation': 'disable', 'object': 'keyboard alltogether making'}
+{'subject': 'new games', 'relation': 'see', 'object': 'joysicks'}
+{'subject': 'games', 'relation': 'see', 'object': 'joysicks'}
+{'subject': 'new games', 'relation': 'disable', 'object': 'keyboard alltogether'}
+{'subject': 'games', 'relation': 'disable', 'object': 'keyboard alltogether'}
+{'subject': 'KIDS', 'relation': 'YELLING AT', 'object': 'ME'}
+{'subject': 'Your Email', 'relation': 'Attempt to', 'object': 'recover-No recovery email-KThen'}
+{'subject': 'you', 'relation': 'pay', 'object': 'money'}
+{'subject': 'better weapons', 'relation': 'kill', 'object': 'your opponents'}
+{'subject': 'you', 'relation': 'Even pay', 'object': 'money'}
+{'subject': 'weapons', 'relation': 'kill', 'object': 'your opponents'}
+{'subject': 'They', 'relation': 'since closed down', 'object': 'Australian servers'}
+{'subject': 'They', 'relation': 'closed down', 'object': 'Australian servers'}
+{'subject': 'They', 'relation': 'closed', 'object': 'making'}
+{'subject': 'They', 'relation': 'since closed down', 'object': 'servers'}
+{'subject': 'it', 'relation': 'unplayable for', 'object': 'anyone in area including myself'}
+{'subject': 'They', 'relation': 'since closed', 'object': 'making'}
+{'subject': 'it', 'relation': 'unplayable for', 'object': 'anyone'}
+{'subject': 'They', 'relation': 'ceased', 'object': 'development on PC version'}
+{'subject': 'They', 'relation': 'closed down', 'object': 'servers'}
+{'subject': 'They', 'relation': 'ceased', 'object': 'development'}
+{'subject': 'it', 'relation': 'unplayable for', 'object': 'anyone in area'}
+{'subject': 'anyone', 'relation': 'is in', 'object': 'area including myself'}
+{'subject': 'matchmaking', 'relation': 'is', 'object': 'garbage'}
+{'subject': 'training facility', 'relation': 'is', 'object': 'basicly game with bots play with'}
+{'subject': 'training facility', 'relation': 'is basicly game', 'object': 'play'}
+{'subject': 'game', 'relation': 'is with', 'object': 'bots'}
+{'subject': 'training facility', 'relation': 'is game', 'object': 'play'}
+{'subject': 'training facility', 'relation': 'is', 'object': 'game with bots play'}
+{'subject': 'training facility', 'relation': 'is game', 'object': 'play with'}
+{'subject': 'training facility', 'relation': 'is', 'object': 'game with bots play with'}
+{'subject': 'training facility', 'relation': 'is basicly game', 'object': 'play with'}
+{'subject': 'training facility', 'relation': 'is', 'object': 'basicly game with bots play'}
+{'subject': 'I', 'relation': 'had', 'object': 'quit'}
+{'subject': 'I', 'relation': 'quit with', 'object': 'Alt'}
+{'subject': 'I', 'relation': 'had', 'object': 'quit with Alt'}
+{'subject': 'It', 'relation': 'is', 'object': 'free'}
+{'subject': 'you', 'relation': 'might like', 'object': 'it'}
+{'subject': 'It', 'relation': 'only takes', 'object': '45 minutes'}
+{'subject': 'It', 'relation': 'is', 'object': 'game'}
+{'subject': 'It', 'relation': 'is', 'object': 'free game'}
+{'subject': 'It', 'relation': 'takes', 'object': '45 minutes'}
+{'subject': '69/420', 'relation': 'played', 'object': 'game'}
+{'subject': 'built house', 'relation': 'is with', 'object': 'friends'}
+{'subject': 'it', 'relation': 'now given up', 'object': '10/10'}
+{'subject': 'it', 'relation': 'given up', 'object': '10/10'}
+{'subject': 'Valve', 'relation': 'get', 'object': 'your'}
+{'subject': 'anyone', 'relation': 'so help', 'object': 'me'}
+{'subject': 'anyone', 'relation': 'help', 'object': 'me'}
+{'subject': 'me', 'relation': 'being', 'object': 'me'}
+{'subject': 'slow', 'relation': 'reaches', 'object': 'medium'}
+{'subject': 'slow', 'relation': 'just DROPS', 'object': 'you complete everything'}
+{'subject': 'game', 'relation': 'is very slow at', 'object': 'start'}
+{'subject': 'game', 'relation': 'is', 'object': 'slow'}
+{'subject': 'game', 'relation': 'is', 'object': 'anyway very slow'}
+{'subject': 'slow', 'relation': 'DROPS', 'object': 'you complete everything'}
+{'subject': 'game', 'relation': 'is', 'object': 'anyway slow'}
+{'subject': 'game', 'relation': 'is', 'object': 'very slow'}
+{'subject': 'game', 'relation': 'anyway is very slow at', 'object': 'start'}
+{'subject': 'slow', 'relation': 'just DROPS', 'object': 'you everything'}
+{'subject': 'slow', 'relation': 'DROPS', 'object': 'you everything'}
+{'subject': 'game', 'relation': 'anyway is slow at', 'object': 'start'}
+{'subject': 'game', 'relation': 'is slow at', 'object': 'start'}
+{'subject': 'it', 'relation': 'was', 'object': 'eccepted'}
+{'subject': 'it', 'relation': 'was even eccepted through', 'object': 'steam greenlight'}
+{'subject': 'it', 'relation': 'was', 'object': 'even eccepted'}
+{'subject': 'it', 'relation': 'was eccepted through', 'object': 'steam greenlight'}
+{'subject': 'it', 'relation': 'was', 'object': 'why even eccepted'}
+{'subject': 'it', 'relation': 'was', 'object': 'why even eccepted through steam greenlight'}
+{'subject': 'it', 'relation': 'was', 'object': 'why eccepted through steam greenlight'}
+{'subject': 'it', 'relation': 'was', 'object': 'why eccepted'}
+{'subject': 'game', 'relation': 'was like', 'object': 'THIS'}
+{'subject': 'game', 'relation': 'get', 'object': 'refund'}
+{'subject': 'I', 'relation': 'have', 'object': 'amd 390 series'}
+{'subject': 'I', 'relation': 'have', 'object': 'amd series'}
+{'subject': 'game', 'relation': 'was like', 'object': 'SWEET THIS'}
+{'subject': 'AWESOME', 'relation': 'started up', 'object': 'game'}
+{'subject': 'game', 'relation': 'get', 'object': 'refund Ridiculous'}
+{'subject': '♥ heads', 'relation': 'get', 'object': 'you'}
+{'subject': 'you', 'relation': 'buy', 'object': 'their product'}
+{'subject': 'I', 'relation': "'m", 'object': 'sick'}
+{'subject': 'hungry ♥ heads', 'relation': 'get', 'object': 'you'}
+{'subject': 'you', 'relation': 'sound', 'object': 'you are'}
+{'subject': 'Game', 'relation': 'works with', 'object': 'nvidia cards'}
+{'subject': '> Game', 'relation': 'works with', 'object': 'nvidia cards'}
+{'subject': '> Game', 'relation': 'only works with', 'object': 'nvidia cards'}
+{'subject': 'Game', 'relation': 'only works with', 'object': 'nvidia cards'}
+{'subject': 'it', 'relation': 'looks like', 'object': 'it'}
+{'subject': 'My money', 'relation': 'was', 'object': 'thrown'}
+{'subject': 'My money', 'relation': 'was thrown at', 'object': 'people'}
+{'subject': 'i', 'relation': 'create', 'object': 'singleplayer world'}
+{'subject': 'i', 'relation': 'create', 'object': 'world'}
+{'subject': 'devs', 'relation': 'give', 'object': 'damn about recoil'}
+{'subject': 'Impossible', 'relation': 'suck', 'object': 'money'}
+{'subject': 'game', 'relation': 'become', 'object': 'so unbalanced'}
+{'subject': 'devs', 'relation': 'damn about', 'object': 'community'}
+{'subject': 'devs', 'relation': 'give', 'object': 'damn about recoil of weapon'}
+{'subject': 'devs', 'relation': 'n`t give', 'object': 'damn'}
+{'subject': 'devs', 'relation': 'give', 'object': 'damn'}
+{'subject': 'name jfiam5udeh', 'relation': 'was taken', 'object': 'Best name maker simulator'}
+{'subject': 'Impossible', 'relation': 'suck', 'object': 'your money'}
+{'subject': 'name jfiam5udeh', 'relation': 'was taken', 'object': 'name maker simulator'}
+{'subject': 'devs', 'relation': 'give', 'object': 'damn about community'}
+{'subject': 'devs', 'relation': 'give', 'object': 'damn'}
+{'subject': 'i', 'relation': "'ve ever seen", 'object': 'revolver update'}
+{'subject': 'game', 'relation': 'become', 'object': 'unbalanced'}
+{'subject': 'i', 'relation': "'ve seen", 'object': 'revolver update'}
+{'subject': 'devs', 'relation': 'n`t give', 'object': 'damn about community'}
+{'subject': 'u', 'relation': 'love', 'object': 'VOLVO'}
+{'subject': '♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ Volvo game', 'relation': 'is', 'object': 'terrible'}
+{'subject': 'I', 'relation': 'gave', 'object': '3.5 hrs'}
+{'subject': 'I', 'relation': 'gave', 'object': 'it'}
+{'subject': 'I', 'relation': 'gave', 'object': '3.5 hrs of my life'}
+{'subject': 'game', 'relation': 'feels', 'object': 'way overhyped'}
+{'subject': 'whole game', 'relation': 'feels', 'object': 'way overhyped'}
+{'subject': 'whole game', 'relation': 'feels', 'object': 'overhyped'}
+{'subject': 'game', 'relation': 'feels', 'object': 'overhyped'}
+{'subject': 'pointless.The graphics', 'relation': 'were', 'object': 'good'}
+{'subject': 'Combat', 'relation': 'is', 'object': 'boring'}
+{'subject': 'city', 'relation': 'were', 'object': 'good though'}
+{'subject': 'pointless.The graphics', 'relation': 'were', 'object': 'good though'}
+{'subject': 'city', 'relation': 'were', 'object': 'good'}
+{'subject': 'graphics', 'relation': 'were', 'object': 'good'}
+{'subject': 'graphics', 'relation': 'were', 'object': 'good though'}
+{'subject': 'DRM', 'relation': 'Prevents', 'object': 'activation'}
+{'subject': 'it', 'relation': 'has', 'object': 'length'}
+{'subject': 'many errors', 'relation': 'is with', 'object': 'lock-on system'}
+{'subject': 'large problems', 'relation': 'is with', 'object': 'rolling mechanic'}
+{'subject': 'its horrible game', 'relation': 'is in', 'object': 'general'}
+{'subject': 'game', 'relation': 'started off as', 'object': 'awesome'}
+{'subject': 'you', 'relation': 'progress into', 'object': 'teirs'}
+{'subject': 'you', 'relation': 'unlocking', 'object': 'weapons'}
+{'subject': 'you', 'relation': 'unlocking', 'object': 'armours'}
+{'subject': 'you', 'relation': 'unlocking', 'object': 'utilities'}
+{'subject': 'I', 'relation': 'can remember', 'object': 'times'}
+{'subject': 'you', 'relation': 'progress into', 'object': 'new teirs'}
+{'subject': 'you', 'relation': 'unlocking', 'object': 'different armours'}
+{'subject': 'updates', 'relation': 'happened until', 'object': 'alll'}
+{'subject': 'updates', 'relation': 'happened until', 'object': 'alll of sudden'}
+{'subject': 'terrible.What', 'relation': 'made', 'object': 'game'}
+{'subject': 'tiers', 'relation': 'diversity of was', 'object': 'fact'}
+{'subject': 'they', 'relation': 'take', 'object': 'hard work'}
+{'subject': 'they', 'relation': 'just deleted', 'object': 'it'}
+{'subject': 'terrible.What', 'relation': 'made bad', 'object': 'game'}
+{'subject': 'diversity', 'relation': 'was', 'object': 'fact'}
+{'subject': 'terrible.What', 'relation': 'made so bad', 'object': 'game'}
+{'subject': 'they', 'relation': 'deleted', 'object': 'it'}
+{'subject': 'different tiers', 'relation': 'diversity of was', 'object': 'fact'}
+{'subject': 'hard work', 'relation': 'time off', 'object': 'users'}
+{'subject': 'those', 'relation': 'needs', 'object': 'recognise'}
+{'subject': 'devs', 'relation': 'didnt', 'object': 'refund'}
+{'subject': 'devs', 'relation': 'didnt', 'object': 'even refund'}
+{'subject': 'CAN CLEARLY', 'relation': 'BE', 'object': 'SEEN IN REVIEWS'}
+{'subject': 'CAN CLEARLY', 'relation': 'BE', 'object': 'SEEN'}
+{'subject': 'SEEN', 'relation': 'is IN', 'object': 'REVIEWS'}
+{'subject': 'drastic restorations', 'relation': 'are', 'object': 'conducted'}
+{'subject': 'restorations', 'relation': 'are', 'object': 'conducted'}
+{'subject': 'YOU', 'relation': 'WILL ENJOY', 'object': 'GAME'}
+{'subject': 'YOU', 'relation': 'WILL NOT ENJOY', 'object': 'GAME'}
+{'subject': 'it', 'relation': 'Back pulled in', 'object': 'me'}
+{'subject': 'it', 'relation': 'pulled in', 'object': 'me'}
+{'subject': 'i', 'relation': 'hated', 'object': 'it'}
+{'subject': 'It', 'relation': 'was', 'object': 'hard'}
+{'subject': 'i', 'relation': 'going', 'object': 'get at this'}
+{'subject': 'i', 'relation': 'going at_time', 'object': 'One day'}
+{'subject': 'i', 'relation': 'thought to', 'object': 'myself'}
+{'subject': 'i', 'relation': 'get', 'object': 'good'}
+{'subject': 'i', 'relation': 'going', 'object': 'get'}
+{'subject': 'i', 'relation': 'get at', 'object': 'this'}
+{'subject': 'Play game', 'relation': 'get', 'object': 'TF2 hat'}
+{'subject': 'Play game', 'relation': 'get', 'object': 'TF2 hat afterwards'}
+{'subject': 'TF2 hat', 'relation': 'hat into', 'object': 'TF2 hat.Delete game'}
+{'subject': 'English', 'relation': 'feel from', 'object': 'your decisions'}
+{'subject': 'English', 'relation': 'is', 'object': 'pretty terrible'}
+{'subject': 'English', 'relation': 'disconnected feel from', 'object': 'your decisions'}
+{'subject': 'English', 'relation': 'total feel from', 'object': 'your decisions'}
+{'subject': 'English', 'relation': 'total disconnected feel from', 'object': 'your decisions'}
+{'subject': 'English', 'relation': 'is', 'object': 'terrible'}
+{'subject': 'two new characters', 'relation': 'is with', 'object': 'decent amount of interaction introduced in dlc'}
+{'subject': 'you', 'relation': 'do', 'object': 'not.There'}
+{'subject': 'other', 'relation': 'was', 'object': 'very shallow'}
+{'subject': 'other', 'relation': 'was', 'object': 'shallow'}
+{'subject': 'it', 'relation': 'have', 'object': 'your own custom companion'}
+{'subject': 'it', 'relation': 'have', 'object': 'your custom companion'}
+{'subject': 'it', 'relation': 'has', 'object': 'fun'}
+{'subject': 'interface', 'relation': 'is', 'object': 'also slightly confusing'}
+{'subject': 'change', 'relation': 'is in', 'object': 'damage/resistance'}
+{'subject': 'interface', 'relation': 'is', 'object': 'also confusing'}
+{'subject': 'mod', 'relation': 'doing', 'object': 'check'}
+{'subject': 'mod', 'relation': 'doing', 'object': 'check yourself'}
+{'subject': 'it', 'relation': 'is', 'object': 'difficult'}
+{'subject': 'mod', 'relation': 'doing', 'object': 'manual check'}
+{'subject': 'interface', 'relation': 'is', 'object': 'slightly confusing'}
+{'subject': 'mod', 'relation': 'doing', 'object': 'manual check yourself'}
+{'subject': 'interface', 'relation': 'is', 'object': 'confusing'}
+{'subject': 'I', 'relation': 'trust', 'object': 'those little'}
+{'subject': 'I', 'relation': 'trust', 'object': 'those'}
+{'subject': 'I', 'relation': 'really felt', 'object': 'challenged at one stage in dlc'}
+{'subject': 'one stage', 'relation': 'is in', 'object': 'dlc'}
+{'subject': 'I', 'relation': 'only felt', 'object': 'challenged at one stage in dlc'}
+{'subject': 'I', 'relation': 'challenged at', 'object': 'one stage in dlc'}
+{'subject': 'I', 'relation': 'only felt', 'object': 'challenged on combat'}
+{'subject': 'I', 'relation': 'really only felt', 'object': 'challenged'}
+{'subject': 'I', 'relation': 'really felt', 'object': 'challenged at one stage'}
+{'subject': 'I', 'relation': 'felt', 'object': 'challenged at one stage'}
+{'subject': 'I', 'relation': 'only felt', 'object': 'challenged'}
+{'subject': 'I', 'relation': 'really only felt', 'object': 'challenged at one stage'}
+{'subject': 'I', 'relation': 'only felt', 'object': 'challenged on combat at one stage'}
+{'subject': 'I', 'relation': 'really only felt', 'object': 'challenged on combat at one stage in dlc'}
+{'subject': 'I', 'relation': 'really only felt', 'object': 'challenged on combat at one stage'}
+{'subject': 'I', 'relation': 'challenged on', 'object': 'combat'}
+{'subject': 'I', 'relation': 'felt', 'object': 'challenged'}
+{'subject': 'I', 'relation': 'really only felt', 'object': 'challenged at one stage in dlc'}
+{'subject': 'I', 'relation': 'really only felt', 'object': 'challenged on combat'}
+{'subject': 'I', 'relation': 'only felt', 'object': 'challenged at one stage'}
+{'subject': 'I', 'relation': 'only felt', 'object': 'challenged on combat at one stage in dlc'}
+{'subject': 'I', 'relation': 'felt', 'object': 'challenged on combat at one stage'}
+{'subject': 'I', 'relation': 'really felt', 'object': 'challenged on combat at one stage'}
+{'subject': 'I', 'relation': 'felt', 'object': 'challenged at one stage in dlc'}
+{'subject': 'I', 'relation': 'felt', 'object': 'challenged on combat'}
+{'subject': 'I', 'relation': 'challenged at', 'object': 'one stage'}
+{'subject': 'I', 'relation': 'really felt', 'object': 'challenged'}
+{'subject': 'I', 'relation': 'really felt', 'object': 'challenged on combat'}
+{'subject': 'I', 'relation': 'felt', 'object': 'challenged on combat at one stage in dlc'}
+{'subject': 'I', 'relation': 'really felt', 'object': 'challenged on combat at one stage in dlc'}
+{'subject': 'fallout 4', 'relation': 'has regardless', 'object': 'difficulty issues'}
+{'subject': 'best', 'relation': 'added well', 'object': 'energy'}
+{'subject': 'luck', 'relation': 'best of are', 'object': 'few weapons added in dlc'}
+{'subject': 'luck', 'relation': 'best of are', 'object': 'few new weapons'}
+{'subject': 'best', 'relation': 'are', 'object': 'new weapons'}
+{'subject': 'best', 'relation': 'added well in', 'object': 'dlc'}
+{'subject': 'majority', 'relation': 'being', 'object': 'mele'}
+{'subject': 'best', 'relation': 'are', 'object': 'weapons'}
+{'subject': 'luck', 'relation': 'best of are', 'object': 'weapons added'}
+{'subject': 'luck', 'relation': 'best of are', 'object': 'weapons added in dlc'}
+{'subject': 'luck', 'relation': 'best of are', 'object': 'few weapons'}
+{'subject': 'new weapons', 'relation': 'added in', 'object': 'dlc'}
+{'subject': 'best', 'relation': 'are', 'object': 'few weapons added'}
+{'subject': 'best', 'relation': 'are', 'object': 'new weapons added in dlc'}
+{'subject': 'best', 'relation': 'are', 'object': 'weapons added'}
+{'subject': 'best', 'relation': 'added well', 'object': 'mele'}
+{'subject': 'luck', 'relation': 'best of are', 'object': 'few weapons added'}
+{'subject': 'best', 'relation': 'added', 'object': 'energy'}
+{'subject': 'luck', 'relation': 'best of are', 'object': 'weapons'}
+{'subject': 'best', 'relation': 'are', 'object': 'few weapons'}
+{'subject': 'luck', 'relation': 'best of are', 'object': 'few new weapons added'}
+{'subject': 'luck', 'relation': 'best of are', 'object': 'new weapons'}
+{'subject': 'best', 'relation': 'added in', 'object': 'dlc'}
+{'subject': 'you', 'relation': 'build', 'object': 'decent robot mods.There'}
+{'subject': 'weapons', 'relation': 'added in', 'object': 'dlc'}
+{'subject': 'best', 'relation': 'are', 'object': 'weapons added in dlc'}
+{'subject': 'best', 'relation': 'added', 'object': 'then energy'}
+{'subject': 'luck', 'relation': 'best of are', 'object': 'new weapons added'}
+{'subject': 'best', 'relation': 'are', 'object': 'few weapons added in dlc'}
+{'subject': 'best', 'relation': 'are', 'object': 'new'}
+{'subject': 'best', 'relation': 'are', 'object': 'few'}
+{'subject': 'best', 'relation': 'added well', 'object': 'then energy'}
+{'subject': 'best', 'relation': 'are', 'object': 'new weapons added'}
+{'subject': 'few weapons', 'relation': 'added in', 'object': 'dlc'}
+{'subject': 'best', 'relation': 'added', 'object': 'mele'}
+{'subject': 'best', 'relation': 'are', 'object': 'few new weapons added'}
+{'subject': 'best', 'relation': 'are', 'object': 'few new weapons'}
+{'subject': 'they', 'relation': 'pack', 'object': 'considerate punch.There'}
+{'subject': 'you', 'relation': 'buying outright', 'object': 'dlc'}
+{'subject': 'you', 'relation': 'buying', 'object': 'dlc'}
+{'subject': 'they', 'relation': 'only benefit', 'object': 'energy weapons'}
+{'subject': 'they', 'relation': 'benefit', 'object': 'energy weapons'}
+{'subject': 'they', 'relation': 'fail with', 'object': 'Even modification'}
+{'subject': 'they', 'relation': 'are', 'object': 'non transferable'}
+{'subject': 'dlc', 'relation': 'adds', 'object': 'cool features'}
+{'subject': 'they', 'relation': 'fail with', 'object': 'full modification'}
+{'subject': 'dlc', 'relation': 'adds features to', 'object': 'your settlement'}
+{'subject': 'they', 'relation': 'fail with', 'object': 'Even full modification'}
+{'subject': 'they', 'relation': 'are', 'object': 'transferable'}
+{'subject': 'energy weapons', 'relation': 'users.In', 'object': 'end'}
+{'subject': 'they', 'relation': 'fail with', 'object': 'modification'}
+{'subject': 'dlc', 'relation': 'adds', 'object': 'features'}
+{'subject': 'game', 'relation': 'was', 'object': 'When announced at E3 years ago'}
+{'subject': 'I', 'relation': 'joined', 'object': 'communioty'}
+{'subject': 'I', 'relation': 'joined communioty following', 'object': 'it'}
+{'subject': 'game', 'relation': 'was', 'object': 'When announced'}
+{'subject': 'game', 'relation': 'was announced at', 'object': 'E3'}
+{'subject': 'game', 'relation': 'was', 'object': 'When first announced at E3 years ago'}
+{'subject': 'game', 'relation': 'was', 'object': 'When announced years ago'}
+{'subject': 'game', 'relation': 'was', 'object': 'When first announced'}
+{'subject': 'game', 'relation': 'was first announced at', 'object': 'E3'}
+{'subject': 'game', 'relation': 'was', 'object': 'first announced at E3 years ago'}
+{'subject': 'game', 'relation': 'was', 'object': 'first announced'}
+{'subject': 'I', 'relation': 'joined', 'object': 'growing communioty'}
+{'subject': 'game', 'relation': 'was', 'object': 'When first announced years ago'}
+{'subject': 'game', 'relation': 'was', 'object': 'first announced years ago'}
+{'subject': 'game', 'relation': 'was', 'object': 'announced years ago'}
+{'subject': 'game', 'relation': 'was', 'object': 'When announced at E3'}
+{'subject': 'game', 'relation': 'was', 'object': 'When first announced at E3'}
+{'subject': 'game', 'relation': 'was', 'object': 'announced'}
+{'subject': 'game', 'relation': 'was', 'object': 'announced at E3 years ago'}
+{'subject': 'I', 'relation': 'awaited', 'object': 'new information'}
+{'subject': 'I', 'relation': 'eagerly awaited', 'object': 'new information'}
+{'subject': 'me', 'relation': 'tell now', 'object': 'you'}
+{'subject': 'me', 'relation': 'tell', 'object': 'you'}
+{'subject': 'you', 'relation': 'buy at_time', 'object': 'today'}
+{'subject': 'you', 'relation': 'buy here at_time', 'object': 'today'}
+{'subject': 'you', 'relation': 'are only hearing now about', 'object': 'game'}
+{'subject': 'you', 'relation': 'are only hearing about', 'object': 'game'}
+{'subject': 'you', 'relation': 'are hearing now about', 'object': 'game'}
+{'subject': 'you', 'relation': 'are hearing about', 'object': 'game'}
+{'subject': 'you', 'relation': 'make', 'object': 'decision'}
+{'subject': 'you', 'relation': 'make', 'object': 'accurate decision'}
+{'subject': 'you', 'relation': 'will enjoy', 'object': 'game'}
+{'subject': 'You', 'relation': 'will', 'object': 'will as eager'}
+{'subject': 'You', 'relation': 'will', 'object': 'will eager'}
+{'subject': 'romanian division', 'relation': 'cut through', 'object': 'center of your reich'}
+{'subject': 'you', 'relation': 'spend', 'object': 'hours'}
+{'subject': 'you', 'relation': 'spend', 'object': 'countless hours micro'}
+{'subject': 'you', 'relation': 'spend', 'object': 'countless hours'}
+{'subject': 'developers', 'relation': 'are', 'object': 'garbage game'}
+{'subject': '20 romanian division', 'relation': 'cut through', 'object': 'right center of your reich to Berlin'}
+{'subject': 'romanian division', 'relation': 'cut through', 'object': 'right center of your reich to Berlin'}
+{'subject': 'you', 'relation': 'spend', 'object': 'hours micro'}
+{'subject': 'romanian division', 'relation': 'cut through', 'object': 'center of your reich to Berlin'}
+{'subject': 'romanian division', 'relation': 'cut through', 'object': 'center'}
+{'subject': 'romanian division', 'relation': 'cut through', 'object': 'right center of your reich'}
+{'subject': '20 romanian division', 'relation': 'cut through', 'object': 'center'}
+{'subject': 'micro', 'relation': 'managing', 'object': 'game'}
+{'subject': '20 romanian division', 'relation': 'cut through', 'object': 'right center of your reich'}
+{'subject': 'romanian division', 'relation': 'cut through', 'object': 'right center'}
+{'subject': '20 romanian division', 'relation': 'cut through', 'object': 'center of your reich'}
+{'subject': '20 romanian division', 'relation': 'cut through', 'object': 'right center'}
+{'subject': 'developers', 'relation': 'are', 'object': 'ing garbage game'}
+{'subject': 'you', 'relation': 'spend hours', 'object': 'have'}
+{'subject': '20 romanian division', 'relation': 'cut through', 'object': 'center of your reich to Berlin'}
+{'subject': 'The', 'relation': 'are', 'object': 'poor excuse'}
+{'subject': 'The', 'relation': 'fail at', 'object': 'given opportunity'}
+{'subject': 'The', 'relation': 'are', 'object': 'poor'}
+{'subject': 'The', 'relation': 'are', 'object': 'excuse'}
+{'subject': 'I', 'relation': "'m always crashed after", 'object': 'tutorial'}
+{'subject': 'I', 'relation': "'m", 'object': 'crashed'}
+{'subject': 'I', 'relation': "'m", 'object': 'why crashed after tutorial'}
+{'subject': 'I', 'relation': "'m", 'object': 'why always crashed after tutorial'}
+{'subject': 'I', 'relation': "'m", 'object': 'why crashed'}
+{'subject': 'I', 'relation': "'m crashed after", 'object': 'tutorial of game Ok'}
+{'subject': 'you', 'relation': 'ask', 'object': 'me'}
+{'subject': 'I', 'relation': "'m always crashed after", 'object': 'tutorial of game Ok'}
+{'subject': 'I', 'relation': "'m", 'object': 'always crashed'}
+{'subject': 'I', 'relation': "'m", 'object': 'why always crashed'}
+{'subject': 'I', 'relation': "'m crashed after", 'object': 'tutorial'}
+{'subject': 'I', 'relation': 'say', 'object': 'this'}
+{'subject': 'I', 'relation': 'have', 'object': 'say'}
+{'subject': 'I', 'relation': "'m", 'object': 'why always crashed after tutorial of game Ok'}
+{'subject': 'I', 'relation': "'m", 'object': 'why crashed after tutorial of game Ok'}
+{'subject': 'I', 'relation': 'just have', 'object': 'say'}
+{'subject': 'game', 'relation': 'is used for', 'object': 'shop'}
+{'subject': 'game', 'relation': 'is', 'object': 'used'}
+{'subject': 'game', 'relation': 'is', 'object': 'also used'}
+{'subject': 'game', 'relation': 'is also used for', 'object': 'shop'}
+{'subject': 'GO', 'relation': 'also do thing with', 'object': 'shopping mechanism of keys for weapons'}
+{'subject': 'GO', 'relation': 'also do', 'object': 'same thing'}
+{'subject': 'GO', 'relation': 'also do thing with', 'object': 'shopping mechanism'}
+{'subject': 'GO', 'relation': 'also do thing with', 'object': 'shopping mechanism of keys'}
+{'subject': 'GO', 'relation': 'do thing with', 'object': 'shopping mechanism of keys for weapons'}
+{'subject': 'GO', 'relation': 'do', 'object': 'same thing'}
+{'subject': 'GO', 'relation': 'do', 'object': 'thing'}
+{'subject': 'GO', 'relation': 'do thing with', 'object': 'shopping mechanism'}
+{'subject': 'GO', 'relation': 'also do', 'object': 'thing'}
+{'subject': 'GO', 'relation': 'do thing with', 'object': 'shopping mechanism of keys'}
+{'subject': 'me', 'relation': 'start up again', 'object': 'once more'}
+{'subject': 'me', 'relation': 'start up again', 'object': 'game'}
+{'subject': 'me', 'relation': 'start up again', 'object': 'more'}
+{'subject': 'me', 'relation': 'start up again', 'object': 'prove'}
+{'subject': 'i', 'relation': 'get', 'object': 'unusual'}
+{'subject': 'me', 'relation': 'start up', 'object': 'more'}
+{'subject': 'me', 'relation': 'start up', 'object': 'prove'}
+{'subject': 'it', 'relation': 'be', 'object': 'worth'}
+{'subject': 'me', 'relation': 'start up', 'object': 'once more'}
+{'subject': 'me', 'relation': 'start up', 'object': 'game'}
+{'subject': 'it', 'relation': 'is', 'object': 'final'}
+{'subject': 'Simplemente', 'relation': 'algunos', 'object': 'otros no'}
+{'subject': 'loot system', 'relation': 'top off', 'object': 'it'}
+{'subject': 'most people', 'relation': 'are OP in', 'object': 'PvP'}
+{'subject': 'oppostite', 'relation': 'is In', 'object': 'fact'}
+{'subject': 'they', 'relation': 'sometimes are oppostite In', 'object': 'fact'}
+{'subject': 'they', 'relation': 'are', 'object': 'sometimes oppostite'}
+{'subject': 'they', 'relation': 'are oppostite In', 'object': 'fact'}
+{'subject': 'they', 'relation': 'are', 'object': 'oppostite'}
+{'subject': 'attitude', 'relation': 'are', 'object': 'threads down of anyone'}
+{'subject': 'attitude', 'relation': 'communicating', 'object': 'minimum'}
+{'subject': 'attitude', 'relation': 'are', 'object': 'threads down'}
+{'subject': 'attitude', 'relation': 'are', 'object': 'close threads'}
+{'subject': 'attitude', 'relation': 'are', 'object': 'close threads down of anyone'}
+{'subject': 'game', 'relation': 'is in', 'object': 'trouble'}
+{'subject': 'attitude', 'relation': 'are', 'object': 'threads'}
+{'subject': 'attitude', 'relation': 'are', 'object': 'close threads down'}
+{'subject': 'attitude', 'relation': 'communicating', 'object': 'absolute minimum'}
+{'subject': 'loot drops', 'relation': 'is alone sign of', 'object': 'completely broken game.I'}
+{'subject': 'Massive/Ubisoft', 'relation': 'laid', 'object': 'their dirty little fingers'}
+{'subject': 'Massive/Ubisoft', 'relation': 'laid', 'object': 'their dirty fingers'}
+{'subject': 'I', 'relation': 'gotten out of', 'object': 'game'}
+{'subject': 'Massive/Ubisoft', 'relation': 'laid', 'object': 'their fingers'}
+{'subject': 'Massive/Ubisoft', 'relation': 'laid', 'object': 'their little fingers'}
+{'subject': 'game', 'relation': 'didnt', 'object': 'cost'}
+{'subject': 'models', 'relation': 'are clearly re-textured from', 'object': 'arma games'}
+{'subject': 'models', 'relation': 'are clearly re-textured from', 'object': 'earlier arma games'}
+{'subject': 'models', 'relation': 'are re-textured from', 'object': 'arma games'}
+{'subject': 'models', 'relation': 'are', 'object': 'clearly re-textured'}
+{'subject': 'models', 'relation': 'are re-textured from', 'object': 'earlier arma games'}
+{'subject': 'models', 'relation': 'are', 'object': 're-textured'}
+{'subject': '20 vehicles', 'relation': 'is in', 'object': 'game'}
+{'subject': 'good thing', 'relation': 'is in', 'object': 'game'}
+{'subject': 'good thing', 'relation': 'is', 'object': 'charecter customizer'}
+{'subject': 'thing', 'relation': 'is', 'object': 'charecter customizer'}
+{'subject': 'improvements thing', 'relation': 'Banned', 'object': 'me'}
+{'subject': 'AAA games', 'relation': 'take regardless', 'object': 'you'}
+{'subject': 'most AAA games', 'relation': 'are', 'object': 'quite deep'}
+{'subject': 'most AAA games', 'relation': 'take regardless', 'object': 'you'}
+{'subject': 'minecraft', 'relation': 'is', 'object': 'infinite'}
+{'subject': 'AAA games', 'relation': 'are', 'object': 'quite deep'}
+{'subject': 'AAA games', 'relation': 'take', 'object': 'you'}
+{'subject': 'most AAA games', 'relation': 'are', 'object': 'deep'}
+{'subject': 'Games', 'relation': 'are like', 'object': 'pools'}
+{'subject': 'most AAA games', 'relation': 'take', 'object': 'you'}
+{'subject': 'AAA games', 'relation': 'are', 'object': 'deep'}
+{'subject': 'kiddy pool infinite', 'relation': 'is in', 'object': 'size'}
+{'subject': 'auto pilot', 'relation': 'down dumb is', 'object': 'depth of crafting system'}
+{'subject': 'game', 'relation': 'has become', 'object': 'extremely simpler'}
+{'subject': 'it', 'relation': 'has', 'object': 'looks'}
+{'subject': 'game', 'relation': 'has now become', 'object': 'simpler'}
+{'subject': 'game', 'relation': 'has become', 'object': 'simpler'}
+{'subject': 'it', 'relation': "'s looks", 'object': 'game has become'}
+{'subject': 'game', 'relation': 'has now become', 'object': 'extremely simpler'}
+{'subject': 'it', 'relation': "'s looks", 'object': 'game has become then'}
+{'subject': 'promises', 'relation': 'made', 'object': '.2'}
+{'subject': 'They', 'relation': 'justifying there', 'object': 'lack'}
+{'subject': 'They', 'relation': 'reduce', 'object': 'price'}
+{'subject': 'They', 'relation': 'justifying there', 'object': 'content'}
+{'subject': 'They', 'relation': 'justifying', 'object': 'lack'}
+{'subject': 'They', 'relation': 'justifying', 'object': 'content'}
+{'subject': 'it', 'relation': 'has', 'object': 'gay'}
+{'subject': 'better game', 'relation': 'comes', 'object': 'gay'}
+{'subject': 'game', 'relation': 'comes', 'object': 'gay'}
+{'subject': 'Valve', 'relation': 'please', 'object': 'fix'}
+{'subject': 'they', 'relation': 'thrown', 'object': 'you'}
+{'subject': 'fun.Multiplayer', 'relation': 'felt', 'object': 'they thrown into game'}
+{'subject': 'they', 'relation': 'thrown into', 'object': 'game'}
+{'subject': 'fun.Multiplayer', 'relation': 'felt', 'object': 'they thrown'}
+{'subject': 'It', 'relation': 'didnt', 'object': 'feel like cods played'}
+{'subject': 'It', 'relation': 'didnt', 'object': 'feel like cods i played'}
+{'subject': 'It', 'relation': 'didnt', 'object': 'feel'}
+{'subject': 'It', 'relation': 'didnt', 'object': 'feel like cods'}
+{'subject': 'you', 'relation': 'have along', 'object': 'friends'}
+{'subject': 'keysThis game', 'relation': 'is', 'object': 'just boring'}
+{'subject': 'keysThis game', 'relation': 'is', 'object': 'boring'}
+{'subject': 'you', 'relation': 'have friends to', 'object': 'party'}
+{'subject': 'you', 'relation': 'have friends along to', 'object': 'party'}
+{'subject': 'you', 'relation': 'have', 'object': 'friends'}
+{'subject': 'fun game', 'relation': 'is with', 'object': 'even playing feild'}
+{'subject': 'it', 'relation': 'now is crappy game with', 'object': 'no near playing feild'}
+{'subject': 'it', 'relation': 'now is crappy game with', 'object': 'no where near playing feild'}
+{'subject': 'it', 'relation': 'now is crappy game with', 'object': 'no near fair playing feild'}
+{'subject': 'it', 'relation': 'now is crappy game with', 'object': 'no where near fair playing feild'}
+{'subject': 'crappy game', 'relation': 'is with', 'object': 'no where near fair playing feild'}
+{'subject': 'UFO', 'relation': 'of', 'object': 'come play'}
+{'subject': 'grind', 'relation': 'is in', 'object': 'game'}
+{'subject': 'grind', 'relation': 'is', 'object': '♥ est'}
+{'subject': 'grind', 'relation': 'is', 'object': 'by far ♥ est'}
+{'subject': 'It', 'relation': 'takes', 'object': 'sooooo long'}
+{'subject': 'It', 'relation': 'takes', 'object': 'long'}
+{'subject': 'you', 'relation': 'go', 'object': 'progress through tech tree'}
+{'subject': 'you', 'relation': 'go', 'object': 'just progress'}
+{'subject': 'game', 'relation': 'is almost forcing', 'object': 'you'}
+{'subject': 'you', 'relation': 'go', 'object': 'progress'}
+{'subject': 'game', 'relation': 'is forcing', 'object': 'you'}
+{'subject': 'you', 'relation': 'go', 'object': 'just progress through tech tree'}
+{'subject': 'you', 'relation': 'go', 'object': 'premium'}
+{'subject': 'devs', 'relation': 'listened to', 'object': 'us'}
+{'subject': 'game USE', 'relation': 'be', 'object': 'fun'}
+{'subject': 'i', 'relation': 'go to', 'object': 'dump'}
+{'subject': 'i', 'relation': 'next go to', 'object': 'dump'}
+{'subject': 'it', 'relation': 'does really take', 'object': 'mastermind'}
+{'subject': 'it', 'relation': 'make', 'object': 'Ai'}
+{'subject': 'it', 'relation': 'make', 'object': 'good Ai'}
+{'subject': 'it', 'relation': 'does take', 'object': 'mastermind'}
+{'subject': 'they', 'relation': 'vomiting out DLC', 'object': 'DLC i realise'}
+{'subject': 'they', 'relation': 'vomiting out', 'object': 'DLC'}
+{'subject': 'DLC Quest legit aint', 'relation': 'got nothin on', 'object': 'Payday 2'}
+{'subject': 'DLC Quest aint', 'relation': 'got nothin on', 'object': 'Payday 2'}
+{'subject': 'DLC Quest aint', 'relation': 'got', 'object': 'nothin'}
+{'subject': 'DLC Quest legit aint', 'relation': 'got', 'object': 'nothin'}
+{'subject': 'you', 'relation': 'get', 'object': 'money'}
+{'subject': 'you', 'relation': 'Basiclly get', 'object': 'money'}
+{'subject': 'I', 'relation': "'m happy with", 'object': 'this'}
+{'subject': 'I', 'relation': "'m", 'object': 'happy'}
+{'subject': 'I', 'relation': "'m so happy with", 'object': 'this'}
+{'subject': 'I', 'relation': "'m", 'object': 'so happy'}
+{'subject': '18/18 quintillion', 'relation': 'waste again', 'object': '60 USD'}
+{'subject': '18/18 quintillion', 'relation': 'waste', 'object': '60 USD'}
+{'subject': 'you', 'relation': 'can do', 'object': 'nothing'}
+{'subject': 'you', 'relation': 'can do', 'object': 'almost nothing'}
+{'subject': 'you', 'relation': 'can do in', 'object': 'nothing'}
+{'subject': 'you', 'relation': 'can do in', 'object': 'almost nothing'}
+{'subject': 'you', 'relation': 'being', 'object': 'made'}
+{'subject': 'you', 'relation': 'being made with', 'object': 'fantastic artstyle'}
+{'subject': 'you', 'relation': 'have got', 'object': 'licence ;-RRB-'}
+{'subject': 'you', 'relation': 'have got licence ;-RRB-', 'object': 'well made with artstyle'}
+{'subject': 'you', 'relation': 'have got licence ;-RRB- of', 'object': 'course'}
+{'subject': 'you', 'relation': 'have got licence ;-RRB-', 'object': 'well made'}
+{'subject': 'you', 'relation': 'being made with', 'object': 'artstyle'}
+{'subject': 'you', 'relation': 'have got licence ;-RRB-', 'object': 'made with fantastic artstyle'}
+{'subject': 'you', 'relation': 'have got licence ;-RRB-', 'object': 'made with artstyle'}
+{'subject': 'game', 'relation': 'is', 'object': 'unfair'}
+{'subject': 'game', 'relation': 'is', 'object': 'blatantly unfair'}
+{'subject': 'you', 'relation': 'being', 'object': 'well made'}
+{'subject': 'you', 'relation': 'have got licence ;-RRB-', 'object': 'made'}
+{'subject': 'you', 'relation': 'have got licence ;-RRB-', 'object': 'well made with fantastic artstyle'}
+{'subject': 'you', 'relation': 'being well made with', 'object': 'artstyle'}
+{'subject': 'you', 'relation': 'being well made with', 'object': 'fantastic artstyle'}
+{'subject': 'mockery', 'relation': 'ruin', 'object': 'your view'}
+{'subject': 'you', 'relation': 'are new to', 'object': 'AC games'}
+{'subject': 'you', 'relation': 'play', 'object': 'any of far better original ones'}
+{'subject': 'you', 'relation': 'play', 'object': 'any'}
+{'subject': 'you', 'relation': 'are', 'object': 'new'}
+{'subject': 'poor mockery', 'relation': 'ruin', 'object': 'your view'}
+{'subject': 'mockery', 'relation': 'ruin', 'object': 'your view of series'}
+{'subject': 'poor mockery', 'relation': 'ruin', 'object': 'your view of series'}
+{'subject': 'you', 'relation': 'play', 'object': 'any of better original ones'}
+{'subject': 'you', 'relation': 'play', 'object': 'any of better ones'}
+{'subject': 'you', 'relation': 'play', 'object': 'any of ones'}
+{'subject': 'you', 'relation': 'play', 'object': 'any of original ones'}
+{'subject': 'you', 'relation': 'play', 'object': 'any of far better ones'}
+{'subject': 'EVERYTHING', 'relation': 'make', 'object': 'it co op'}
+{'subject': 'EVERYTHING', 'relation': 'has', 'object': 'has sacrificed'}
+{'subject': 'Combat', 'relation': 'is now ruined due to', 'object': 'parries'}
+{'subject': 'Ubisoft', 'relation': 'go back to', 'object': 'Brotherhood'}
+{'subject': 'game', 'relation': 'is old', 'object': 'many years'}
+{'subject': 'I', 'relation': 'hours of', 'object': 'gameplay'}
+{'subject': 'Ubisoft', 'relation': 'go to', 'object': 'Brotherhood'}
+{'subject': 'game', 'relation': 'is old', 'object': 'years'}
+{'subject': 'everything', 'relation': 'is better', 'object': 'unity is'}
+{'subject': 'everything', 'relation': 'is in', 'object': 'game'}
+{'subject': 'everything', 'relation': 'is', 'object': 'better'}
+{'subject': 'I', 'relation': 'few hours of', 'object': 'gameplay'}
+{'subject': 'unity', 'relation': 'is at_time', 'object': 'today'}
+{'subject': 'everything', 'relation': 'is better', 'object': 'unity is today'}
+{'subject': 'it', 'relation': 'has become', 'object': 'frustrating'}
+{'subject': 'I', 'relation': 'recommend', 'object': 'game'}
+{'subject': 'smurfs', 'relation': 'are everywhere etc.Sure use', 'object': 'good game'}
+{'subject': 'weapons', 'relation': 'been', 'object': 'have tampered with much'}
+{'subject': 'smurfs', 'relation': 'are etc.Sure use', 'object': 'game'}
+{'subject': 'weapons', 'relation': 'been', 'object': 'have tampered with too much'}
+{'subject': 'smurfs', 'relation': 'be', 'object': 'game'}
+{'subject': 'weapons', 'relation': 'been', 'object': 'have tampered'}
+{'subject': 'smurfs', 'relation': 'are use', 'object': 'good game'}
+{'subject': 'smurfs', 'relation': 'are everywhere use', 'object': 'good game'}
+{'subject': 'smurfs', 'relation': 'be', 'object': 'good game'}
+{'subject': 'smurfs', 'relation': 'are use', 'object': 'game'}
+{'subject': 'smurfs', 'relation': 'are everywhere use', 'object': 'game'}
+{'subject': 'smurfs', 'relation': 'are everywhere etc.Sure use', 'object': 'game'}
+{'subject': 'smurfs', 'relation': 'be', 'object': 'good'}
+{'subject': 'smurfs', 'relation': 'are etc.Sure use', 'object': 'good game'}
+{'subject': 'It', 'relation': 'has given up', 'object': 'trying'}
+{'subject': 'it', 'relation': 'is begging for', 'object': 'death'}
+{'subject': 'It', 'relation': 'Alas has become', 'object': 'shell of its former self'}
+{'subject': 'It', 'relation': 'shell of', 'object': 'its former self'}
+{'subject': 'It', 'relation': 'has become', 'object': 'shell'}
+{'subject': 'It', 'relation': 'has become', 'object': 'shell of its former self'}
+{'subject': 'It', 'relation': 'Alas has become', 'object': 'shell'}
+{'subject': 'Thought game', 'relation': 'was', 'object': 'co-op'}
+{'subject': 'Thought game', 'relation': 'was', 'object': 'online co-op'}
+{'subject': 'Far Harbor DLC campaign', 'relation': 'had', 'object': 'decent load content'}
+{'subject': 'Far Harbor DLC campaign', 'relation': 'had', 'object': 'decent load of content'}
+{'subject': 'Far Harbor DLC campaign', 'relation': 'had', 'object': 'load of content'}
+{'subject': 'Far Harbor DLC campaign', 'relation': 'had', 'object': 'load content'}
+{'subject': 'that', 'relation': "'s somewhat enjoyable to", 'object': 'my perspective'}
+{'subject': 'you', 'relation': 'look into', 'object': 'content'}
+{'subject': 'you', 'relation': 'look into', 'object': 'downloadable content'}
+{'subject': 'you', 'relation': 'look back into', 'object': 'content'}
+{'subject': 'you', 'relation': 'look back into', 'object': 'downloadable content'}
+{'subject': 'lot', 'relation': 'is with', 'object': 'Fallout 3'}
+{'subject': 'I', 'relation': 'lot with', 'object': 'Fallout 3'}
+{'subject': 'I', 'relation': 'enjoyed', 'object': 'lot'}
+{'subject': 'I', 'relation': 'enjoyed', 'object': 'lot with Fallout 3'}
+{'subject': 'que tem nitro infinito', 'relation': 'dos', 'object': 'carros se elas nao mudam nada'}
+{'subject': 'que adianta ter especificaçoes', 'relation': 'dos', 'object': 'carros se elas nao mudam nada'}
+{'subject': 'glitchy', 'relation': 'find', 'object': 'object game'}
+{'subject': 'glitchy', 'relation': 'wonderful find', 'object': 'object game'}
+{'subject': 'glitchy', 'relation': 'find', 'object': 'object game for 5 god damn dollars .11'}
+{'subject': 'glitchy', 'relation': 'wonderful find', 'object': 'object game for 5 god damn dollars .11'}
+{'subject': 'game', 'relation': 'gets', 'object': 'worse'}
+{'subject': 'game unplayable.Lets', 'relation': 'take', 'object': 'plasma guns'}
+{'subject': 'you', 'relation': 'used', 'object': 'able'}
+{'subject': 'game', 'relation': 'gets over', 'object': 'time.The developers'}
+{'subject': 'Tis', 'relation': 'is because of', 'object': 'updates 1'}
+{'subject': 'Tis', 'relation': 'is because of', 'object': 'previous updates 1'}
+{'subject': 'guns', 'relation': 'equal', 'object': 'less shots'}
+{'subject': 'more guns', 'relation': 'equal', 'object': 'shots per minute'}
+{'subject': 'guns', 'relation': 'equal', 'object': 'less shots per minute'}
+{'subject': 'more guns', 'relation': 'reloading', 'object': 'nerf'}
+{'subject': 'guns', 'relation': 'reloading', 'object': 'nerf'}
+{'subject': 'more guns', 'relation': 'equal', 'object': 'less shots per minute'}
+{'subject': 'guns', 'relation': 'equal', 'object': 'shots per minute'}
+{'subject': 'more guns', 'relation': 'equal', 'object': 'less shots'}
+{'subject': 'guns', 'relation': 'equal', 'object': 'shots'}
+{'subject': 'more guns', 'relation': 'equal', 'object': 'shots'}
+{'subject': 'you', 'relation': 'can only shot', 'object': '6 plasmas balls'}
+{'subject': 'you', 'relation': 'can shot', 'object': '6 plasmas balls'}
+{'subject': 'you', 'relation': 'maximising', 'object': 'their time at max DPS'}
+{'subject': 'you', 'relation': 'maximising', 'object': 'their time'}
+{'subject': 'Noone', 'relation': 'can play', 'object': 'all'}
+{'subject': 'ready timer', 'relation': 'hits', 'object': '0'}
+{'subject': 'timer', 'relation': 'hits', 'object': '0'}
+{'subject': 'Noone', 'relation': 'can even play', 'object': 'all'}
+{'subject': 'Souls', 'relation': 'was', 'object': 'big'}
+{'subject': 'you', 'relation': "'re", 'object': 'staggered'}
+{'subject': 'you', 'relation': 'withstand', 'object': 'hits'}
+{'subject': 'you', 'relation': 'withstand hits', 'object': 'flinching'}
+{'subject': 'people', 'relation': 'allowing', 'object': 'you'}
+{'subject': 'people', 'relation': 'was', 'object': 'Poise'}
+{'subject': 'complete bs.Heavy armor', 'relation': 'has', 'object': 'main advantage'}
+{'subject': 'people', 'relation': 'was', 'object': 'then Poise'}
+{'subject': 'jack all.I', 'relation': 'am', 'object': 'disappointed in Bandai Namco From Software'}
+{'subject': 'jack all.I', 'relation': 'am gravely disappointed From', 'object': 'Software'}
+{'subject': 'Clerics', 'relation': 'were', 'object': 'hindered by change degree'}
+{'subject': 'Clerics', 'relation': 'were', 'object': 'hindered degree'}
+{'subject': 'Clerics', 'relation': 'were', 'object': 'hindered by change to installment.To'}
+{'subject': 'you', 'relation': 'start off', 'object': 'deprived through entire game'}
+{'subject': 'jack all.I', 'relation': 'am gravely disappointed in', 'object': 'Bandai Namco'}
+{'subject': 'Master', 'relation': 'has', 'object': 'attire'}
+{'subject': 'you', 'relation': 'start off', 'object': 'deprived through game'}
+{'subject': 'Clerics', 'relation': 'were', 'object': 'hindered by change to 3rd installment.To degree'}
+{'subject': 'you', 'relation': 'were expecting', 'object': 'first person shooter'}
+{'subject': 'you', 'relation': 'deprived through', 'object': 'entire game'}
+{'subject': 'Clerics', 'relation': 'were', 'object': 'hindered'}
+{'subject': 'jack all.I', 'relation': 'am disappointed in', 'object': 'Bandai Namco'}
+{'subject': 'atleast', 'relation': 'use', 'object': "Master 's attire"}
+{'subject': 'Clerics', 'relation': 'were', 'object': 'hindered by change to installment.To degree'}
+{'subject': 'you', 'relation': 'start off', 'object': 'deprived'}
+{'subject': 'jack all.I', 'relation': 'am', 'object': 'gravely disappointed in Bandai Namco From Software'}
+{'subject': 'Clerics', 'relation': 'were', 'object': 'hindered by change'}
+{'subject': 'Clerics', 'relation': 'were', 'object': 'hindered by change to 3rd installment.To'}
+{'subject': 'jack all.I', 'relation': 'am', 'object': 'disappointed'}
+{'subject': 'jack all.I', 'relation': 'am', 'object': 'gravely disappointed'}
+{'subject': 'you', 'relation': 'start off', 'object': 'play'}
+{'subject': 'jack all.I', 'relation': 'am disappointed From', 'object': 'Software'}
+{'subject': 'you', 'relation': 'deprived through', 'object': 'game'}
+{'subject': 'you', 'relation': 'were expecting', 'object': 'person shooter'}
+{'subject': 'game', 'relation': 'gave', 'object': 'cancer buggy'}
+{'subject': 'Gunslingers', 'relation': 'is', 'object': 'fun'}
+{'subject': 'I', 'relation': 'enjoyed', 'object': 'it'}
+{'subject': 'Gunslingers', 'relation': 'is fun as', 'object': 'hell game'}
+{'subject': 'we', 'relation': 'only won', 'object': 'two matches'}
+{'subject': 'game', 'relation': 'gave', 'object': 'me'}
+{'subject': 'matchmaking system', 'relation': 'gave', 'object': 'us'}
+{'subject': 'we', 'relation': 'won', 'object': 'two matches'}
+{'subject': 'matchmaking system', 'relation': 'actually gave', 'object': 'us'}
+{'subject': 'I', 'relation': 'Would recommend', 'object': 'game'}
+{'subject': 'micro transactions', 'relation': 'were', 'object': 'removed'}
+{'subject': 'game', 'relation': 'maybe depending', 'object': 'they can deal'}
+{'subject': 'transactions', 'relation': 'were', 'object': 'removed'}
+{'subject': 'I', 'relation': 'Would recommend game currently to', 'object': 'my friends'}
+{'subject': 'game', 'relation': 'depending', 'object': 'they can deal with transactions'}
+{'subject': 'game', 'relation': 'depending', 'object': 'they can deal with micro transactions'}
+{'subject': 'I', 'relation': 'would recommend game', 'object': 'removed'}
+{'subject': 'they', 'relation': 'can deal with', 'object': 'micro transactions'}
+{'subject': 'game', 'relation': 'maybe depending', 'object': 'they can deal with transactions'}
+{'subject': 'I', 'relation': 'Would recommend game to', 'object': 'my friends'}
+{'subject': 'game', 'relation': 'maybe depending', 'object': 'they can deal with micro transactions'}
+{'subject': 'they', 'relation': 'can deal with', 'object': 'transactions'}
+{'subject': 'I', 'relation': 'Would recommend currently', 'object': 'game'}
+{'subject': 'game', 'relation': 'depending', 'object': 'they can deal'}
+{'subject': 'I', 'relation': 'would recommend', 'object': 'game'}
+{'subject': 'game', 'relation': 'being in', 'object': 'early access'}
+{'subject': 'they', 'relation': 'will respond in', 'object': 'Hopefully access'}
+{'subject': 'they', 'relation': 'will respond in', 'object': 'early access'}
+{'subject': 'game', 'relation': 'being in', 'object': 'access'}
+{'subject': 'game', 'relation': 'being in', 'object': 'Hopefully access'}
+{'subject': 'they', 'relation': 'remove', 'object': 'them'}
+{'subject': 'game', 'relation': 'being in', 'object': 'Hopefully early access'}
+{'subject': 'they', 'relation': 'will respond in', 'object': 'Hopefully early access'}
+{'subject': 'they', 'relation': 'will respond in', 'object': 'access'}
+{'subject': 'community', 'relation': 'to', 'object': 'gripes with them'}
+{'subject': "community 's gripes", 'relation': 'is with', 'object': 'them'}
+{'subject': 'they', 'relation': 'will respond to', 'object': "community 's gripes"}
+{'subject': 'they', 'relation': 'will respond to', 'object': "community 's gripes with them"}
+{'subject': 'game', 'relation': 'has', 'object': 'potential'}
+{'subject': 'driving', 'relation': 'feels', 'object': 'bit weighted'}
+{'subject': 'driving', 'relation': 'feels', 'object': 'weighted'}
+{'subject': 'handling', 'relation': 'feels', 'object': 'you are trying'}
+{'subject': 'you', 'relation': 'steer', 'object': 'bathtub'}
+{'subject': 'you', 'relation': 'steer bathtub with', 'object': 'wheels'}
+{'subject': 'The', 'relation': 'is', 'object': 'bad'}
+{'subject': 'you', 'relation': 'tapping', 'object': 'handbrake'}
+{'subject': 'much', 'relation': 'holding', 'object': 'handbrake'}
+{'subject': 'missions', 'relation': 'drive car to', 'object': 'finish'}
+{'subject': 'you', 'relation': 'do', 'object': 'nothing'}
+{'subject': 'you', 'relation': 'have experienced', 'object': 'pretty much all'}
+{'subject': 'you', 'relation': 'complete', 'object': 'missions'}
+{'subject': 'you', 'relation': 'just earn', 'object': 'new cars'}
+{'subject': 'you', 'relation': 'earn', 'object': 'new cars'}
+{'subject': 'you', 'relation': 'have experienced', 'object': 'much all'}
+{'subject': 'you', 'relation': 'earn', 'object': 'equipment upgrades'}
+{'subject': 'you', 'relation': 'just earn', 'object': 'equipment upgrades'}
+{'subject': 'you', 'relation': 'earn', 'object': 'cars'}
+{'subject': 'you', 'relation': 'have experienced', 'object': 'all'}
+{'subject': 'you', 'relation': 'playing', 'object': 'you'}
+{'subject': 'you', 'relation': 'just earn', 'object': 'cars'}
+{'subject': 'I', 'relation': 'feel like', 'object': 'this'}
+{'subject': 'Criterion Games I feel', 'relation': 'is', 'object': 'probably selling point'}
+{'subject': 'Criterion Games I feel', 'relation': 'is', 'object': 'probably selling point of game right'}
+{'subject': 'Criterion Games feel', 'relation': 'is', 'object': 'best selling point of game'}
+{'subject': 'Criterion Games feel', 'relation': 'is', 'object': 'probably selling point of game'}
+{'subject': 'I feel', 'relation': 'is', 'object': 'selling point'}
+{'subject': 'Criterion Games I feel', 'relation': 'is', 'object': 'best selling point'}
+{'subject': 'Criterion Games I feel', 'relation': 'is', 'object': 'selling point of game'}
+{'subject': 'Criterion Games I feel', 'relation': 'is', 'object': 'selling point'}
+{'subject': 'Criterion Games feel', 'relation': 'is', 'object': 'best selling point'}
+{'subject': 'Criterion Games I feel', 'relation': 'is', 'object': 'probably selling point of game'}
+{'subject': 'I feel', 'relation': 'is', 'object': 'probably selling point'}
+{'subject': 'Criterion Games', 'relation': 'feel like', 'object': 'this'}
+{'subject': 'I feel', 'relation': 'is', 'object': 'probably selling point of game'}
+{'subject': 'Criterion Games feel', 'relation': 'is', 'object': 'probably best selling point'}
+{'subject': 'I feel', 'relation': 'is', 'object': 'best selling point'}
+{'subject': 'Criterion Games feel', 'relation': 'is', 'object': 'selling point of game'}
+{'subject': 'I feel', 'relation': 'is', 'object': 'probably best selling point of game'}
+{'subject': 'Criterion Games feel', 'relation': 'is', 'object': 'selling point'}
+{'subject': 'Criterion Games I feel', 'relation': 'is', 'object': 'selling point of game right'}
+{'subject': 'Criterion Games I feel', 'relation': 'is', 'object': 'best selling point of game'}
+{'subject': 'Criterion Games I feel', 'relation': 'is', 'object': 'probably best selling point of game'}
+{'subject': 'I feel', 'relation': 'is', 'object': 'probably selling point of game right'}
+{'subject': 'I feel', 'relation': 'is', 'object': 'probably best selling point'}
+{'subject': 'Criterion Games feel', 'relation': 'is', 'object': 'probably selling point'}
+{'subject': 'I feel', 'relation': 'is', 'object': 'selling point of game'}
+{'subject': 'I feel', 'relation': 'is', 'object': 'selling point of game right'}
+{'subject': 'Criterion Games feel', 'relation': 'is', 'object': 'probably selling point of game right'}
+{'subject': 'Criterion Games I feel', 'relation': 'is', 'object': 'probably best selling point'}
+{'subject': 'I feel', 'relation': 'is', 'object': 'best selling point of game'}
+{'subject': 'Criterion Games feel', 'relation': 'is', 'object': 'selling point of game right'}
+{'subject': 'Criterion Games feel', 'relation': 'is', 'object': 'probably best selling point of game'}
+{'subject': 'you', 'relation': 'are like', 'object': 'me'}
+{'subject': 'you', 'relation': 'buying', 'object': 'game'}
+{'subject': 'you', 'relation': 'can consider like', 'object': 'me'}
+{'subject': 'cars crash', 'relation': 'is in', 'object': 'video games'}
+{'subject': 'I', 'relation': 'have experienced', 'object': 'half'}
+{'subject': 'nothing', 'relation': 'seeing', 'object': 'heap metal stop dead'}
+{'subject': 'I', 'relation': 'have probably experienced', 'object': 'half'}
+{'subject': 'nothing satisfying', 'relation': 'seeing', 'object': 'heap metal stop dead'}
+{'subject': 'I', 'relation': 'have probably experienced', 'object': 'half of it'}
+{'subject': 'nothing', 'relation': 'seeing', 'object': 'heap of metal stop dead'}
+{'subject': 'nothing satisfying', 'relation': 'seeing', 'object': 'heap of metal stop dead'}
+{'subject': 'I', 'relation': 'have experienced', 'object': 'half of it'}
+{'subject': 'I', 'relation': 'only found', 'object': 'Australia'}
+{'subject': 'I', 'relation': 'was', 'object': 'convinced'}
+{'subject': 'I', 'relation': 'found', 'object': 'one person'}
+{'subject': 'I', 'relation': 'found', 'object': 'Australia'}
+{'subject': 'he', 'relation': 'was', 'object': 'hacker'}
+{'subject': 'I', 'relation': 'only found', 'object': 'one person'}
+{'subject': 'I', 'relation': 'am from', 'object': 'Australia'}
+{'subject': 'he', 'relation': 'ignored', 'object': 'literally passed'}
+{'subject': 'he', 'relation': 'ignored', 'object': 'literally passed like ghost'}
+{'subject': 'he', 'relation': 'ignored', 'object': 'passed through them'}
+{'subject': 'he', 'relation': 'ignored', 'object': 'literally passed through them like ghost'}
+{'subject': 'he', 'relation': 'ignored', 'object': 'my roadblocks'}
+{'subject': 'he', 'relation': 'ignored', 'object': 'spike strips'}
+{'subject': 'he', 'relation': 'literally passed through', 'object': 'them'}
+{'subject': 'he', 'relation': 'ignored', 'object': 'literally passed through them'}
+{'subject': 'he', 'relation': 'literally passed like', 'object': 'ghost'}
+{'subject': 'he', 'relation': 'passed like', 'object': 'ghost'}
+{'subject': 'he', 'relation': 'ignored', 'object': 'passed like ghost'}
+{'subject': 'he', 'relation': 'ignored', 'object': 'strips'}
+{'subject': 'he', 'relation': 'ignored', 'object': 'passed'}
+{'subject': 'I', 'relation': 'played as', 'object': 'police'}
+{'subject': 'he', 'relation': 'passed through', 'object': 'them'}
+{'subject': 'he', 'relation': 'ignored', 'object': 'passed through them like ghost'}
+{'subject': 'it', 'relation': 'asks', 'object': 'you'}
+{'subject': 'it', 'relation': 'made', 'object': 'account'}
+{'subject': 'I', 'relation': 'put in', 'object': 'wrong email associated to account'}
+{'subject': 'I', 'relation': 'put in', 'object': 'email associated to account'}
+{'subject': 'I', 'relation': 'put in', 'object': 'email associated'}
+{'subject': 'it', 'relation': 'made', 'object': 'new account'}
+{'subject': 'it', 'relation': 'made', 'object': 'me'}
+{'subject': 'I', 'relation': 'put in', 'object': 'wrong email'}
+{'subject': 'I', 'relation': 'put in', 'object': 'email'}
+{'subject': 'it', 'relation': 'made', 'object': 'entirely new account'}
+{'subject': 'I', 'relation': 'put in', 'object': 'wrong email associated'}
+{'subject': 'Me', 'relation': 'being', 'object': 'stupid'}
+{'subject': 'I', 'relation': 'want at_time', 'object': 'time'}
+{'subject': 'it', 'relation': 'asks', 'object': 'me'}
+{'subject': 'I', 'relation': 'play', 'object': 'game'}
+{'subject': 'I', 'relation': 'So want at_time', 'object': 'time'}
+{'subject': 'it', 'relation': 'always asks', 'object': 'me'}
+{'subject': 'you', 'relation': 'use', 'object': 'webcam'}
+{'subject': 'they', 'relation': 'breach', 'object': 'your privacy'}
+{'subject': 'you', 'relation': 'use', 'object': 'microphone'}
+{'subject': 'it', 'relation': 'FORCES', 'object': 'you'}
+{'subject': 'they', 'relation': 'basically breach', 'object': 'your privacy'}
+{'subject': 'them', 'relation': 'be', 'object': 'alt'}
+{'subject': 'you', 'relation': 'dont', 'object': 'want'}
+{'subject': 'them', 'relation': 'be used.I alt out of', 'object': 'games alot'}
+{'subject': 'them', 'relation': 'be alt out of', 'object': 'games alot'}
+{'subject': 'you', 'relation': 'want', 'object': 'alt'}
+{'subject': 'my fps', 'relation': 'drops to', 'object': 'about 10-20 fps'}
+{'subject': 'you', 'relation': 'want', 'object': 'used.I alt'}
+{'subject': 'you', 'relation': 'want', 'object': 'them'}
+{'subject': 'them', 'relation': 'be', 'object': 'used.I alt'}
+{'subject': 'my fps', 'relation': 'drops significantly to', 'object': 'about 10-20 fps'}
+{'subject': 'I', 'relation': 'alt intro scene in', 'object': 'part of game'}
+{'subject': 'I', 'relation': 'play', 'object': 'it'}
+{'subject': 'I', 'relation': 'play once', 'object': 'it'}
+{'subject': 'game', 'relation': 'gets', 'object': 'you play'}
+{'subject': 'you', 'relation': 'play for', 'object': 'long'}
+{'subject': 'game', 'relation': 'gets', 'object': 'really stale'}
+{'subject': 'game', 'relation': 'gets', 'object': 'stale'}
+{'subject': 'you', 'relation': 'play for', 'object': 'too long'}
+{'subject': 'one', 'relation': 'was', 'object': 'Payday 2'}
+{'subject': 'I', 'relation': 'decided to', 'object': 'uninstall.The microtransactions'}
+{'subject': 'they', 'relation': 'now are holding down', 'object': 'game'}
+{'subject': 'I', 'relation': 'decided to', 'object': 'microtransactions'}
+{'subject': 'they', 'relation': 'are holding down', 'object': 'game'}
+{'subject': 'I', 'relation': 'messing around as', 'object': 'result of that'}
+{'subject': 'I', 'relation': "'ve sunk", 'object': '257 hours'}
+{'subject': 'I', 'relation': 'messing around with', 'object': 'mates'}
+{'subject': 'I', 'relation': 'messing around as', 'object': 'result'}
+{'subject': 'we', 'relation': 'used to', 'object': 'trust'}
+{'subject': 'game', 'relation': 'have', 'object': 'bit'}
+{'subject': 'Dont', 'relation': 'buy', 'object': 'it'}
+{'subject': 'game', 'relation': 'have', 'object': 'little bit'}
+{'subject': 'Honest Game Trailer', 'relation': 'is', 'object': 'correct'}
+{'subject': 'Honest Game Trailer', 'relation': 'is', 'object': 'actually correct'}
+{'subject': 'Kinda', 'relation': 'want', 'object': 'F2Pand'}
+{'subject': 'Kinda', 'relation': 'want', 'object': 'free F2Pand like cod GAME'}
+{'subject': 'Kinda', 'relation': 'want', 'object': 'free F2Pand like cod HORRIBLE GAME'}
+{'subject': 'Kinda', 'relation': 'want', 'object': 'new F2Pand like cod GAME'}
+{'subject': 'Kinda', 'relation': 'want', 'object': 'new free F2Pand like cod GAME'}
+{'subject': 'Kinda', 'relation': 'want', 'object': 'new free F2Pand'}
+{'subject': 'Kinda', 'relation': 'want', 'object': 'new F2Pand like cod HORRIBLE GAME'}
+{'subject': 'Kinda', 'relation': 'want', 'object': 'new free F2Pand like cod HORRIBLE GAME'}
+{'subject': 'Kinda', 'relation': 'want', 'object': 'F2Pand like cod GAME'}
+{'subject': 'Kinda', 'relation': 'want', 'object': 'F2Pand like cod HORRIBLE GAME'}
+{'subject': 'Kinda', 'relation': 'want', 'object': 'free F2Pand'}
+{'subject': 'Kinda', 'relation': 'want', 'object': 'new F2Pand'}
+{'subject': 'I', 'relation': 'punch', 'object': '♥ devs'}
+{'subject': 'I', 'relation': 'feel', 'object': 'sorry'}
+{'subject': 'I', 'relation': 'feel', 'object': 'sorry for person'}
+{'subject': 'It', 'relation': 'get on', 'object': 'server'}
+{'subject': 'It', 'relation': 'takes', 'object': 'ages'}
+{'subject': 'It', 'relation': 'takes ages', 'object': 'get'}
+{'subject': 'It', 'relation': 'takes ages', 'object': 'get on server'}
+{'subject': 'it', 'relation': 'takes time', 'object': 'get'}
+{'subject': 'it', 'relation': 'takes time', 'object': 'get on server'}
+{'subject': 'it', 'relation': 'even get on', 'object': 'server'}
+{'subject': 'it', 'relation': 'takes time', 'object': 'even get'}
+{'subject': 'it', 'relation': 'get on', 'object': 'server'}
+{'subject': 'it', 'relation': 'takes time', 'object': 'even get on server'}
+{'subject': 'it', 'relation': 'takes', 'object': 'time'}
+{'subject': 'fps', 'relation': 'is with', 'object': 'settings'}
+{'subject': 'I', 'relation': 'recieved', 'object': 'freezing'}
+{'subject': 'I', 'relation': 'recieved', 'object': 'constant freezing'}
+{'subject': 'you computer', 'relation': 'is', 'object': 'So good'}
+{'subject': 'you computer', 'relation': 'is', 'object': 'good'}
+{'subject': 'Eu tinha', 'relation': 'uns', 'object': 'você tem que parar imediatamente'}
+{'subject': '6 anos', 'relation': 'quando', 'object': 'ouvi minha mãe dizer'}
+{'subject': 'anos', 'relation': 'quando', 'object': 'ouvi minha mãe dizer'}
+{'subject': 'Eu tinha', 'relation': 'uns', 'object': 'Se você quiser ver seus netos se formando'}
+{'subject': 'Foi muito triste', 'relation': 'realmente', 'object': 'me destruiu por dentro'}
+{'subject': 'Foi muito triste', 'relation': 'realmente', 'object': 'me'}
+{'subject': 'me', 'relation': 'q', 'object': 'punheta é tensa nesse jogo compro instalo'}
+{'subject': 'me', 'relation': 'q', 'object': 'punheta é tensa nesse jogo'}
+{'subject': 'PAY 2 WIN', 'relation': 'updated for', 'object': 'years'}
+{'subject': 'I', 'relation': 'can open up game After', 'object': 'play session'}
+{'subject': 'I', 'relation': 'bumped', 'object': 'video setting to 1080'}
+{'subject': 'I', 'relation': 'bumped', 'object': 'video'}
+{'subject': 'I', 'relation': 'can open up', 'object': 'game'}
+{'subject': 'I', 'relation': 'bumped', 'object': 'video setting'}
+{'subject': 'I', 'relation': 'can open up game After', 'object': 'single play session'}
+{'subject': 'I', 'relation': 'have', 'object': 'R9 380'}
+{'subject': 'they', 'relation': 'actually put effort', 'object': 'making'}
+{'subject': 'modern computers', 'relation': 'run', 'object': 'games.Note'}
+{'subject': 'I', 'relation': "'m taking", 'object': '♥'}
+{'subject': 'I', 'relation': 'have expirienced as', 'object': 'others'}
+{'subject': 'they', 'relation': 'put', 'object': 'effort'}
+{'subject': 'modern computers', 'relation': 'run', 'object': 'old games.Note'}
+{'subject': 'modern computers', 'relation': 'be', 'object': 'able'}
+{'subject': 'computers', 'relation': 'be', 'object': 'able'}
+{'subject': 'they', 'relation': 'put effort', 'object': 'making'}
+{'subject': 'I', 'relation': 'have expirienced as', 'object': 'many others'}
+{'subject': 'they', 'relation': 'actually put', 'object': 'effort'}
+{'subject': 'computers', 'relation': 'run', 'object': 'old games.Note'}
+{'subject': 'computers', 'relation': 'run', 'object': 'games.Note'}
+{'subject': 'I', 'relation': 'put up with', 'object': 'moster pay-to-win players'}
+{'subject': 'you', 'relation': 'do', 'object': 'good'}
+{'subject': 'I', 'relation': 'start', 'object': 'saying'}
+{'subject': 'I', 'relation': 'recommend', 'object': 'Game'}
+{'subject': 'i', 'relation': 'purchased', 'object': 'it'}
+{'subject': 'I', 'relation': 'like', 'object': 'game'}
+{'subject': 'people', 'relation': 'avoid', 'object': 'it'}
+{'subject': 'I', 'relation': 'like', 'object': 'game'}
+{'subject': 'Game', 'relation': 'Keeps', 'object': 'Saying'}
+{'subject': 'content', 'relation': 'is', 'object': 'released every often'}
+{'subject': 'new content', 'relation': 'is', 'object': 'released so often'}
+{'subject': 'new content', 'relation': 'is', 'object': 'released often'}
+{'subject': 'new content', 'relation': 'is', 'object': 'released every often'}
+{'subject': 'new content', 'relation': 'is', 'object': 'released every so often'}
+{'subject': 'content', 'relation': 'is', 'object': 'released'}
+{'subject': 'new content', 'relation': 'is', 'object': 'released'}
+{'subject': 'content', 'relation': 'is', 'object': 'released often'}
+{'subject': 'content', 'relation': 'is', 'object': 'released every so often'}
+{'subject': 'content', 'relation': 'is', 'object': 'released so often'}
+{'subject': 'you', 'relation': 'can buy', 'object': '♥'}
+{'subject': 'you', 'relation': 'have', 'object': 'money'}
+{'subject': 'you', 'relation': 'reply from', 'object': 'support'}
+{'subject': 'they', 'relation': 'lag out', 'object': 'you'}
+{'subject': 'you', 'relation': "'ve got", 'object': 'gun'}
+{'subject': 'you', 'relation': 'get', 'object': 'gun'}
+{'subject': 'you', 'relation': 'get', 'object': 'yeah sweet'}
+{'subject': 'ammo', 'relation': 'spend', 'object': 'longer looking'}
+{'subject': 'you', 'relation': "'ve got gun at_time", 'object': 'now time spend'}
+{'subject': 'gun', 'relation': 'now time', 'object': 'spend'}
+{'subject': 'you', 'relation': "'ve got gun at_time", 'object': 'time spend'}
+{'subject': 'ammo', 'relation': 'spend', 'object': 'looking'}
+{'subject': 'ammo', 'relation': 'spend', 'object': 'even longer looking'}
+{'subject': 'gun', 'relation': 'time', 'object': 'spend'}
+{'subject': 'you', 'relation': 'get', 'object': 'sweet'}
+{'subject': 'you', 'relation': 'get to', 'object': 'hunt elk'}
+{'subject': 'you', 'relation': 'only get to', 'object': 'hunt elk'}
+{'subject': 'We', 'relation': 'take', 'object': 'it'}
+{'subject': 'high end computer wont', 'relation': 'properly play', 'object': 'game'}
+{'subject': 'end computer wont', 'relation': 'play', 'object': 'game'}
+{'subject': 'game', 'relation': 'survive', 'object': '1 frame'}
+{'subject': 'game', 'relation': 'even survive', 'object': '1 frame per second'}
+{'subject': 'high end computer wont', 'relation': 'be', 'object': 'able'}
+{'subject': 'end computer wont', 'relation': 'be', 'object': 'able'}
+{'subject': 'game', 'relation': 'survive', 'object': '1 frame per second'}
+{'subject': 'high end computer wont', 'relation': 'play', 'object': 'game'}
+{'subject': 'end computer wont', 'relation': 'properly play', 'object': 'game'}
+{'subject': 'game', 'relation': 'even survive', 'object': '1 frame'}
+{'subject': 'I', 'relation': 'brought', 'object': 'game'}
+{'subject': 'i cant', 'relation': 'only make', 'object': 'it'}
+{'subject': 'i cant', 'relation': 'play', 'object': 'game'}
+{'subject': 'i cant', 'relation': 'make', 'object': 'it'}
+{'subject': 'dont', 'relation': 'buy', 'object': 'it'}
+{'subject': 'game', 'relation': 'is', 'object': 'joke'}
+{'subject': 'confusing', 'relation': 'using', 'object': 'videos'}
+{'subject': 'bloody confusing', 'relation': 'using', 'object': 'videos'}
+{'subject': 'implying video games', 'relation': 'are fun', 'object': 'trash laggy Needs mutiplayer Piece'}
+{'subject': 'achei o jogo em si Players', 'relation': 'ruin', 'object': 'game game'}
+{'subject': 'video games', 'relation': 'are fun', 'object': 'trash laggy Needs mutiplayer Piece'}
+{'subject': 'implying video games', 'relation': 'are fun', 'object': 'trash laggy Needs mutiplayer Piece of Crap deveriam colocar mais opções para diminuir os graficos'}
+{'subject': '0/1 combat', 'relation': 'is', 'object': 'trash too laggy Needs mutiplayer Piece'}
+{'subject': 'video games', 'relation': 'are', 'object': 'fun'}
+{'subject': '0/1 combat', 'relation': 'is', 'object': 'trash too laggy Needs mutiplayer Piece of Crap deveriam colocar mais opções para diminuir os graficos'}
+{'subject': 'video games', 'relation': 'are fun', 'object': 'trash laggy Needs mutiplayer Piece of Crap deveriam colocar mais opções para diminuir os graficos'}
+{'subject': 'implying video games', 'relation': 'are', 'object': 'fun'}
+{'subject': 'combat', 'relation': 'is', 'object': 'trash laggy Needs mutiplayer Piece'}
+{'subject': 'implying video games', 'relation': 'are fun', 'object': 'trash Needs mutiplayer Piece'}
+{'subject': 'combat', 'relation': 'is', 'object': 'trash Needs mutiplayer Piece of Crap deveriam colocar mais opções para diminuir os graficos'}
+{'subject': '0/1 combat', 'relation': 'is', 'object': 'trash laggy Needs mutiplayer Piece'}
+{'subject': '0/1 combat', 'relation': 'is', 'object': 'trash Needs mutiplayer Piece'}
+{'subject': 'video games', 'relation': 'are fun', 'object': 'trash Needs mutiplayer Piece of Crap deveriam colocar mais opções para diminuir os graficos'}
+{'subject': 'achei o jogo em si legal Players', 'relation': 'ruin', 'object': 'game game'}
+{'subject': 'video games', 'relation': 'are fun', 'object': 'trash Needs mutiplayer Piece'}
+{'subject': 'implying video games', 'relation': 'are fun', 'object': 'trash too laggy Needs mutiplayer Piece'}
+{'subject': 'combat', 'relation': 'is', 'object': 'trash laggy Needs mutiplayer Piece of Crap deveriam colocar mais opções para diminuir os graficos'}
+{'subject': 'video games', 'relation': 'are fun', 'object': 'trash too laggy Needs mutiplayer Piece'}
+{'subject': 'video games', 'relation': 'are fun', 'object': 'trash too laggy Needs mutiplayer Piece of Crap deveriam colocar mais opções para diminuir os graficos'}
+{'subject': 'combat', 'relation': 'is', 'object': 'trash too laggy Needs mutiplayer Piece of Crap deveriam colocar mais opções para diminuir os graficos'}
+{'subject': 'implying video games', 'relation': 'are fun', 'object': 'trash too laggy Needs mutiplayer Piece of Crap deveriam colocar mais opções para diminuir os graficos'}
+{'subject': 'combat', 'relation': 'is', 'object': 'trash Needs mutiplayer Piece'}
+{'subject': '0/1 combat', 'relation': 'is', 'object': 'trash Needs mutiplayer Piece of Crap deveriam colocar mais opções para diminuir os graficos'}
+{'subject': '0/1 combat', 'relation': 'is', 'object': 'trash laggy Needs mutiplayer Piece of Crap deveriam colocar mais opções para diminuir os graficos'}
+{'subject': 'combat', 'relation': 'is', 'object': 'trash too laggy Needs mutiplayer Piece'}
+{'subject': 'implying video games', 'relation': 'are fun', 'object': 'trash Needs mutiplayer Piece of Crap deveriam colocar mais opções para diminuir os graficos'}
+{'subject': 'game', 'relation': 'was one', 'object': 'my favorites'}
+{'subject': 'game', 'relation': 'was one of', 'object': 'my favorites'}
+{'subject': 'it', 'relation': 'touts in', 'object': 'opening paragraph'}
+{'subject': 'it', 'relation': 'means For', 'object': 'kiddies new'}
+{'subject': 'it', 'relation': 'means For', 'object': 'kiddies'}
+{'subject': 'it', 'relation': 'means For', 'object': 'kiddies at home new'}
+{'subject': 'enviornments', 'relation': 'randomised within', 'object': 'programmed constraints.Now'}
+{'subject': 'it', 'relation': 'feels', 'object': 'cool'}
+{'subject': 'enviornments', 'relation': 'randomised within', 'object': 'constraints.Now'}
+{'subject': 'enviornments', 'relation': 'look', 'object': 'great'}
+{'subject': 'it', 'relation': 'means For', 'object': 'kiddies at home'}
+{'subject': 'you', 'relation': "'re fighting", 'object': 'your way'}
+{'subject': 'placement', 'relation': 'is', 'object': 'impossible'}
+{'subject': 'placement', 'relation': 'is impossible in', 'object': 'game'}
+{'subject': 'placement', 'relation': 'is impossible in', 'object': 'game like this'}
+{'subject': 'clever placement', 'relation': 'is impossible in', 'object': 'game like this'}
+{'subject': 'clever placement', 'relation': 'is impossible in', 'object': 'game'}
+{'subject': 'clever placement', 'relation': 'is', 'object': 'impossible'}
+{'subject': 'Souls enemies', 'relation': 'are', 'object': 'placed'}
+{'subject': 'I', 'relation': "'m going", 'object': 'resort'}
+{'subject': 'I', 'relation': "'m going", 'object': 'resort to Dark Souls comparison'}
+{'subject': 'you', 'relation': 'take', 'object': 'r'}
+{'subject': 'Souls enemies', 'relation': 'are placed in', 'object': 'genius fashion'}
+{'subject': 'Dark Souls enemies', 'relation': 'are', 'object': 'placed'}
+{'subject': 'I', 'relation': 'resort to', 'object': 'Dark Souls comparison'}
+{'subject': 'I', 'relation': 'resort to', 'object': 'Souls comparison'}
+{'subject': 'Dark Souls enemies', 'relation': 'are placed in', 'object': 'genius fashion'}
+{'subject': 'I', 'relation': "'m going", 'object': 'resort to Souls comparison'}
