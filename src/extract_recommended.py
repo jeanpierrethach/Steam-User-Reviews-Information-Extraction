@@ -9,7 +9,7 @@ def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--data_path', type=str,
                         default='../data/australian_user_reviews.json',
-                        help='Directory path to the data. (required) (default: %(default)s)')
+                        help='Directory path to the data. (default: %(default)s)')
     parser.add_argument('--output_dir', type=str,
                         default='reviews',
                         help='Directory path to the reviews. (default: %(default)s)')
